@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/com.android.settings"
+    <PreferenceScreen settings:title="@string/pref_title_mms_read_reports" settings:key="pref_key_mms_read_reports" settings:summary="@string/pref_summary_mms_read_reports" settings:defaultValue="false" />
+    <PreferenceScreen settings:title="@string/pref_title_mms_allow_return_read_reports" settings:key="pref_key_mms_allow_return_read_reports" settings:summary="@string/pref_summary_allow_return_mms_read_reports" settings:defaultValue="false" />
+    <Preference settings:title="@string/pref_title_key_message_capacity" settings:key="pref_key_message_capacity" />
+</PreferenceScreen>

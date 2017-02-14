@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>Nincs téma</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Mindig</item>
+        <item>Csak csendes üzemmódban</item>
+        <item>Soha</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 másodperc</item>
+        <item>2 másodperc</item>
+        <item>3 másodperc</item>
+        <item>4 másodperc</item>
+        <item>5 másodperc</item>
+        <item>6 másodperc</item>
+        <item>7 másodperc</item>
+        <item>8 másodperc</item>
+        <item>9 másodperc</item>
+        <item>10 másodperc</item>
+        <item>Egyéb</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Törli az üzenetet?</item>
+        <item>Törli a kiválasztott elemeket?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>Jan.</item>
+        <item>Febr.</item>
+        <item>Már.</item>
+        <item>Ápr.</item>
+        <item>Május</item>
+        <item>Jún.</item>
+        <item>Júl.</item>
+        <item>Aug.</item>
+        <item>Szept.</item>
+        <item>Okt.</item>
+        <item>Nov.</item>
+        <item>Dec.</item>
+    </array>
+    <array name="phrases">
+        <item>Jelenleg elfoglalt vagyok, később keresem.</item>
+        <item>Kérjem, hívjon később. Köszönöm.</item>
+        <item>Rendben, köszönöm.</item>
+        <item>Dugóban vagyok, kicsit kések.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Szabálytalan Weibo-felhasználó</item>
+        <item>Korlátozott hozzáférés</item>
+        <item>A felhasználó nem létezik</item>
+        <item>Üres tartalom. Küldés sikertelen</item>
+        <item>Ne adjon meg 300-nál több karaktert</item>
+        <item>Vonatkozó szabályok megsértése, érvénytelen művelet</item>
+        <item>Ugyanazt a tartalmat 10 percen belül nem posztolhatja</item>
+        <item>A megadott URL nem biztonságos</item>
+        <item>Az érvényben lévő törvények és előírások szerint ez a tartalom nem posztolható</item>
+        <item>Ez a funkció jelenleg nem elérhető</item>
+        <item>A felhasználói adatvédelmi beállítások miatt ennek a felhasználónak nem küldhető személyes üzenet</item>
+        <item>Váratlan bejelentkezési állapot</item>
+        <item>A fiók zárolva</item>
+        <item>A tartalom ideiglenesen nem tekinthető meg</item>
+        <item>Nem küldhet személyes üzeneteket azoknak a felhasználóknak, akik nem követik Önt</item>
+        <item>Szabálytalan személyes üzenet</item>
+        <item>A személyes üzenet nem létezik</item>
+        <item>Nem küldheti el ugyanazt a személyes üzenetet újra</item>
+        <item>Szabálytalan személyes üzenetküldési azonosító</item>
+        <item>Túl sok személyes üzenetet küldött</item>
+        <item>A személyes üzenet sérti a vonatkozó szabályokat, blokkolás alá kerül</item>
+        <item>Az érvényben lévő törvények és előírások szerint nem küldhet személyes üzenetet</item>
+        <item>A jogkivonat lejárt</item>
+        <item>A felhasználói adatvédelmi beállítások miatt ennek a felhasználónak nem küldhető személyes üzenet</item>
+        <item>A küldés már megtörtént. Egyszer elegendő elküldeni.</item>
+    </array>
+</resources>

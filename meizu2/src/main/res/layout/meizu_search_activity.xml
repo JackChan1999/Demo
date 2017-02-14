@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res-auto">
+    <com.meizu.common.widget.EmptyView meizu:paddingBottom="0dp" meizu:mcTitle="@string/no_search_results" meizu:mcTitleTextAppearance="?attr/empty_view_title_style" style="@style/EmptyViewStyle" />
+    <FrameLayout meizu:id="@bp$d/list" meizu:layout_width="match_parent" meizu:layout_height="match_parent">
+        <ListView meizu:id="0x102000a" meizu:paddingLeft="@dimen/mz_list_item_padding_left" meizu:paddingRight="@dimen/mz_list_item_padding_right" meizu:fadingEdge="UNKNOWN_DATA_0x0" meizu:clipToPadding="false" meizu:layout_width="match_parent" meizu:layout_height="match_parent" meizu:drawSelectorOnTop="false" meizu:divider="0x0" />
+    </FrameLayout>
+    <LinearLayout meizu:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" meizu:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" meizu:orientation="horizontal" meizu:id="@id/searching" meizu:paddingTop="@dimen/sum_actionbar_height_statusbar_height" meizu:focusable="false" meizu:visibility="gone" meizu:layout_width="wrap_content" meizu:layout_height="wrap_content">
+        <com.meizu.common.widget.LoadingView meizu:layout_width="UNKNOWN_DATA_0x7f0d027e" meizu:layout_height="UNKNOWN_DATA_0x7f0d027e" meizu:mcLoadingRadius="@dimen/loadingview_small_radius" meizu:mcRingWidth="@dimen/loadingview_small_ringwidth" />
+        <TextView meizu:textSize="@dimen/mms_search_progress_text_size" meizu:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" meizu:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" meizu:paddingLeft="@dimen/loadingview_small_width" meizu:layout_width="wrap_content" meizu:layout_height="wrap_content" meizu:text="@string/searching" />
+    </LinearLayout>
+</merge>

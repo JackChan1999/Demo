@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res-auto">
+    <item app:icon="@drawable/mz_titlebar_ic_search_dark" app:id="@id/action_search" app:title="@string/menu_search" app:showAsAction="always" />
+</menu>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>Fără subiect</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Întotdeauna</item>
+        <item>Numai când profilul este Silenţios</item>
+        <item>Niciodată</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 secundă</item>
+        <item>2 secunde</item>
+        <item>3 secunde</item>
+        <item>4 secunde</item>
+        <item>5 secunde</item>
+        <item>6 secunde</item>
+        <item>7 secunde</item>
+        <item>8 secunde</item>
+        <item>9 secunde</item>
+        <item>10 secunde</item>
+        <item>Altele</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Ştergeţi mesajul?</item>
+        <item>Ştergeţi articolele selectate?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Mai</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Noi</item>
+        <item>Dec</item>
+    </array>
+    <array name="phrases">
+        <item>Sunt ocupat acum. Vă voi contacta mai târziu</item>
+        <item>Sunt ocupat acum, vă contactez mai târziu.</item>
+        <item>Sunaţi-mă mai târziu, mulţumesc.</item>
+        <item>Blocaj în trafic. Voi întârzia puţin.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Utilizator Weibo ilegal</item>
+        <item>Acces restricţionat</item>
+        <item>Utilizator inexistent</item>
+        <item>Lipsă conţinut. Trimiterea a eşuat</item>
+        <item>Nu introduceţi mai mult de 300 de caractere</item>
+        <item>Au fost încălcate reguli importante. Operaţiune invalidă</item>
+        <item>Nu se poate posta din nou acelaşi conţinut în decurs de 10 minute</item>
+        <item>Adresa URL pe care aţi introdus-o nu pare sigură</item>
+        <item>Conform legilor şi reglementărilor aplicabile, acest conţinut nu poate fi afişat</item>
+        <item>Această funcţie este indisponibilă momentan</item>
+        <item>Mesajul privat nu poate fi trimis către acest utilizator datorită setărilor de confidenţialitate ale utilizatorului</item>
+        <item>Stare de conectare neaşteptată</item>
+        <item>Contul este blocat</item>
+        <item>Acest conţinut nu poate fi vizualizat momentan</item>
+        <item>Nu puteţi trimite mesaje private utilizatorilor care nu vă urmăresc</item>
+        <item>Mesaj privat ilegal</item>
+        <item>Mesajul privat nu există</item>
+        <item>Nu puteţi trimite din nou acelaşi mesaj privat</item>
+        <item>ID ilegal mesaj privat</item>
+        <item>Au fost trimise prea multe mesaje private</item>
+        <item>Acest mesaj privat violează reguli importante şi a fost blocat</item>
+        <item>Conform legilor şi reglementărilor aplicabile, nu puteţi trimite niciun mesaj privat</item>
+        <item>în conformitate cu reglementările și politicile relevante, nu puteţi trimite mesaje directe acum.</item>
+        <item>Nu puteţi trimite mesaje private acestui utilizator datorită setărilor utilizatorului</item>
+        <item>L-aţi trimis deja. O dată este suficient</item>
+    </array>
+</resources>

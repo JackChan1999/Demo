@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.mms.changeslot.ChangeSlotItem xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:orientation="horizontal" android:background="@drawable/change_slot_item_selector" android:layout_width="UNKNOWN_DATA_0x6f01" android:layout_height="UNKNOWN_DATA_0x2d01">
+    <ImageView android:id="@id/sim_icon_iv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="6dp" />
+    <TextView android:textSize="14sp" android:textColor="#000000" android:ellipsize="end" android:id="@id/sim_name_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxEms="4" android:singleLine="true" />
+</com.android.mms.changeslot.ChangeSlotItem>

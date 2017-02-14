@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res-auto">
+    <item app:icon="@drawable/mz_titlebar_ic_search_dark" app:id="@id/action_search" app:title="@string/menu_search" app:showAsAction="always|withText" app:showAsAction="always|withText" />
+    <item app:icon="@drawable/ic_sb_new_selector" app:id="@id/action_compose_new" app:title="@string/new_message" app:alphabeticShortcut="c" app:showAsAction="always|withText" app:showAsAction="always|withText" />
+    <item app:icon="@drawable/mz_ic_sb_more" app:id="@id/menu_more" app:title="@string/more_item_label" app:showAsAction="always|withText" app:showAsAction="always|withText">
+        <menu>
+            <item app:id="@id/action_settings" app:orderInCategory="200" app:title="@string/menu_preferences" app:showAsAction="UNKNOWN_DATA_0x0" />
+            <item app:id="@id/action_favorite" app:title="@string/favorite_page_label" app:showAsAction="UNKNOWN_DATA_0x0" />
+            <item app:id="@id/action_debug_dump" app:orderInCategory="200" app:title="@string/menu_debug_dump" app:showAsAction="UNKNOWN_DATA_0x0" />
+        </menu> />
+</menu>

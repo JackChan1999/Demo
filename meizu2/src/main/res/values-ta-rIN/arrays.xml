@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>பொருள் இல்லை</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>எப்போதும்</item>
+        <item>அமைதி நிலையில் இருக்கும்போது மட்டும்</item>
+        <item>எப்போதும் வேண்டாம்</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 வினாடி</item>
+        <item>2 வினாடிகள்</item>
+        <item>3 வினாடிகள்</item>
+        <item>4 வினாடிகள்</item>
+        <item>5 வினாடிகள்</item>
+        <item>6 வினாடிகள்</item>
+        <item>7 வினாடிகள்</item>
+        <item>8 வினாடிகள்</item>
+        <item>9 வினாடிகள்</item>
+        <item>10 வினாடிகள்</item>
+        <item>பிற</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>செய்தியை நீக்கவா?</item>
+        <item>தேர்ந்தெடுக்கப்பட்ட விஷயத்தை(விஷயங்களை) அழிக்கலாமா?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>ஜனவரி</item>
+        <item>பிப்ரவரி</item>
+        <item>மார்ச்</item>
+        <item>ஏப்ரல்</item>
+        <item>மே</item>
+        <item>ஜூன்</item>
+        <item>ஜூலை</item>
+        <item>ஆகஸ்ட்</item>
+        <item>செப்டம்பர்</item>
+        <item>அக்டோபர்</item>
+        <item>நவம்பர்</item>
+        <item>டிசம்பர்</item>
+    </array>
+    <array name="phrases">
+        <item>நான் இப்போது வேலையாக உள்ளேன், பிறகு அழைக்கிறேன்.</item>
+        <item>பிறகு அழைக்கவும், நன்றி.</item>
+        <item>எல்லாம் சரி, நன்றி.</item>
+        <item>போக்குவரத்து நெரிசல், நான் வருவதற்கு கொஞ்சம் தாமதமாகும்.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>சட்டவிரோத Weibo பயனர்</item>
+        <item>கட்டுப்படுத்தப்பட்ட அணுகல்</item>
+        <item>பயனர் இல்லை</item>
+        <item>காலி உள்ளடக்கம். அனுப்புதல் தோல்வியடைந்தது</item>
+        <item>300க்கு அதிகமான எழுத்துகளை உள்ளிடக்கூடாது</item>
+        <item>தொடர்புடைய விதிகளை மீறுகிறது, தவறான செயல்பாடு</item>
+        <item>ஒரே உள்ளடக்கத்தை 10 நிமிடங்களுக்குள் மீண்டும் இடுகையிட முடியாது</item>
+        <item>நீங்கள் உள்ளிட்ட URL பாதுகாப்பற்றது போலத் தெரிகிறது</item>
+        <item>சட்டம் மற்றும் விதிமுறைகளுக்கு இணங்க, இந்த உள்ளடக்கத்தை பதிவு செய்ய முடியாது</item>
+        <item>இந்த அம்சம் தற்போது கிடைக்கவில்லை</item>
+        <item>பயனரின் தனியுரிமை அமைப்புகள் காரணமாக தனிப்பட்ட செய்திகளை இந்தப் பயனருக்கு அனுப்ப முடியாது</item>
+        <item>எதிர்பாராத உள்நுழைவு நிலை</item>
+        <item>கணக்குப் பூட்டப்பட்டுள்ளது</item>
+        <item>இந்த உள்ளடக்கம் பார்வையிடுவதற்கு தற்காலிகமாகக் கிடைக்கவில்லை</item>
+        <item>உங்களைப் பின்தொடராத பயனர்களுக்கு நீங்கள் தனிப்பட்ட செய்திகளை அனுப்ப முடியாது</item>
+        <item>சட்டவிரோத தனிப்பட்ட செய்தி</item>
+        <item>தனிப்பட்ட செய்தி இல்லை</item>
+        <item>நீங்கள் ஒரே தனிப்பட்ட செய்தியை மீண்டும் அனுப்ப முடியாது</item>
+        <item>சட்டவிரோதமான தனிப்பட்ட செய்தியிடல் ID</item>
+        <item>நிறைய தனிப்பட்ட செய்திகள் அனுப்பபட்டிருக்கின்றன</item>
+        <item>இந்த தனிப்பட்டது தொடர்புடையை விதிகளை மீறுவதால், தடை செய்யப்பட்டது</item>
+        <item>சட்டம் மற்றும் விதிமுறைகளுக்கு இணங்க, தனிப்பட்ட செய்திகளை உங்களால் அனுப்ப முடியாது</item>
+        <item>டோக்கன் காலாவதியானது</item>
+        <item>பயனரின் அமைப்புகள் காரணமாக நீங்கள் தனிப்பட்ட செய்திகளை இந்தப் பயனருக்கு அனுப்ப முடியாது</item>
+        <item>நீங்கள் ஏற்கனவே இதை அனுப்பிவிட்டீர்கள். ஒருமுறை போதும்</item>
+    </array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Limpar %1$s conversação</item>
+        <item quantity="one">Limpar %1$s conversação</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+Outra(s) %1$s mensagem(ns)</item>
+        <item quantity="one">+Outra(s) %1$s mensagem(ns)</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s contactos</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s result for %2$s</item>
+        <item quantity="one">%1$s result for %2$s</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s s</item>
+        <item quantity="one">%s s</item>
+        <item quantity="few">%s s</item>
+    </plurals>
+</resources>

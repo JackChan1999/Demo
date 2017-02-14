@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@id/guide_parent" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:id="@id/guide_bg_vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <View android:id="@id/guide_bg_left" android:background="@drawable/mc_guide_left" android:layout_width="UNKNOWN_DATA_0x3001" android:layout_height="match_parent" />
+        <View android:id="@id/guide_bg_middle" android:background="@drawable/mc_guide_middle" android:layout_width="match_parent" android:layout_height="match_parent" />
+        <View android:id="@id/guide_bg_right" android:background="@drawable/mc_guide_right" android:layout_width="UNKNOWN_DATA_0x3001" android:layout_height="match_parent" />
+    </LinearLayout>
+    <LinearLayout android:gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:orientation="horizontal" android:id="@id/guide_content" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/mc_guide_popup_text_size" android:textColor="#ffffff" android:id="@id/guide_message" android:paddingLeft="13dp" android:paddingTop="@dimen/mc_guide_popup_text_padding_top" android:paddingBottom="@dimen/mc_guide_popup_text_padding_bottom" android:layout_width="UNKNOWN_DATA_0x1" android:layout_height="wrap_content" android:includeFontPadding="false" android:layout_weight="1.0" android:lineSpacingExtra="@dimen/mc_guide_popup_text_line_spacing" />
+        <FrameLayout android:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/mc_guide_popup_text_size" android:paddingTop="@dimen/mc_guide_popup_text_padding_top" android:paddingBottom="@dimen/mc_guide_popup_text_padding_bottom" android:layout_width="UNKNOWN_DATA_0x101" android:layout_height="wrap_content" android:singleLine="true" android:includeFontPadding="false" android:lineSpacingExtra="@dimen/mc_guide_popup_text_line_spacing" />
+            <ImageView android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/guide_close" android:paddingLeft="13.3dp" android:paddingTop="12.83dp" android:paddingRight="12.7dp" android:paddingBottom="12.83dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/mc_btn_tips_delete" />
+        </FrameLayout>
+    </LinearLayout>
+</FrameLayout>

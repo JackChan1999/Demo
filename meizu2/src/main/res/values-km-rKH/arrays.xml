@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>មិនមានកម្មវត្ថុ</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>ជានិច្ច</item>
+        <item>តែនៅពេលដាក់មិនឲ្យឭសម្លេង</item>
+        <item>មិនដែល</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 វិនាទី</item>
+        <item>២ វិនាទី</item>
+        <item>3 វិនាទី</item>
+        <item>4 វិនាទី</item>
+        <item>5 វិនាទី</item>
+        <item>6 វិនាទី</item>
+        <item>7 វិនាទី</item>
+        <item>8 វិនាទី</item>
+        <item>9 វិនាទី</item>
+        <item>10 វិនាទី</item>
+        <item>ផ្សេងទៀត</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>តើលុបសារចេញឬ?</item>
+        <item>តើលុបធាតុ​ដែលបានជ្រើសឬ?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>ខែមករា</item>
+        <item>ខែកុម្ភៈ</item>
+        <item>ខែមីនា</item>
+        <item>ខែមេសា</item>
+        <item>ខែឧសភា</item>
+        <item>ខែមិថុនា</item>
+        <item>ខែកក្កដា</item>
+        <item>ខែសីហា​</item>
+        <item>ខែកញ្ញា</item>
+        <item>ខែតុលា</item>
+        <item>ខែវិច្ឆិកា</item>
+        <item>ខែធ្នូ</item>
+    </array>
+    <array name="phrases">
+        <item>ឥឡូវនេះ ខ្ញុំ​កំពុង​រវល់ ខ្ញុំនឹង​ទាក់​ទង​អ្នក​នៅ​ពេលក្រោយ។</item>
+        <item>សូមទូរសព្ទមកខ្ញុំនៅពេលក្រោយ អរគុណ។</item>
+        <item>ល្អហើយ អរគុណ</item>
+        <item>ស្ទះចរាចរណ៍ ខ្ញុំទៅយឺតបន្តិចហើយ</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>អ្នកប្រើប្រាស់កម្មវិធី Weibo ខុសច្បាប់</item>
+        <item>ហាមមិនឲ្យចូលក្នុងប្រព័ន្ធ</item>
+        <item>មិនឃើញមានអ្នកប្រើប្រាស់ទេ</item>
+        <item>សម្អាតមាតិកា ការផ្ញើមិនបានសម្រេច</item>
+        <item>កុំវាយបញ្ចូលអក្សរច្រើនជាង 300 តួ</item>
+        <item>កំពុងរំលោភបំពានវិធានពាក់ព័ន្ធ ប្រតិបត្តិការមិនត្រឹមត្រូវ</item>
+        <item>ខ្លឹមសារនៃមាតិកាដូចគ្នាមិនអាចបង្ហោះម្តងទៀតក្នុងរយៈពេល 10 នាទីបានឡើយ</item>
+        <item>កម្មវិធី URL ដែលអ្នកបានចូលនោះហាក់ដូចជាមិនមានសុវត្ថិភាពទេ</item>
+        <item>អនុលោមតាមច្បាប់ និងបទបញ្ជាជាធរមាន ខ្លឹមសារនៃមាតិកានេះមិនអាចបង្ហោះបានទេ</item>
+        <item>រូបភាព ឬ ឯកសារដែលចង់បើកមិនមានទេនៅពេលនេះ</item>
+        <item>សារឯកជនមិនអាចផ្ញើទៅកាន់អ្នកប្រើប្រាស់នេះបានទេ ដោយសារការកំណត់ភាពឯកជនរបស់អ្នកប្រើប្រាស់</item>
+        <item>ស្ថានភាពនៃការចូលប្រព័ន្ធកើតមានបញ្ហាឡើងដោយមិនដឹងខ្លួនចាមុន</item>
+        <item>គណនីត្រូវបានចាក់សោ</item>
+        <item>ខ្លឹមសារនៃមាតិកានេះជាបណ្តោះអាសន្នមិនមាន បើកមើលបានទេ</item>
+        <item>អ្នកមិនអាចផ្ញើសារឯកជនទៅអ្នកប្រើប្រាស់ណាដែលមិនធ្វើតាមអ្នកបានទេ</item>
+        <item>សារឯកជនខុសច្បាប់</item>
+        <item>មិនមានសារឯកជនទេ</item>
+        <item>អ្នកមិនអាចផ្ញើសារឯកជនដដែលម្តងទៀតបានទេ</item>
+        <item>អត្តសញ្ញាណប្រព័ន្ធផ្ញើសារឯកជនខុសច្បាប់</item>
+        <item>បញ្ជូនសារឯកជនច្រើនខ្លាំងពេក</item>
+        <item>សារឯកជននេះរំលោភបំពានលើវិធានពាក់ព័ន្ធ និងត្រូវប្លុកចោលមិនឲ្យបញ្ជូនសារបាន</item>
+        <item>អនុលោមតាមច្បាប់ និងបទបញ្ជាជាធរមាន អ្នកមិនអាចផ្ញើសារឯកសារបានឡើយ</item>
+        <item>ការដាក់សញ្ញាសម្គាល់នេះផុតកំណត់ហើយ</item>
+        <item>អ្នកមិនអាចផ្ញើសារឯកជនទៅឲ្យអ្នកប្រើប្រាស់នេះបានទេ ដោយសារការកំណត់របស់អ្នកប្រើប្រាស់</item>
+        <item>អ្នកបានផ្ញើវារួចហើយ ម្តងគ្រប់គ្រាន់ហើយ</item>
+    </array>
+</resources>

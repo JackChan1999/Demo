@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.mms.ui.ImageAttachmentView xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:orientation="horizontal" android:id="@id/image_attachment_view" android:layout_width="UNKNOWN_DATA_0x7f0d00f7" android:layout_height="UNKNOWN_DATA_0x7f0d00f7">
+    <RelativeLayout android:id="@id/img_frm" android:background="0x0" android:layout_width="UNKNOWN_DATA_0x7f0d00f7" android:layout_height="UNKNOWN_DATA_0x7f0d00f7">
+        <com.meizu.common.widget.RoundCornerImageView android:id="@id/image_content" style="@style/MmsAttachPictureWithCorner" />
+        <LinearLayout android:orientation="vertical" android:id="@id/name_size_ll" android:background="@drawable/mms_mask_layer" android:paddingLeft="@dimen/attachment_image_text_spacing" android:paddingBottom="2dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true">
+            <TextView android:textSize="@dimen/cma_edit_attachment_name_text_size" android:textColor="@color/solid_white" android:ellipsize="middle" android:gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end" android:linksClickable="false" android:id="@id/mms_file_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" />
+            <TextView android:textSize="@dimen/cma_edit_attachment_size_text_size" android:textColor="@color/solid_white" android:gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end" android:linksClickable="false" android:id="@id/mms_file_size" android:paddingLeft="@dimen/attachment_image_text_spacing" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" />
+        </LinearLayout>
+    </RelativeLayout>
+</com.android.mms.ui.ImageAttachmentView>

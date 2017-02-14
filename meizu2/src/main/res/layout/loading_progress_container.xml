@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res-auto" meizu:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" meizu:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" meizu:orientation="vertical" meizu:id="@+id/progress_container" meizu:background="#00000000" meizu:visibility="gone" meizu:layout_width="match_parent" meizu:layout_height="match_parent"
+    <LinearLayout meizu:orientation="horizontal" meizu:id="@+id/progress_whole" meizu:layout_width="wrap_content" meizu:layout_height="wrap_content">
+        <com.meizu.common.widget.LoadingView meizu:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" meizu:id="@+id/progress_bar" meizu:layout_width="UNKNOWN_DATA_0x1401" meizu:layout_height="UNKNOWN_DATA_0x1401" meizu:mcLoadingRadius="7dp" meizu:mcRingWidth="1.5dp" />
+        <TextView meizu:textSize="16sp" meizu:textColor="#4d000000" meizu:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" meizu:id="@+id/progress_text" meizu:paddingLeft="6dp" meizu:layout_width="wrap_content" meizu:layout_height="wrap_content" meizu:text="@string/msg_loading" meizu:singleLine="true" meizu:includeFontPadding="false" />
+    </LinearLayout>
+</LinearLayout>

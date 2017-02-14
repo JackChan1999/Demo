@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>Δεν υπάρχει θέμα</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Πάντα</item>
+        <item>Μόνο όταν είναι σιωπηλό</item>
+        <item>Ποτέ</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 δευτερόλεπτο</item>
+        <item>2 δευτερόλεπτα</item>
+        <item>3 δευτερόλεπτα</item>
+        <item>4 δευτερόλεπτα</item>
+        <item>5 δευτερόλεπτα</item>
+        <item>6 δευτερόλεπτα</item>
+        <item>7 δευτερόλεπτα</item>
+        <item>8 δευτερόλεπτα</item>
+        <item>9 δευτερόλεπτα</item>
+        <item>10 δευτερόλεπτα</item>
+        <item>Άλλο</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Διαγραφή μηνύματος;</item>
+        <item>Διαγραφή επιλεγμένων στοιχείων;</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>Ιαν</item>
+        <item>Φεβ</item>
+        <item>Μάρ</item>
+        <item>Απρ</item>
+        <item>Μάι</item>
+        <item>Ιον</item>
+        <item>Ιολ</item>
+        <item>Αύγ</item>
+        <item>Σεπ</item>
+        <item>Οκτ</item>
+        <item>Νοέ</item>
+        <item>Dec</item>
+    </array>
+    <array name="phrases">
+        <item>Τώρα έχω δουλειά, θα επικοινωνήσω αργότερα.</item>
+        <item>Καλέστε με αργότερα, ευχαριστώ.</item>
+        <item>Εντάξει, ευχαριστώ.</item>
+        <item>Μποτιλιάρισμα, θα αργήσω λίγο.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Μη έγκυρος χρήστης Weibo</item>
+        <item>Περιορισμένη πρόσβαση</item>
+        <item>Ο χρήστης δεν υπάρχει</item>
+        <item>Κενό περιεχόμενο. Αποστολή απέτυχε</item>
+        <item>Μην εισάγετε πάνω από 300 χαρακτήρες</item>
+        <item>Παραβιάζονται σχετικοί κανόνες, μη έγκυρη ενέργεια</item>
+        <item>Δεν μπορεί να αναρτηθεί το ίδιο περιεχόμενο για 10 λεπτά</item>
+        <item>Η URL που καταχωρίσατε δεν φαίνεται ασφαλής</item>
+        <item>Σύμφωνα με ισχύουσα νομοθεσία και κανονισμούς, αυτό το περιεχόμενο δεν μπορεί να αναρτηθεί</item>
+        <item>Αυτή η λειτουργία μη διαθέσιμη προς το παρόν</item>
+        <item>Δεν μπορούν να σταλούν ιδιωτικά μηνύματα σε αυτό το χρήστη λόγω των ρυθμίσεων ιδιωτικότητας του χρήστη</item>
+        <item>Μη αναμενόμενη κατάσταση σύνδεσης χρήστη</item>
+        <item>Λογαριασμός κλειδωμένος</item>
+        <item>Αυτό το περιεχόμενο δεν διατίθεται προσωρινά για προβολή</item>
+        <item>Δεν μπορείτε να αποστείλετε ιδιωτικά μηνύματα σε χρήστες που δεν σας ακολουθούν</item>
+        <item>Μη έγκυρο ιδιωτικό μήνυμα</item>
+        <item>Το ιδιωτικό μήνυμα δεν υπάρχει</item>
+        <item>Δεν μπορείτε να αποστείλετε πάλι το ίδιο ιδιωτικό μήνυμα</item>
+        <item>Μη έγκυρο ID ιδιωτικού μηνύματος</item>
+        <item>Απεστάλησαν πάρα πολλά ιδιωτικά μηνύματα</item>
+        <item>Αυτό το ιδιωτικό μήνυμα παραβιάζει σχετικούς κανόνες και έχει φραγεί</item>
+        <item>Σύμφωνα με ισχύοντες νόμους και κανονισμούς, δεν μπορείτε να αποστείλετε ιδιωτικά μηνύματα</item>
+        <item>Αδειοπλαίσιο έληξε</item>
+        <item>Δεν μπορείτε να στείλετε ιδιωτικά μηνύματα σε αυτό το χρήστη λόγω των ρυθμίσεων του χρήστη</item>
+        <item>Το αποστείλατε ήδη. Μία φορά αρκεί</item>
+    </array>
+</resources>

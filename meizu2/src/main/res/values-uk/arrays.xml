@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>без теми</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Завжди</item>
+        <item>Лише в беззвуч. реж.</item>
+        <item>Ніколи</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 сек.</item>
+        <item>2 сек.</item>
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 сек.</item>
+        <item>6 сек.</item>
+        <item>7 сек.</item>
+        <item>8 сек.</item>
+        <item>9 сек.</item>
+        <item>10 сек.</item>
+        <item>Інше</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Видалити повідомлення?</item>
+        <item>Видалити вибрані елементи?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>Листопад</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>Січень</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>Листопад</item>
+        <item>Грудень</item>
+    </array>
+    <array name="phrases">
+        <item>Я зайнятий зараз, зв&apos;яжусь з вами пізніше.</item>
+        <item>Будь ласка, зателефонуйте мені пізніше, спасибі.</item>
+        <item>Добре, дякую.</item>
+        <item>Пробка, я буду трохи пізно.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Незаконне користувач Weibo</item>
+        <item>обмежений доступ</item>
+        <item>Користувач не існує</item>
+        <item>Порожній зміст. Відправлення не вдалася</item>
+        <item>Не вводьте більш 300 символів</item>
+        <item>Порушення відповідних правил, неприпустиму операцію</item>
+        <item>Те ж зміст не можуть бути розміщені ще раз протягом 10 хвилин</item>
+        <item>Адреса, який ви ввели, здається, не безпечно</item>
+        <item>Відповідно до діючих законів і нормами, цей зміст не можуть бути розміщені</item>
+        <item>Ця функція в даний час недоступна</item>
+        <item>Особисті повідомлення не можуть бути відправлені на цього користувача завдяки користувач &apos;и налаштування приватності</item>
+        <item>Несподіваний статус Увійти</item>
+        <item>Користувач заблокований</item>
+        <item>Цей контент тимчасово недоступний для перегляду</item>
+        <item>Ви не можете відправити приватні повідомлення користувачам, які не слід за вами</item>
+        <item>Незаконне ПП</item>
+        <item>Приватне повiдомлення не існує</item>
+        <item>Ви не можете відправити той же ПП знову</item>
+        <item>Незаконне особистих повідомлень ID</item>
+        <item>Занадто багато приватні повідомлення були відправлені</item>
+        <item>Це приватне порушує відповідні правила і блокується</item>
+        <item>Відповідно до діючих законів і нормами, ви не можете посилати приватні повідомлення</item>
+        <item>маркер минув</item>
+        <item>Ви не можете відправляти особисті повідомлення цього користувача за рахунок користувача налаштувань &apos;и</item>
+        <item>Ви вже відправили його</item>
+    </array>
+</resources>

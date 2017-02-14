@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view xmlns:android="http://schemas.android.com/apk/res/android" android:paddingTop="@aiv$b/mw_recipient_text_padding" android:paddingBottom="@aiv$b/mw_recipient_text_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" class="com.meizu.commonwidget.RecipientEdit$ItemView">
+    <TextView android:textSize="@aiv$b/mw_recipient_text_size" android:textColor="@aiv$c/mw_recipient_textcolor_mns" android:ellipsize="end" android:gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:id="@id/text" android:background="@aiv$c/mw_recipient_text_mns" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+</view>

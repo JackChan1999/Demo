@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>Brak tematu</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Zawsze</item>
+        <item>Tylko gdy wyciszony</item>
+        <item>Nigdy</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 sekunda</item>
+        <item>2 sekundy</item>
+        <item>3 s</item>
+        <item>4 sekundy</item>
+        <item>5 s</item>
+        <item>6 sekund</item>
+        <item>7 s</item>
+        <item>8 sekund</item>
+        <item>9 s</item>
+        <item>10 sekund</item>
+        <item>Inne</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Usunąć wiadomość?</item>
+        <item>Usunąć zaznaczone elementy?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>„”</item>
+        <item>„”</item>
+        <item>„”</item>
+        <item>„”</item>
+        <item>„”</item>
+        <item>„”</item>
+        <item>„”</item>
+        <item>„”</item>
+        <item>„”</item>
+        <item>„”</item>
+        <item>„”</item>
+        <item>„”</item>
+    </array>
+    <array name="phrases">
+        <item>Nie mogę rozmawiać. Oddzwonię.</item>
+        <item>Proszę zadzwonić później.</item>
+        <item>OK, dziękuję.</item>
+        <item>Stoję w korku. Spóźnię się.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Niedozwolony użytkownik Weibo</item>
+        <item>Ograniczony dostęp</item>
+        <item>Użytkownik nie istnieje</item>
+        <item>Pusta zawartość. Niepowodzenie wysyłania</item>
+        <item>Limit znaków wynosi 300</item>
+        <item>Naruszenie zasad. Niedozwolona operacja.</item>
+        <item>Nie można ponownie opublikować tej samej zawartości w przeciągu 10 minut</item>
+        <item>Wprowadzony adres URL jest niebezpieczny</item>
+        <item>Zgodnie z prawem oraz innymi przepisami nie można opublikować tej zawartości</item>
+        <item>Ta funkcja jest tymczasowo niedostępna</item>
+        <item>Ze względu na ustawienia prywatności tego użytkownika nie można wysyłać do niego wiadomości prywatnych</item>
+        <item>Nieoczekiwany stan logowania</item>
+        <item>Konto jest zablokowane</item>
+        <item>Tymczasowo nie można wyświetlić tej zawartości</item>
+        <item>Nie możesz wysyłać wiadomości prywatnych do użytkowników, którzy cię nie obserwują</item>
+        <item>Nieprawidłowa wiadomość prywatna</item>
+        <item>Wiadomość prywatna nie istnieje</item>
+        <item>Nie można wysłać ponownie tej samej wiadomości prywatnej</item>
+        <item>Nieprawidłowe ID korespondencji prywatnej</item>
+        <item>Wysłano zbyt wiele wiadomości prywatnych</item>
+        <item>Ta wiadomość prywatna narusza zasady i została zablokowana</item>
+        <item>Zgodnie z prawem oraz innymi przepisami nie możesz wysyłać wiadomości prywatnych</item>
+        <item>Token wygasł</item>
+        <item>Ze względu na ustawienia tego użytkownika nie można wysyłać do niego wiadomości prywatnych</item>
+        <item>Wiadomość została już wysłana. Raz wystarczy</item>
+    </array>
+</resources>

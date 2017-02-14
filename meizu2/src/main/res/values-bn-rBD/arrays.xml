@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>কোনো বিষয় নেই</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>সর্বদা</item>
+        <item>কেবল যখন নিঃশব্দ থাকবে</item>
+        <item>কখনও নয়</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 সেকেন্ড</item>
+        <item>2 সেকেন্ড</item>
+        <item>3 সেকেন্ড</item>
+        <item>4 সেকেন্ড</item>
+        <item>5 সেকেন্ড</item>
+        <item>6 সেকেন্ড</item>
+        <item>7 সেকেন্ড</item>
+        <item>8 সেকেন্ড</item>
+        <item>9 সেকেন্ড</item>
+        <item>10 সেকেন্ড</item>
+        <item>অন্যান্য</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>বার্তাসমূহ মুছে ফেলতে চান?</item>
+        <item>নির্বাচিত আইটেমসমূহমুছে ফেলতে চান?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>জানু</item>
+        <item>ফেব্রু</item>
+        <item>মার্চ</item>
+        <item>এপ্রিল</item>
+        <item>মে</item>
+        <item>জুন</item>
+        <item>জুলাই</item>
+        <item>আগস্ট</item>
+        <item>সেপ্টে</item>
+        <item>অক্টো</item>
+        <item>নভে</item>
+        <item>ডিসে</item>
+    </array>
+    <array name="phrases">
+        <item>আমি ব্যস্ত আছি, আপনার সাথে পরে যোগাযোগ করব৷</item>
+        <item>দয়া করে আমাকে পরে কল করুন, ধন্যবাদ।</item>
+        <item>সব ঠিক আছে, ধন্যবাদ৷</item>
+        <item>যানজট, আমার একটু দেরি হতে পারে৷</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>অবৈধ Weibo ব্যবহারকারী</item>
+        <item>সীমাবদ্ধ অ্যাক্সেস</item>
+        <item>ব্যবহারকারী বিদ্যমান নয়</item>
+        <item>সামগ্রী খালি করুন। পাঠানো ব্যর্থ হয়েছে</item>
+        <item>300টির বেশি অক্ষর লিখতে পারবেন না</item>
+        <item>সম্পর্কিত নিয়মগুলি লঙ্ঘন হচ্ছে, অবৈধ ক্রিয়াকলাপ</item>
+        <item>একই সামগ্রী 10 মিনিটের মধ্যে আবার পোস্ট করা যাবে না</item>
+        <item>আপনার প্রবেশ করানো URLটিকে সুরক্ষিত বলে মনে হচ্ছে না</item>
+        <item>প্রযোজ্য আইন এবং নিয়মকানুন অনুসারে, এই বিষয়বস্তু পোস্ট করা যাবে না</item>
+        <item>এই বৈশিষ্ট্যটি বর্তমানে অনুপলভ্য</item>
+        <item>ব্যবহারকারীর গোপনীয়তা সেটিংসের কারণে এই ব্যবহারকারীকে ব্যক্তিগত বার্তা পাঠানো যাবে না</item>
+        <item>অপ্রত্যাশিত লগইন স্থিতি</item>
+        <item>অ্যাকাউন্ট লক আছে</item>
+        <item>এই সামগ্রীটি দেখার জন্য অস্থায়ী ভাবে অনুপলভ্য</item>
+        <item>আপনাকে অনুসরণ করছে না এমন ব্যবহারকারীদের আপনি ব্যক্তিগত বার্তা পাঠাতে পারবেন না</item>
+        <item>অবৈধ ব্যক্তিগত বার্তা</item>
+        <item>ব্যক্তিগত বার্তা বিদ্যমান নয়</item>
+        <item>আপনি একই ব্যক্তিগত বার্তা আবার পাঠাতে পারবেন না</item>
+        <item>অবৈধ ব্যক্তিগত বার্তাপ্রেরণ ID</item>
+        <item>অনেকগুলি ব্যক্তিগত বার্তা পাঠানো হয়েছে</item>
+        <item>এই ব্যক্তিগতটি প্রাসঙ্গিক নিয়মাবলী লঙ্ঘন করেছে ও অবরোধ হয়েছে</item>
+        <item>প্রযোজ্য আইন ও বিধি অনুসারে, আপনি কোনও ব্যক্তিগত বার্তা পাঠাতে পারবেন না</item>
+        <item>টোকেনের মেয়াদ শেষ হয়েছে</item>
+        <item>ব্যবহারকারীর সেটিংসের কারণে আপনি এই ব্যবহারকারীকে ব্যক্তিগত বার্তাগুলি পাঠাতে পারবেন না</item>
+        <item>আপনি ইতিমধ্যে এটি পাঠিয়েছেন। একবার যথেষ্ঠ</item>
+    </array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+    <RelativeLayout android:id="@bp$d/duoqu_webview" android:visibility="visible" android:layout_width="match_parent" android:layout_height="match_parent" />
+    <ProgressBar android:id="@bp$d/duoqu_bar" android:visibility="gone" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x301" android:indeterminate="false" android:indeterminateOnly="false" android:progressDrawable="@bp$c/duoqu_progress_bar_states" android:layout_alignParentTop="true" style="?unknown_attr_ref: 1010078" />
+    <RelativeLayout android:id="@bp$d/duoqu_menu" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@bp$d/duoqu_error_page" android:background="@bp$a/duoqu_gray_white" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"
+        <RelativeLayout android:id="@bp$d/duoqu_network_setting" android:background="@bp$a/duoqu_white" android:layout_width="wrap_content" android:layout_height="UNKNOWN_DATA_0x3c01">
+            <ImageView android:id="@bp$d/duoqu_img_woring" android:layout_width="UNKNOWN_DATA_0x1c01" android:layout_height="UNKNOWN_DATA_0x1c01" android:layout_marginLeft="16dp" android:layout_marginTop="15dp" android:src="@bp$c/duoqu_nonetwork" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+            <TextView android:textSize="13dp" android:textColor="#f26d4e" android:id="@bp$d/duoqu_error_lable1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@bp$f/duoqu_web_network_fail" android:layout_toRightOf="@bp$d/duoqu_img_woring" android:layout_centerVertical="true" />
+            <TextView android:textSize="13sp" android:textColor="#a3a3a3" android:paddingRight="34dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@bp$f/duoqu_web_network_setting" android:layout_alignBottom="@bp$d/duoqu_error_lable1" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            <ImageView android:id="@bp$d/duoqu_img_next" android:layout_width="UNKNOWN_DATA_0x1501" android:layout_height="UNKNOWN_DATA_0x1501" android:layout_marginLeft="5dp" android:layout_marginTop="8dp" android:src="@bp$c/duoqu_networksetting" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <View android:background="#e6e6e6" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x101" android:layout_marginTop="60dp" />
+    </RelativeLayout>
+</RelativeLayout>

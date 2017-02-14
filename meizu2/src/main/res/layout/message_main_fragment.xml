@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.android.mms.fragmentstyle.CustomeViewPager android:id="@id/tab_pager" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" />
+    <ViewStub android:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:id="@id/viewStub" android:layout="@layout/banner_sms_promo" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sum_actionbar_height_statusbar_height" />
+    <ImageView android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/create_new_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/create_new_btn_margin_right" android:layout_marginBottom="@dimen/create_new_btn_margin_bottom" android:src="@drawable/ic_new_selector" />
+</FrameLayout>

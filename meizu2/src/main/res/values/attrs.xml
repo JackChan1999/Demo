@@ -1,0 +1,1855 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="CmaRecipientStyleAttr">
+        <item>1</item>
+    </attr>
+    <attr name="MmsGridListItemNormalAttr">
+        <item>1</item>
+    </attr>
+    <attr name="MmsGridListItemNormalSearchAttr">
+        <item>1</item>
+    </attr>
+    <attr name="MmsGridListItemNormalSimAttr">
+        <item>1</item>
+    </attr>
+    <attr name="borderRadius">
+        <item>64</item>
+    </attr>
+    <attr name="drawerArrowStyle">
+        <item>1</item>
+    </attr>
+    <attr name="height">
+        <item>64</item>
+    </attr>
+    <attr name="isLightTheme">
+        <item>8</item>
+    </attr>
+    <attr name="mzDialogEditTextStyle">
+        <item>1</item>
+    </attr>
+    <attr name="title">
+        <item>2</item>
+    </attr>
+    <attr name="type">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </attr>
+    <attr name="navigationMode">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </attr>
+    <attr name="displayOptions">
+        <item>131072</item>
+        <item>20</item>
+        <item>4</item>
+        <item>40</item>
+        <item>0</item>
+        <item>10</item>
+        <item>2</item>
+        <item>8</item>
+        <item>1</item>
+    </attr>
+    <attr name="subtitle">
+        <item>2</item>
+    </attr>
+    <attr name="titleTextStyle">
+        <item>1</item>
+    </attr>
+    <attr name="subtitleTextStyle">
+        <item>1</item>
+    </attr>
+    <attr name="icon">
+        <item>1</item>
+    </attr>
+    <attr name="logo">
+        <item>1</item>
+    </attr>
+    <attr name="divider">
+        <item>1</item>
+    </attr>
+    <attr name="background">
+        <item>1</item>
+    </attr>
+    <attr name="backgroundStacked">
+        <item>17</item>
+    </attr>
+    <attr name="backgroundSplit">
+        <item>17</item>
+    </attr>
+    <attr name="customNavigationLayout">
+        <item>1</item>
+    </attr>
+    <attr name="homeLayout">
+        <item>1</item>
+    </attr>
+    <attr name="progressBarStyle">
+        <item>1</item>
+    </attr>
+    <attr name="indeterminateProgressStyle">
+        <item>1</item>
+    </attr>
+    <attr name="progressBarPadding">
+        <item>64</item>
+    </attr>
+    <attr name="itemPadding">
+        <item>64</item>
+    </attr>
+    <attr name="hideOnContentScroll">
+        <item>8</item>
+    </attr>
+    <attr name="contentInsetStart">
+        <item>64</item>
+    </attr>
+    <attr name="contentInsetEnd">
+        <item>64</item>
+    </attr>
+    <attr name="contentInsetLeft">
+        <item>64</item>
+    </attr>
+    <attr name="contentInsetRight">
+        <item>64</item>
+    </attr>
+    <attr name="elevation">
+        <item>64</item>
+    </attr>
+    <attr name="popupTheme">
+        <item>1</item>
+    </attr>
+    <attr name="closeItemLayout">
+        <item>1</item>
+    </attr>
+    <attr name="initialActivityCount">
+        <item>2</item>
+    </attr>
+    <attr name="expandActivityOverflowButtonDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="buttonPanelSideLayout">
+        <item>1</item>
+    </attr>
+    <attr name="listLayout">
+        <item>1</item>
+    </attr>
+    <attr name="multiChoiceItemLayout">
+        <item>1</item>
+    </attr>
+    <attr name="singleChoiceItemLayout">
+        <item>1</item>
+    </attr>
+    <attr name="listItemLayout">
+        <item>1</item>
+    </attr>
+    <attr name="listItem_showCentreLayout">
+        <item>1</item>
+    </attr>
+    <attr name="mzShowAtBottom">
+        <item>8</item>
+    </attr>
+    <attr name="mzButtonBarOrientation">
+        <item>131072</item>
+        <item>0</item>
+        <item>1</item>
+    </attr>
+    <attr name="mcLargeCircleDrawble">
+        <item>1</item>
+    </attr>
+    <attr name="mcLargeCircleRadis">
+        <item>64</item>
+    </attr>
+    <attr name="mcTextNumberColor">
+        <item>16</item>
+    </attr>
+    <attr name="mcDistanceToCircle">
+        <item>64</item>
+    </attr>
+    <attr name="mcTextNumberSize">
+        <item>64</item>
+    </attr>
+    <attr name="textAllCaps">
+        <item>9</item>
+    </attr>
+    <attr name="MeizuCommon.ProgressBarStyle">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.VerticalSeekBarStyle">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.GalleryFlowStyle">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.EnhanceGalleryStyle">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.FoldableTextViewStyle">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.EnhanceSeekBarStyle">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.MultiWaveView">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.Switch">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.GuidePopupWindow">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.SwitchPreferenceStyle">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.SelectionButtonStyle">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.TabScrollerStyle">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.LoadingViewStyle">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.PagerIndicator">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.FastScrollLetter">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.TipDrawableStyle">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.CircleProgressBarStyle">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.CustomButtonStyle">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.SubscribeButtonStyle">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.AnimSeekBarStyle">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.StretchSearchViewStyle">
+        <item>1</item>
+    </attr>
+    <attr name="MeizuCommon.AuraSeekBarStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mcApplyingAnimationScale">
+        <item>32</item>
+    </attr>
+    <attr name="mcAuraThumbDrawble">
+        <item>1</item>
+    </attr>
+    <attr name="mcAuraDistance">
+        <item>64</item>
+    </attr>
+    <attr name="mcCircleBarWidth">
+        <item>64</item>
+    </attr>
+    <attr name="mcCircleBarColor">
+        <item>16</item>
+    </attr>
+    <attr name="mcCircleBarRimColor">
+        <item>16</item>
+    </attr>
+    <attr name="mcCenterTextSize">
+        <item>64</item>
+    </attr>
+    <attr name="mcCenterTextColor">
+        <item>16</item>
+    </attr>
+    <attr name="mcCircleBarProgress">
+        <item>4</item>
+    </attr>
+    <attr name="mcCircleBarMax">
+        <item>4</item>
+    </attr>
+    <attr name="mcCircleIsShowProgress">
+        <item>8</item>
+    </attr>
+    <attr name="mcCirButtonSelectorIdle">
+        <item>1</item>
+    </attr>
+    <attr name="mcCirButtonSelectorComplete">
+        <item>1</item>
+    </attr>
+    <attr name="mcCirButtonSelectorError">
+        <item>1</item>
+    </attr>
+    <attr name="mcCirButtonTextComplete">
+        <item>2</item>
+    </attr>
+    <attr name="mcCirButtonTextIdle">
+        <item>2</item>
+    </attr>
+    <attr name="mcCirButtonTextError">
+        <item>2</item>
+    </attr>
+    <attr name="mcCirButtonTextProgress">
+        <item>2</item>
+    </attr>
+    <attr name="mcCirButtonColorProgress">
+        <item>16</item>
+    </attr>
+    <attr name="mcCirButtonColorIndicator">
+        <item>16</item>
+    </attr>
+    <attr name="mcCirButtonColorIndicatorBackground">
+        <item>16</item>
+    </attr>
+    <attr name="mcCirButtonIconError">
+        <item>1</item>
+    </attr>
+    <attr name="mcCirButtonIconComplete">
+        <item>1</item>
+    </attr>
+    <attr name="mcCirButtonCornerRadius">
+        <item>64</item>
+    </attr>
+    <attr name="mcCirButtonPaddingProgress">
+        <item>64</item>
+    </attr>
+    <attr name="mcCirButtonStrokeWidth">
+        <item>64</item>
+    </attr>
+    <attr name="mcCirButtonTextColorComplete">
+        <item>17</item>
+    </attr>
+    <attr name="mcCirButtonTextColorError">
+        <item>17</item>
+    </attr>
+    <attr name="mcCirButtonTextColorIdle">
+        <item>17</item>
+    </attr>
+    <attr name="mcCirButtonStrokeColorIdle">
+        <item>1</item>
+    </attr>
+    <attr name="mcCirButtonStrokeColorComplete">
+        <item>1</item>
+    </attr>
+    <attr name="mcCirButtonStrokeColorError">
+        <item>1</item>
+    </attr>
+    <attr name="right_btn_view_container_attr">
+        <item>1</item>
+    </attr>
+    <attr name="editspace_paddingleft_attr">
+        <item>64</item>
+    </attr>
+    <attr name="mcBtnTextSize">
+        <item>64</item>
+    </attr>
+    <attr name="mcBtnDefaultText">
+        <item>2</item>
+    </attr>
+    <attr name="mcBtnPressedText">
+        <item>2</item>
+    </attr>
+    <attr name="mcBtnPressedTextColor">
+        <item>4</item>
+    </attr>
+    <attr name="mcBtnDefaultTextColor">
+        <item>4</item>
+    </attr>
+    <attr name="mcBtnNormal">
+        <item>1</item>
+    </attr>
+    <attr name="mcBtnFocus">
+        <item>1</item>
+    </attr>
+    <attr name="mcBtnNormalPress">
+        <item>1</item>
+    </attr>
+    <attr name="mcBtnFocusPress">
+        <item>1</item>
+    </attr>
+    <attr name="mcStartYear">
+        <item>4</item>
+    </attr>
+    <attr name="mcEndYear">
+        <item>4</item>
+    </attr>
+    <attr name="mcSpinnersShown">
+        <item>8</item>
+    </attr>
+    <attr name="mcCalendarViewShown">
+        <item>8</item>
+    </attr>
+    <attr name="mcMinDate">
+        <item>2</item>
+    </attr>
+    <attr name="mcMaxDate">
+        <item>2</item>
+    </attr>
+    <attr name="mcInternalLayout">
+        <item>1</item>
+    </attr>
+    <attr name="mcVisibleRow">
+        <item>4</item>
+    </attr>
+    <attr name="mcSelectItemHeight">
+        <item>64</item>
+    </attr>
+    <attr name="mcNormalItemHeight">
+        <item>64</item>
+    </attr>
+    <attr name="color">
+        <item>16</item>
+    </attr>
+    <attr name="spinBars">
+        <item>8</item>
+    </attr>
+    <attr name="drawableSize">
+        <item>64</item>
+    </attr>
+    <attr name="gapBetweenBars">
+        <item>64</item>
+    </attr>
+    <attr name="topBottomBarArrowSize">
+        <item>64</item>
+    </attr>
+    <attr name="middleBarArrowSize">
+        <item>64</item>
+    </attr>
+    <attr name="barSize">
+        <item>64</item>
+    </attr>
+    <attr name="thickness">
+        <item>64</item>
+    </attr>
+    <attr name="mcEnableButtonText">
+        <item>2</item>
+    </attr>
+    <attr name="mcDisableButtonText">
+        <item>2</item>
+    </attr>
+    <attr name="mcChangeNumButtonText">
+        <item>2</item>
+    </attr>
+    <attr name="mcConfirmMode">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+    </attr>
+    <attr name="mcTopMarginOfImage">
+        <item>64</item>
+    </attr>
+    <attr name="mcTopMarginOfTips">
+        <item>64</item>
+    </attr>
+    <attr name="mcSrcOfImage">
+        <item>1</item>
+    </attr>
+    <attr name="mcTitle">
+        <item>2</item>
+    </attr>
+    <attr name="mcSummary">
+        <item>2</item>
+    </attr>
+    <attr name="mcTextOfTips">
+        <item>2</item>
+    </attr>
+    <attr name="mcTips">
+        <item>1</item>
+    </attr>
+    <attr name="mcIsShowDot">
+        <item>8</item>
+    </attr>
+    <attr name="mcTitleTextAppearance">
+        <item>1</item>
+    </attr>
+    <attr name="mcSpacing">
+        <item>64</item>
+    </attr>
+    <attr name="mcScrollEnableWhenLessContent">
+        <item>8</item>
+    </attr>
+    <attr name="mcMaxOverScrollDistance">
+        <item>64</item>
+    </attr>
+    <attr name="mcEThumb">
+        <item>1</item>
+    </attr>
+    <attr name="mcEItems">
+        <item>1</item>
+    </attr>
+    <attr name="mcEItemsCount">
+        <item>4</item>
+    </attr>
+    <attr name="mcEProgress">
+        <item>4</item>
+    </attr>
+    <attr name="mcAuraEnhanceThumbDrawble">
+        <item>1</item>
+    </attr>
+    <attr name="mcAuraEnhanceDistance">
+        <item>64</item>
+    </attr>
+    <attr name="mcEntries">
+        <item>1</item>
+    </attr>
+    <attr name="mcEntryValues">
+        <item>1</item>
+    </attr>
+    <attr name="mcFastScrollLetter">
+        <item>1</item>
+    </attr>
+    <attr name="mcLetterTextColor">
+        <item>16</item>
+    </attr>
+    <attr name="mcLetterActiveTextColor">
+        <item>16</item>
+    </attr>
+    <attr name="mcLetterTextSize">
+        <item>64</item>
+    </attr>
+    <attr name="mcLetterWidth">
+        <item>64</item>
+    </attr>
+    <attr name="mcLetterMarginTop">
+        <item>64</item>
+    </attr>
+    <attr name="mcLetterMarginBottom">
+        <item>64</item>
+    </attr>
+    <attr name="mcLetterMarginRight">
+        <item>64</item>
+    </attr>
+    <attr name="mzTextEllipse">
+        <item>2</item>
+    </attr>
+    <attr name="mzTextUnfold">
+        <item>2</item>
+    </attr>
+    <attr name="mzMaxFoldLine">
+        <item>4</item>
+    </attr>
+    <attr name="mzUnfoldAlignViewEdge">
+        <item>8</item>
+    </attr>
+    <attr name="mzClickToFold">
+        <item>8</item>
+    </attr>
+    <attr name="mzLinkColor">
+        <item>16</item>
+    </attr>
+    <attr name="mzIsFold">
+        <item>8</item>
+    </attr>
+    <attr name="mzNonSpanClickable">
+        <item>8</item>
+    </attr>
+    <attr name="mcCirculate">
+        <item>8</item>
+    </attr>
+    <attr name="mcPicSize">
+        <item>64</item>
+    </attr>
+    <attr name="mcGPWBackGroundLeft">
+        <item>1</item>
+    </attr>
+    <attr name="mcGPWBackGroundRight">
+        <item>1</item>
+    </attr>
+    <attr name="mcGPWBackGroundMidArrowUp">
+        <item>1</item>
+    </attr>
+    <attr name="mcGPWBackGroundMidArrowDown">
+        <item>1</item>
+    </attr>
+    <attr name="mcScaleDistance">
+        <item>64</item>
+    </attr>
+    <attr name="mcTextSize">
+        <item>64</item>
+    </attr>
+    <attr name="mcTextColor">
+        <item>16</item>
+    </attr>
+    <attr name="mcSelectedColor">
+        <item>16</item>
+    </attr>
+    <attr name="mcLineColor">
+        <item>16</item>
+    </attr>
+    <attr name="mcLineWidth">
+        <item>64</item>
+    </attr>
+    <attr name="mcLineHeight">
+        <item>64</item>
+    </attr>
+    <attr name="mcLittleLineWidth">
+        <item>64</item>
+    </attr>
+    <attr name="mcLittleLineColor">
+        <item>16</item>
+    </attr>
+    <attr name="mcTriangleSideLength">
+        <item>64</item>
+    </attr>
+    <attr name="mcShowNumber">
+        <item>4</item>
+    </attr>
+    <attr name="mcTextMarginBottom">
+        <item>64</item>
+    </attr>
+    <attr name="mcLineMarginBottom">
+        <item>64</item>
+    </attr>
+    <attr name="mcDamping">
+        <item>32</item>
+    </attr>
+    <attr name="mcPaintRound">
+        <item>8</item>
+    </attr>
+    <attr name="mcBlurRadius">
+        <item>32</item>
+    </attr>
+    <attr name="mcOffsetX">
+        <item>4</item>
+    </attr>
+    <attr name="mcOffsetY">
+        <item>4</item>
+    </attr>
+    <attr name="backIcon">
+        <item>1</item>
+    </attr>
+    <attr name="measureWithLargestChild">
+        <item>8</item>
+    </attr>
+    <attr name="showDividers">
+        <item>131072</item>
+        <item>0</item>
+        <item>1</item>
+        <item>4</item>
+        <item>2</item>
+    </attr>
+    <attr name="dividerPadding">
+        <item>64</item>
+    </attr>
+    <attr name="mcDropDownWidth">
+        <item>64</item>
+    </attr>
+    <attr name="mcMaxDropDownHeight">
+        <item>64</item>
+    </attr>
+    <attr name="mcSingleChoiceItemLayout">
+        <item>1</item>
+    </attr>
+    <attr name="mzDividerInside">
+        <item>8</item>
+    </attr>
+    <attr name="mcLoadingRadius">
+        <item>64</item>
+    </attr>
+    <attr name="mcRingWidth">
+        <item>64</item>
+    </attr>
+    <attr name="mcLBackground">
+        <item>16</item>
+    </attr>
+    <attr name="mcLForeground">
+        <item>16</item>
+    </attr>
+    <attr name="mcLBackDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="mcLFinishDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="mcLText">
+        <item>2</item>
+    </attr>
+    <attr name="mcLoadingState">
+        <item>4</item>
+    </attr>
+    <attr name="mzThemeColor">
+        <item>17</item>
+    </attr>
+    <attr name="mzAlertDialogTheme">
+        <item>1</item>
+    </attr>
+    <attr name="mzSearchEditTextStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mzSearchEditSearchIconStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mzSearchEditClearIconStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mzSearchEditVoiceIconStyle">
+        <item>1</item>
+    </attr>
+    <attr name="showAsAction">
+        <item>131072</item>
+        <item>2</item>
+        <item>8</item>
+        <item>1</item>
+        <item>0</item>
+        <item>4</item>
+    </attr>
+    <attr name="actionLayout">
+        <item>1</item>
+    </attr>
+    <attr name="actionViewClass">
+        <item>2</item>
+    </attr>
+    <attr name="actionProviderClass">
+        <item>2</item>
+    </attr>
+    <attr name="preserveIconSpacing">
+        <item>8</item>
+    </attr>
+    <attr name="message_r_radius">
+        <item>64</item>
+    </attr>
+    <attr name="line_vertical_padding">
+        <item>64</item>
+    </attr>
+    <attr name="line_one_horizontal_padding">
+        <item>64</item>
+    </attr>
+    <attr name="line_two_horizontal_padding">
+        <item>64</item>
+    </attr>
+    <attr name="subject_maxLines">
+        <item>4</item>
+    </attr>
+    <attr name="time_minWidth">
+        <item>64</item>
+    </attr>
+    <attr name="checkbox_minWidth">
+        <item>64</item>
+    </attr>
+    <attr name="checkbox_center">
+        <item>8</item>
+    </attr>
+    <attr name="from_textSize">
+        <item>64</item>
+    </attr>
+    <attr name="subject_textSize">
+        <item>64</item>
+    </attr>
+    <attr name="time_textSize">
+        <item>64</item>
+    </attr>
+    <attr name="sns_paddingLeft">
+        <item>64</item>
+    </attr>
+    <attr name="statu_paddingLeft">
+        <item>64</item>
+    </attr>
+    <attr name="max_width">
+        <item>64</item>
+    </attr>
+    <attr name="msg_content_layout">
+        <item>1</item>
+    </attr>
+    <attr name="mcTargetDrawables">
+        <item>1</item>
+    </attr>
+    <attr name="mcTargetDescriptions">
+        <item>1</item>
+    </attr>
+    <attr name="mcDirectionDescriptions">
+        <item>1</item>
+    </attr>
+    <attr name="mcHandleDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="mcWaveDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="mcOuterRadius">
+        <item>64</item>
+    </attr>
+    <attr name="mcVibrationDuration">
+        <item>4</item>
+    </attr>
+    <attr name="mcTargetMaxRadius">
+        <item>32</item>
+    </attr>
+    <attr name="mcTargetMinRadius">
+        <item>32</item>
+    </attr>
+    <attr name="mcMaxPointCircleRadius">
+        <item>32</item>
+    </attr>
+    <attr name="mcMaxPointRadius">
+        <item>32</item>
+    </attr>
+    <attr name="mcOuterRadiusHeight">
+        <item>32</item>
+    </attr>
+    <attr name="mcTargetToHandle">
+        <item>32</item>
+    </attr>
+    <attr name="mcTargetSnapRadius">
+        <item>32</item>
+    </attr>
+    <attr name="mcPointColor">
+        <item>1</item>
+    </attr>
+    <attr name="mcHandleCircleColor">
+        <item>1</item>
+    </attr>
+    <attr name="mzTabBarIndicatorColor">
+        <item>16</item>
+    </attr>
+    <attr name="mzTabBarIndicatorHeight">
+        <item>64</item>
+    </attr>
+    <attr name="mzTabBarIndicatorDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="mzAllowCollapse">
+        <item>8</item>
+    </attr>
+    <attr name="mzTopDividerColor">
+        <item>16</item>
+    </attr>
+    <attr name="mzTopDividerHeight">
+        <item>64</item>
+    </attr>
+    <attr name="mzDividerPaddingStart">
+        <item>64</item>
+    </attr>
+    <attr name="mzDividerPaddingEnd">
+        <item>64</item>
+    </attr>
+    <attr name="listSelectors">
+        <item>1</item>
+    </attr>
+    <attr name="mzRippleColor">
+        <item>16</item>
+    </attr>
+    <attr name="mzStartRadius">
+        <item>64</item>
+    </attr>
+    <attr name="mzMaxRadius">
+        <item>64</item>
+    </attr>
+    <attr name="mzUseFadeOut">
+        <item>8</item>
+    </attr>
+    <attr name="mzRippleFade">
+        <item>8</item>
+    </attr>
+    <attr name="mzShrink">
+        <item>8</item>
+    </attr>
+    <attr name="mzInDuration">
+        <item>4</item>
+    </attr>
+    <attr name="mzOutDuration">
+        <item>4</item>
+    </attr>
+    <attr name="mzAutoLightBackground">
+        <item>8</item>
+    </attr>
+    <attr name="mcRadius">
+        <item>64</item>
+    </attr>
+    <attr name="mcEnlargeRadius">
+        <item>64</item>
+    </attr>
+    <attr name="mcDistance">
+        <item>64</item>
+    </attr>
+    <attr name="mcGravity">
+        <item>131136</item>
+        <item>11</item>
+        <item>3</item>
+        <item>5</item>
+    </attr>
+    <attr name="mcFillColor">
+        <item>16</item>
+    </attr>
+    <attr name="mcHighlightColor">
+        <item>16</item>
+    </attr>
+    <attr name="mcStrokeColor">
+        <item>16</item>
+    </attr>
+    <attr name="mcContentBackground">
+        <item>17</item>
+    </attr>
+    <attr name="SlideSelectListViewStyle">
+        <item>1</item>
+    </attr>
+    <attr name="overlapAnchor">
+        <item>8</item>
+    </attr>
+    <attr name="state_above_anchor">
+        <item>8</item>
+    </attr>
+    <attr name="mcMax">
+        <item>4</item>
+    </attr>
+    <attr name="mcProgress">
+        <item>4</item>
+    </attr>
+    <attr name="mcSecondaryProgress">
+        <item>4</item>
+    </attr>
+    <attr name="mcIndeterminate">
+        <item>8</item>
+    </attr>
+    <attr name="mcIndeterminateOnly">
+        <item>8</item>
+    </attr>
+    <attr name="mcIndeterminateDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="mcProgressDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="mcIndeterminateDuration">
+        <item>4</item>
+        <item>1</item>
+    </attr>
+    <attr name="mcIndeterminateBehavior">
+        <item>65536</item>
+        <item>2</item>
+        <item>1</item>
+    </attr>
+    <attr name="mcMinWidth">
+        <item>64</item>
+    </attr>
+    <attr name="mcMaxWidth">
+        <item>64</item>
+    </attr>
+    <attr name="mcMinHeight">
+        <item>64</item>
+    </attr>
+    <attr name="mcMaxHeight">
+        <item>64</item>
+    </attr>
+    <attr name="mcInterpolator">
+        <item>1</item>
+    </attr>
+    <attr name="mcPullRefreshAnimType">
+        <item>4</item>
+    </attr>
+    <attr name="mcPullRefreshIsFirstLayer">
+        <item>8</item>
+    </attr>
+    <attr name="mcPullRefreshDrawOnTop">
+        <item>8</item>
+    </attr>
+    <attr name="mcPullRefreshOverScrollDistance">
+        <item>64</item>
+    </attr>
+    <attr name="mcPullRefreshAnimationColor">
+        <item>16</item>
+    </attr>
+    <attr name="mcPullRefreshTextColor">
+        <item>16</item>
+    </attr>
+    <attr name="mzInputType">
+        <item>65536</item>
+        <item>2</item>
+        <item>1</item>
+    </attr>
+    <attr name="mzHint">
+        <item>2</item>
+    </attr>
+    <attr name="mzMaxHeight">
+        <item>64</item>
+    </attr>
+    <attr name="isEasyMode">
+        <item>8</item>
+    </attr>
+    <attr name="mcLetterBarPaddingLeft">
+        <item>64</item>
+    </attr>
+    <attr name="mcLetterBarPaddingRight">
+        <item>64</item>
+    </attr>
+    <attr name="mcLetterBarPaddingTop">
+        <item>64</item>
+    </attr>
+    <attr name="mcLetterBarPaddingBottom">
+        <item>64</item>
+    </attr>
+    <attr name="mcLetterBarTouchUpBkDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="mcLetterBarTouchDownBkDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="mcLetterBarTouchMoveBkDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="mcOverlayBkDrawable">
+        <item>17</item>
+    </attr>
+    <attr name="layoutManager">
+        <item>2</item>
+    </attr>
+    <attr name="spanCount">
+        <item>4</item>
+    </attr>
+    <attr name="reverseLayout">
+        <item>8</item>
+    </attr>
+    <attr name="stackFromEnd">
+        <item>8</item>
+    </attr>
+    <attr name="RecyclerFastScrollLetterStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mcCornerRadius">
+        <item>32</item>
+    </attr>
+    <attr name="mcBorderType">
+        <item>65536</item>
+        <item>2</item>
+        <item>1</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+    </attr>
+    <attr name="mcIconType">
+        <item>65536</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+        <item>6</item>
+        <item>7</item>
+        <item>4</item>
+        <item>5</item>
+        <item>8</item>
+        <item>10</item>
+        <item>9</item>
+    </attr>
+    <attr name="mzCornerRadiusX">
+        <item>32</item>
+    </attr>
+    <attr name="mzCornerRadiusY">
+        <item>32</item>
+    </attr>
+    <attr name="layout">
+        <item>1</item>
+    </attr>
+    <attr name="iconifiedByDefault">
+        <item>8</item>
+    </attr>
+    <attr name="queryHint">
+        <item>2</item>
+    </attr>
+    <attr name="defaultQueryHint">
+        <item>2</item>
+    </attr>
+    <attr name="closeIcon">
+        <item>1</item>
+    </attr>
+    <attr name="goIcon">
+        <item>1</item>
+    </attr>
+    <attr name="searchIcon">
+        <item>1</item>
+    </attr>
+    <attr name="searchHintIcon">
+        <item>1</item>
+    </attr>
+    <attr name="voiceIcon">
+        <item>1</item>
+    </attr>
+    <attr name="commitIcon">
+        <item>1</item>
+    </attr>
+    <attr name="suggestionRowLayout">
+        <item>1</item>
+    </attr>
+    <attr name="queryBackground">
+        <item>1</item>
+    </attr>
+    <attr name="submitBackground">
+        <item>1</item>
+    </attr>
+    <attr name="mcThumb">
+        <item>1</item>
+    </attr>
+    <attr name="mcThumbOffset">
+        <item>64</item>
+    </attr>
+    <attr name="mcBreakPoint">
+        <item>4</item>
+    </attr>
+    <attr name="mcBackground">
+        <item>1</item>
+    </attr>
+    <attr name="mcSelectTextColor">
+        <item>16</item>
+    </attr>
+    <attr name="sim1_input_src_attr">
+        <item>1</item>
+    </attr>
+    <attr name="sim2_input_src_attr">
+        <item>1</item>
+    </attr>
+    <attr name="sim_no_input_src_attr">
+        <item>1</item>
+    </attr>
+    <attr name="sim_cloud_input_src_attr">
+        <item>1</item>
+    </attr>
+    <attr name="sim_default_input_src_attr">
+        <item>1</item>
+    </attr>
+    <attr name="cma_ic_resend_src_attr">
+        <item>1</item>
+    </attr>
+    <attr name="prompt">
+        <item>1</item>
+    </attr>
+    <attr name="spinnerMode">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </attr>
+    <attr name="popupPromptView">
+        <item>1</item>
+    </attr>
+    <attr name="disableChildrenWhenDisabled">
+        <item>8</item>
+    </attr>
+    <attr name="mcStretchTpye">
+        <item>65536</item>
+        <item>0</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+    </attr>
+    <attr name="mcAlignRightWhenAnim">
+        <item>8</item>
+    </attr>
+    <attr name="mcPlayStretchOnPreDraw">
+        <item>8</item>
+    </attr>
+    <attr name="mcUseSysInterpolater">
+        <item>8</item>
+    </attr>
+    <attr name="mcHasVoiceIcon">
+        <item>8</item>
+    </attr>
+    <attr name="mcLayoutPaddingLeft">
+        <item>64</item>
+    </attr>
+    <attr name="mcLayoutPaddingRight">
+        <item>64</item>
+    </attr>
+    <attr name="mcStretchDuration">
+        <item>4</item>
+    </attr>
+    <attr name="mcShortenDuration">
+        <item>4</item>
+    </attr>
+    <attr name="mcTextViewContent">
+        <item>2</item>
+    </attr>
+    <attr name="mcSearchTextHint">
+        <item>2</item>
+    </attr>
+    <attr name="mcSearchLayoutInitAlpha">
+        <item>32</item>
+    </attr>
+    <attr name="mcTextViewColor">
+        <item>16</item>
+    </attr>
+    <attr name="mcLayoutMarginLeftAdjust">
+        <item>64</item>
+    </attr>
+    <attr name="mcLayoutMarginRightAdjust">
+        <item>64</item>
+    </attr>
+    <attr name="mcStretchWidthFrom">
+        <item>64</item>
+    </attr>
+    <attr name="mcStretchWidthTo">
+        <item>64</item>
+    </attr>
+    <attr name="mcStretchXfrom">
+        <item>64</item>
+    </attr>
+    <attr name="mcStretchXto">
+        <item>64</item>
+    </attr>
+    <attr name="mcBtnSubTextSize">
+        <item>64</item>
+    </attr>
+    <attr name="mcBtnNormalText">
+        <item>2</item>
+    </attr>
+    <attr name="mcBtnBeAddedText">
+        <item>2</item>
+    </attr>
+    <attr name="mcBtnBeAddedTextColor">
+        <item>4</item>
+    </attr>
+    <attr name="mcBtnNormalTextColor">
+        <item>4</item>
+    </attr>
+    <attr name="mcBtnNormalBg">
+        <item>1</item>
+    </attr>
+    <attr name="mcBtnBeAddedBg">
+        <item>1</item>
+    </attr>
+    <attr name="mcBtnAnimDuration">
+        <item>4</item>
+    </attr>
+    <attr name="mcTrack">
+        <item>1</item>
+    </attr>
+    <attr name="mcThumbOn">
+        <item>1</item>
+    </attr>
+    <attr name="mcThumbOff">
+        <item>1</item>
+    </attr>
+    <attr name="mcSwitchMinWidth">
+        <item>64</item>
+    </attr>
+    <attr name="mcSwitchPadding">
+        <item>64</item>
+    </attr>
+    <attr name="track">
+        <item>1</item>
+    </attr>
+    <attr name="thumbTextPadding">
+        <item>64</item>
+    </attr>
+    <attr name="switchTextAppearance">
+        <item>1</item>
+    </attr>
+    <attr name="switchMinWidth">
+        <item>64</item>
+    </attr>
+    <attr name="switchPadding">
+        <item>64</item>
+    </attr>
+    <attr name="splitTrack">
+        <item>8</item>
+    </attr>
+    <attr name="showText">
+        <item>8</item>
+    </attr>
+    <attr name="mcSummaryOn">
+        <item>2</item>
+    </attr>
+    <attr name="mcSummaryOff">
+        <item>2</item>
+    </attr>
+    <attr name="mcDisableDependentsState">
+        <item>8</item>
+    </attr>
+    <attr name="mcTabIndicatorDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="windowActionBar">
+        <item>8</item>
+    </attr>
+    <attr name="windowNoTitle">
+        <item>8</item>
+    </attr>
+    <attr name="windowActionBarOverlay">
+        <item>8</item>
+    </attr>
+    <attr name="windowActionModeOverlay">
+        <item>8</item>
+    </attr>
+    <attr name="windowFixedWidthMajor">
+        <item>192</item>
+    </attr>
+    <attr name="windowFixedHeightMinor">
+        <item>192</item>
+    </attr>
+    <attr name="windowFixedWidthMinor">
+        <item>192</item>
+    </attr>
+    <attr name="windowFixedHeightMajor">
+        <item>192</item>
+    </attr>
+    <attr name="windowMinWidthMajor">
+        <item>192</item>
+    </attr>
+    <attr name="windowMinWidthMinor">
+        <item>192</item>
+    </attr>
+    <attr name="actionBarTabStyle">
+        <item>1</item>
+    </attr>
+    <attr name="actionBarTabBarStyle">
+        <item>1</item>
+    </attr>
+    <attr name="actionBarTabTextStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mzToolBarTabStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mzToolBarTabTextStyle">
+        <item>1</item>
+    </attr>
+    <attr name="actionOverflowButtonStyle">
+        <item>1</item>
+    </attr>
+    <attr name="actionOverflowMenuStyle">
+        <item>1</item>
+    </attr>
+    <attr name="actionBarPopupTheme">
+        <item>1</item>
+    </attr>
+    <attr name="actionBarStyle">
+        <item>1</item>
+    </attr>
+    <attr name="actionBarSplitStyle">
+        <item>1</item>
+    </attr>
+    <attr name="actionBarTheme">
+        <item>1</item>
+    </attr>
+    <attr name="actionBarWidgetTheme">
+        <item>1</item>
+    </attr>
+    <attr name="actionBarSize">
+        <item>65600</item>
+        <item>0</item>
+    </attr>
+    <attr name="actionBarDivider">
+        <item>1</item>
+    </attr>
+    <attr name="actionBarItemBackground">
+        <item>1</item>
+    </attr>
+    <attr name="actionMenuTextAppearance">
+        <item>1</item>
+    </attr>
+    <attr name="actionMenuTextColor">
+        <item>17</item>
+    </attr>
+    <attr name="actionModeStyle">
+        <item>1</item>
+    </attr>
+    <attr name="actionModeCloseButtonStyle">
+        <item>1</item>
+    </attr>
+    <attr name="actionModeBackground">
+        <item>1</item>
+    </attr>
+    <attr name="actionModeSplitBackground">
+        <item>1</item>
+    </attr>
+    <attr name="actionModeCloseDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="actionModeCutDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="actionModeCopyDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="actionModePasteDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="actionModeSelectAllDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="actionModeShareDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="actionModeFindDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="actionModeWebSearchDrawable">
+        <item>1</item>
+    </attr>
+    <attr name="actionModePopupWindowStyle">
+        <item>1</item>
+    </attr>
+    <attr name="textAppearanceLargePopupMenu">
+        <item>1</item>
+    </attr>
+    <attr name="textAppearanceSmallPopupMenu">
+        <item>1</item>
+    </attr>
+    <attr name="dialogTheme">
+        <item>1</item>
+    </attr>
+    <attr name="dialogPreferredPadding">
+        <item>64</item>
+    </attr>
+    <attr name="listDividerAlertDialog">
+        <item>1</item>
+    </attr>
+    <attr name="actionDropDownStyle">
+        <item>1</item>
+    </attr>
+    <attr name="dropdownListPreferredItemHeight">
+        <item>64</item>
+    </attr>
+    <attr name="spinnerDropDownItemStyle">
+        <item>1</item>
+    </attr>
+    <attr name="homeAsUpIndicator">
+        <item>1</item>
+    </attr>
+    <attr name="actionButtonStyle">
+        <item>1</item>
+    </attr>
+    <attr name="buttonBarStyle">
+        <item>1</item>
+    </attr>
+    <attr name="buttonBarButtonStyle">
+        <item>1</item>
+    </attr>
+    <attr name="selectableItemBackground">
+        <item>1</item>
+    </attr>
+    <attr name="selectableItemBackgroundBorderless">
+        <item>1</item>
+    </attr>
+    <attr name="borderlessButtonStyle">
+        <item>1</item>
+    </attr>
+    <attr name="dividerVertical">
+        <item>1</item>
+    </attr>
+    <attr name="dividerHorizontal">
+        <item>1</item>
+    </attr>
+    <attr name="activityChooserViewStyle">
+        <item>1</item>
+    </attr>
+    <attr name="toolbarStyle">
+        <item>1</item>
+    </attr>
+    <attr name="toolbarNavigationButtonStyle">
+        <item>1</item>
+    </attr>
+    <attr name="popupMenuStyle">
+        <item>1</item>
+    </attr>
+    <attr name="popupWindowStyle">
+        <item>1</item>
+    </attr>
+    <attr name="editTextColor">
+        <item>17</item>
+    </attr>
+    <attr name="editTextBackground">
+        <item>1</item>
+    </attr>
+    <attr name="textAppearanceSearchResultTitle">
+        <item>1</item>
+    </attr>
+    <attr name="textAppearanceSearchResultSubtitle">
+        <item>1</item>
+    </attr>
+    <attr name="textColorSearchUrl">
+        <item>17</item>
+    </attr>
+    <attr name="searchViewStyle">
+        <item>1</item>
+    </attr>
+    <attr name="listPreferredItemHeight">
+        <item>64</item>
+    </attr>
+    <attr name="listPreferredItemHeightSmall">
+        <item>64</item>
+    </attr>
+    <attr name="listPreferredItemHeightLarge">
+        <item>64</item>
+    </attr>
+    <attr name="listPreferredItemPaddingLeft">
+        <item>64</item>
+    </attr>
+    <attr name="listPreferredItemPaddingRight">
+        <item>64</item>
+    </attr>
+    <attr name="dropDownListViewStyle">
+        <item>1</item>
+    </attr>
+    <attr name="listPopupWindowStyle">
+        <item>1</item>
+    </attr>
+    <attr name="textAppearanceListItem">
+        <item>1</item>
+    </attr>
+    <attr name="textAppearanceListItemSmall">
+        <item>1</item>
+    </attr>
+    <attr name="panelBackground">
+        <item>1</item>
+    </attr>
+    <attr name="panelMenuListWidth">
+        <item>64</item>
+    </attr>
+    <attr name="panelMenuListTheme">
+        <item>1</item>
+    </attr>
+    <attr name="listChoiceBackgroundIndicator">
+        <item>1</item>
+    </attr>
+    <attr name="colorPrimary">
+        <item>16</item>
+    </attr>
+    <attr name="colorPrimaryDark">
+        <item>16</item>
+    </attr>
+    <attr name="colorAccent">
+        <item>16</item>
+    </attr>
+    <attr name="colorControlNormal">
+        <item>16</item>
+    </attr>
+    <attr name="colorControlActivated">
+        <item>16</item>
+    </attr>
+    <attr name="colorControlHighlight">
+        <item>16</item>
+    </attr>
+    <attr name="colorButtonNormal">
+        <item>16</item>
+    </attr>
+    <attr name="colorSwitchThumbNormal">
+        <item>16</item>
+    </attr>
+    <attr name="alertDialogStyle">
+        <item>1</item>
+    </attr>
+    <attr name="alertDialogButtonGroupStyle">
+        <item>1</item>
+    </attr>
+    <attr name="alertDialogCenterButtons">
+        <item>8</item>
+    </attr>
+    <attr name="alertDialogTheme">
+        <item>1</item>
+    </attr>
+    <attr name="textColorAlertDialogListItem">
+        <item>17</item>
+    </attr>
+    <attr name="buttonBarPositiveButtonStyle">
+        <item>1</item>
+    </attr>
+    <attr name="buttonBarNegativeButtonStyle">
+        <item>1</item>
+    </attr>
+    <attr name="buttonBarNeutralButtonStyle">
+        <item>1</item>
+    </attr>
+    <attr name="windowTitleStyle">
+        <item>1</item>
+    </attr>
+    <attr name="autoCompleteTextViewStyle">
+        <item>1</item>
+    </attr>
+    <attr name="buttonStyle">
+        <item>1</item>
+    </attr>
+    <attr name="buttonStyleSmall">
+        <item>1</item>
+    </attr>
+    <attr name="checkboxStyle">
+        <item>1</item>
+    </attr>
+    <attr name="checkedTextViewStyle">
+        <item>1</item>
+    </attr>
+    <attr name="editTextStyle">
+        <item>1</item>
+    </attr>
+    <attr name="radioButtonStyle">
+        <item>1</item>
+    </attr>
+    <attr name="ratingBarStyle">
+        <item>1</item>
+    </attr>
+    <attr name="spinnerStyle">
+        <item>1</item>
+    </attr>
+    <attr name="switchStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mzWindowSplitActionBar">
+        <item>8</item>
+    </attr>
+    <attr name="mzActionMenuTextAppearanceWithIcon">
+        <item>1</item>
+    </attr>
+    <attr name="mzColorActionBarTextPrimary">
+        <item>17</item>
+    </attr>
+    <attr name="mzMultiChoiceViewStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mzActionBarTabScrollViewStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mzActionMenuTextAppearanceWithIconSplit">
+        <item>1</item>
+    </attr>
+    <attr name="mzActionOverflowButtonSplitStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mzActionMenuTextAppearanceSplit">
+        <item>1</item>
+    </attr>
+    <attr name="mzActionBarSearchViewBackground">
+        <item>1</item>
+    </attr>
+    <attr name="mzMultiChoiceViewItemTextAppearance">
+        <item>1</item>
+    </attr>
+    <attr name="mzMultiChoiceViewItemStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mzColorAlertListItemCenter">
+        <item>17</item>
+    </attr>
+    <attr name="mzSplitActionBarFloat">
+        <item>8</item>
+    </attr>
+    <attr name="mzActionButtonRippleStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mzActionButtonRippleSplitStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mzRippleDefaultStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mzActionButtonSplitStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mzTabContainerCollapseButtonStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mzActionBarTabContainerStyle">
+        <item>1</item>
+    </attr>
+    <attr name="mzActionOverflowMenuSplitStyle">
+        <item>1</item>
+    </attr>
+    <attr name="isThemeDeviceDefault">
+        <item>8</item>
+    </attr>
+    <attr name="isThemeLight">
+        <item>8</item>
+    </attr>
+    <attr name="mcTipColor">
+        <item>16</item>
+    </attr>
+    <attr name="mcTipRadius">
+        <item>64</item>
+    </attr>
+    <attr name="titleTextAppearance">
+        <item>1</item>
+    </attr>
+    <attr name="subtitleTextAppearance">
+        <item>1</item>
+    </attr>
+    <attr name="titleMargins">
+        <item>64</item>
+    </attr>
+    <attr name="titleMarginStart">
+        <item>64</item>
+    </attr>
+    <attr name="titleMarginEnd">
+        <item>64</item>
+    </attr>
+    <attr name="titleMarginTop">
+        <item>64</item>
+    </attr>
+    <attr name="titleMarginBottom">
+        <item>64</item>
+    </attr>
+    <attr name="maxButtonHeight">
+        <item>64</item>
+    </attr>
+    <attr name="collapseIcon">
+        <item>1</item>
+    </attr>
+    <attr name="collapseContentDescription">
+        <item>2</item>
+    </attr>
+    <attr name="navigationIcon">
+        <item>1</item>
+    </attr>
+    <attr name="navigationContentDescription">
+        <item>2</item>
+    </attr>
+    <attr name="mzButtonGravity">
+        <item>131072</item>
+        <item>50</item>
+        <item>10</item>
+        <item>30</item>
+    </attr>
+    <attr name="paddingStart">
+        <item>64</item>
+    </attr>
+    <attr name="paddingEnd">
+        <item>64</item>
+    </attr>
+    <attr name="theme">
+        <item>1</item>
+    </attr>
+    <attr name="backgroundTint">
+        <item>16</item>
+    </attr>
+    <attr name="backgroundTintMode">
+        <item>65536</item>
+        <item>14</item>
+        <item>15</item>
+        <item>9</item>
+        <item>5</item>
+        <item>3</item>
+    </attr>
+    <attr name="duoqu_height">
+        <item>64</item>
+    </attr>
+    <attr name="duoqu_width">
+        <item>64</item>
+    </attr>
+    <attr name="title_textsize">
+        <item>64</item>
+    </attr>
+    <attr name="content_textsize">
+        <item>64</item>
+    </attr>
+    <attr name="title_textcolor">
+        <item>1</item>
+    </attr>
+    <attr name="content_textcolor">
+        <item>1</item>
+    </attr>
+    <attr name="title_paddingtop">
+        <item>64</item>
+    </attr>
+    <attr name="content_paddingtop">
+        <item>64</item>
+    </attr>
+    <attr name="content_paddingleft">
+        <item>64</item>
+    </attr>
+    <attr name="single_line">
+        <item>2</item>
+    </attr>
+    <attr name="line_spacing">
+        <item>64</item>
+    </attr>
+    <attr name="line_spacing_left">
+        <item>64</item>
+    </attr>
+    <attr name="line_spacing_right">
+        <item>64</item>
+    </attr>
+    <attr name="line_spacing_top">
+        <item>64</item>
+    </attr>
+    <attr name="line_spacing_top_bigsize">
+        <item>64</item>
+    </attr>
+    <attr name="margin_top">
+        <item>64</item>
+    </attr>
+    <attr name="title_width">
+        <item>64</item>
+    </attr>
+    <attr name="embedded_text_editor_text_size_attr">
+        <item>64</item>
+    </attr>
+    <attr name="cma_action_bar_new_title_text_size_attr">
+        <item>64</item>
+    </attr>
+    <attr name="cma_action_bar_name_title_text_size_attr">
+        <item>64</item>
+    </attr>
+    <attr name="cma_action_bar_number_title_text_size_attr">
+        <item>64</item>
+    </attr>
+    <attr name="cma_list_item_time_text_size_attr">
+        <item>64</item>
+    </attr>
+    <attr name="group_message_delivery_list_item_from_text_size_attr">
+        <item>64</item>
+    </attr>
+    <attr name="group_detail_date_tv_text_size_attr">
+        <item>64</item>
+    </attr>
+    <attr name="cma_action_bar_ic_dial">
+        <item>1</item>
+    </attr>
+    <attr name="cma_action_bar_ic_person">
+        <item>1</item>
+    </attr>
+    <attr name="conv_text1_size_attr">
+        <item>64</item>
+    </attr>
+    <attr name="conv_text2_size_attr">
+        <item>64</item>
+    </attr>
+    <attr name="conv_text_warning_size_attr">
+        <item>64</item>
+    </attr>
+    <attr name="conv_top_icon_text_size_attr">
+        <item>64</item>
+    </attr>
+    <attr name="conv_avatar_visibility_attr">
+        <item>8</item>
+    </attr>
+    <attr name="conv_from_max_width_no_cb_attr">
+        <item>64</item>
+    </attr>
+    <attr name="conv_subject_max_width_no_cb_attr">
+        <item>64</item>
+    </attr>
+    <attr name="conv_content_padding_left_attr">
+        <item>64</item>
+    </attr>
+    <attr name="conv_content_padding_right_attr">
+        <item>64</item>
+    </attr>
+    <attr name="conv_item_height_attr">
+        <item>64</item>
+    </attr>
+    <attr name="conv_from_subject_margin_attr">
+        <item>64</item>
+    </attr>
+    <attr name="conv_divider_margin_attr">
+        <item>64</item>
+    </attr>
+    <attr name="conv_header_text_size_attr">
+        <item>64</item>
+    </attr>
+    <attr name="conv_date_text_size_attr">
+        <item>64</item>
+    </attr>
+    <attr name="tittle_bar_ic_search_attr">
+        <item>1</item>
+    </attr>
+    <attr name="tittle_bar_ic_more_attr">
+        <item>1</item>
+    </attr>
+    <attr name="tittle_bar_ic_new_attr">
+        <item>1</item>
+    </attr>
+    <attr name="tittle_bar_ic_new_disable_attr">
+        <item>1</item>
+    </attr>
+    <attr name="create_new_bg">
+        <item>1</item>
+    </attr>
+    <attr name="create_new_text">
+        <item>2</item>
+    </attr>
+    <attr name="empty_view_title_style">
+        <item>1</item>
+    </attr>
+</resources>

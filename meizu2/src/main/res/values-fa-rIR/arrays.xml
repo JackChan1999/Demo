@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>بدون موضوع</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>همیشه</item>
+        <item>فقط در حالت بی صدا</item>
+        <item>هرگز</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 ثانیه</item>
+        <item>2 ثانیه</item>
+        <item>3 ثانیه</item>
+        <item>4 ثانیه</item>
+        <item>5 ثانیه</item>
+        <item>6 ثانیه</item>
+        <item>7 ثانیه</item>
+        <item>8 ثانیه</item>
+        <item>9 ثانیه</item>
+        <item>10 ثانیه</item>
+        <item>سایر</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>پیام پاک شود؟</item>
+        <item>موارد انتخاب شده پاک شود؟</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>ژانویه</item>
+        <item>فوریه</item>
+        <item>مارس</item>
+        <item>آوریل</item>
+        <item>مه</item>
+        <item>ژوئن</item>
+        <item>ژوئیه</item>
+        <item>اگوست</item>
+        <item>سپتامبر</item>
+        <item>اکتبر</item>
+        <item>نوامبر</item>
+        <item>دسامبر</item>
+    </array>
+    <array name="phrases">
+        <item>در حال حاضر مشغول هستم، بعداً با شما تماس میگیرم.</item>
+        <item>لطفاً بعداً با من تماس بگیرید، متشکرم.</item>
+        <item>بسیار خب، متشکرم.</item>
+        <item>در ترافیک هستم، کمی دیر میرسم.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>کاربر Weibo غیرقانونی</item>
+        <item>دسترسی محدود</item>
+        <item>کاربر موجود نیست</item>
+        <item>محتوا خالیست. ارسال ناموفق بود</item>
+        <item>بیش از 300 علامت وارد نکنید</item>
+        <item>نقض قوانین مربوطه، عملیات نامعتبر</item>
+        <item>همان محتوا نمیتواند مجدداً در عرض 10 دقیقه ارسال شود</item>
+        <item>بنظر میرسد URL که وارد کرده اید، امن نیست</item>
+        <item>به موجب قوانین و مقررات قابل اجرا، این محتوا نمی تواند ارسال شود</item>
+        <item>این ویژگی اکنون دردسترس نیست</item>
+        <item>پیامهای خصوصی نمیتوانند بدلیل تنظیمات حریم خصوصی بودن کاربر، به این کاربر ارسال شوند</item>
+        <item>وضعیت غیرمنتظره ورود</item>
+        <item>حساب قفل شده است</item>
+        <item>این محتوا موقتاً برای مشاهده دردسترس نیست</item>
+        <item>نمیتوانید پیامهای خصوصی به کاربرانی که از شما پیروی نمی کنند، ارسال کنید</item>
+        <item>پیام خصوصی غیرقانونی</item>
+        <item>پیام خصوصی موجود نیست</item>
+        <item>نمیتوانید همان پیام خصوصی را مجدداً ارسال کنید</item>
+        <item>ID پیام رسانی خصوصی غیرقانونی</item>
+        <item>پیامهای خصوصی بسیار زیادی ارسال شده بود</item>
+        <item>این خصوصی ناقض قوانین مربوطه است و مسدود شده است</item>
+        <item>به موجب قوانین و مقررات قابل اجرا، نمیتوانید هر پیام خصوصی را ارسال کنید</item>
+        <item>نشانه منقضی شد</item>
+        <item>نمیتوانید پیامهای خصوصی را با توجه به تنظیمات کاربر، به این کاربر ارسال کنید</item>
+        <item>شما قبلاً آن را ارسال کرده اید. یکبار کافیست</item>
+    </array>
+</resources>

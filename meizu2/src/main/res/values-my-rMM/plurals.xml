@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">စကားစျမည္ %1$s ခု ရွင္းလင္းပါ</item>
+        <item quantity="one">စကားစျမည္ %1$s ခု ရွင္းလင္းပါ</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+ အျခား မက္ေဆ့ခ်္ %1$s ခု</item>
+        <item quantity="one">+ အျခား မက္ေဆ့ခ်္ %1$s ခု</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">အဆက္အသြယ္ %1$s ခု</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s အတြက္ ရလဒ္ %2$s</item>
+        <item quantity="one">%1$s အတြက္ ရလဒ္ %2$s</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s စကၠန္႔</item>
+        <item quantity="one">%s စကၠန္႔</item>
+        <item quantity="few">%s စကၠန္႔</item>
+    </plurals>
+    <plurals name="confirm_delete_messages">
+        <item quantity="other">မက္ေဆ့ခ်္ %1$s ခု ဖ်က္ပစ္ပါ</item>
+        <item quantity="one">မက္ေဆ့ခ်္ %1$s ခု ဖ်က္ပစ္ပါ</item>
+    </plurals>
+</resources>

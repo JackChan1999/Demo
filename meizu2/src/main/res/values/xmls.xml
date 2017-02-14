@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <xml name="flyme_3dtouch_menu">res/xml/flyme_3dtouch_menu.xml</xml>
+    <xml name="mms_config">res/xml/mms_config.xml</xml>
+    <xml name="other_preferences">res/xml/other_preferences.xml</xml>
+    <xml name="other_preferences_multi_sim">res/xml/other_preferences_multi_sim.xml</xml>
+    <xml name="preferences">res/xml/preferences.xml</xml>
+    <xml name="preferences_multi_sim">res/xml/preferences_multi_sim.xml</xml>
+    <xml name="searchable">res/xml/searchable.xml</xml>
+    <xml name="sim_related_preferences">res/xml/sim_related_preferences.xml</xml>
+    <xml name="widget_info">res/xml/widget_info.xml</xml>
+</resources>

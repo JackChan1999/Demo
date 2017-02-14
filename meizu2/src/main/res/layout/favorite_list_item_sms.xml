@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.mms.fragmentstyle.FavoriteListItemSms xmlns:android="http://schemas.android.com/apk/res-auto" mms:orientation="vertical" mms:background="?unknown_attr_ref: 10102fd" mms:layout_width="match_parent" mms:layout_height="wrap_content">
+    <FrameLayout mms:layout_width="match_parent" mms:layout_height="wrap_content">
+        <LinearLayout mms:orientation="vertical" mms:id="@id/favorite_content" mms:paddingTop="@dimen/favorite_list_item_padding_top" mms:paddingBottom="@dimen/favorite_list_item_padding_bottom" mms:layout_width="match_parent" mms:layout_height="wrap_content" mms:layout_marginLeft="@dimen/favorite_list_item_padding_left" mms:layout_marginRight="@dimen/favorite_list_item_padding_right">
+            <com.android.mms.fragmentstyle.FavoriteListItemCommon mms:orientation="vertical" mms:id="@id/favorite_common" mms:layout_width="match_parent" mms:layout_height="wrap_content" />
+            <com.android.mms.view.MmsLayout mms:orientation="vertical" mms:id="@id/msg_content" mms:layout_width="match_parent" mms:layout_height="wrap_content" mms:layout_marginTop="@dimen/favorite_list_item_mms_content_margin_top" mms:max_width="@dimen/favorite_listItem_maxWidth" mms:msg_content_layout="@layout/favorite_sms_content_view" />
+        </LinearLayout>
+        <com.meizu.common.widget.AnimCheckBox mms:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" mms:id="0x1020001" mms:focusable="false" mms:visibility="invisible" mms:clickable="false" mms:layout_width="wrap_content" mms:layout_height="wrap_content" mms:layout_marginRight="@dimen/favorite_list_item_padding_right" style="@style/Widget.DeviceDefault.CompoundButton.CheckButtonlessMultiple.Color.LimeGreen" />
+    </FrameLayout>
+</com.android.mms.fragmentstyle.FavoriteListItemSms>

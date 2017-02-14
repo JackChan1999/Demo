@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="default_smiley_names">
+        <item>Vui vẻ</item>
+        <item>Buồn</item>
+        <item>Nháy mắt</item>
+        <item>Thè lưỡi</item>
+        <item>Ngạc nhiên</item>
+        <item>Hôn</item>
+        <item>La hét</item>
+        <item>Hấp dẫn</item>
+        <item>Mặt hám tiền</item>
+        <item>Há miệng mắc quai</item>
+        <item>Bối rối</item>
+        <item>Thiên thần</item>
+        <item>Chưa quyết định</item>
+        <item>Khóc</item>
+        <item>Môi bị bịt kín</item>
+        <item>Cười lớn</item>
+        <item>Bối rối</item>
+        <item>Trái tim</item>
+        <item>Giận dữ</item>
+        <item>Cười điệu</item>
+        <item>Mặt phớt tỉnh</item>
+    </array>
+    <array name="empty_subject_strings">
+        <item>không có chủ đề</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Luôn luôn</item>
+        <item>Chỉ khi ở chế độ im lặng</item>
+        <item>Chưa bao giờ</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 giây</item>
+        <item>2 giây</item>
+        <item>3 giây</item>
+        <item>4 giây</item>
+        <item>5 giây</item>
+        <item>6 giây</item>
+        <item>7 giây</item>
+        <item>8 giây</item>
+        <item>9 giây</item>
+        <item>10 giây</item>
+        <item>Khác</item>
+    </array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/get_location_parent_ll" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/sum_actionbar_height_statusbar_height">
+        <com.android.mms.location.amap.GetLocationView android:id="@id/getlocationview" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7f0d0298" />
+        <View android:background="@color/location_divider_under_map_color" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7f0d038c" />
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <ListView android:id="@id/poi_list" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x1" android:layout_weight="1.0" style="@style/Widget.DeviceDefault.Light.ListView.Meizu.Partition" />
+            <View android:background="@color/location_divider_color" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7f0d0284" />
+            <include android:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7f0d0281" layout="@layout/meizu_get_location_bottom_btn" />
+        </LinearLayout>
+    </LinearLayout>
+    <ListView android:id="@id/search_location_listview" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/sum_actionbar_height_statusbar_height" style="@style/Widget.DeviceDefault.Light.ListView.Meizu.Partition" />
+</merge>

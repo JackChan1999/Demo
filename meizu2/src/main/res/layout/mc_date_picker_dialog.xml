@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.meizu.common.widget.DatePicker xmlns:android="http://schemas.android.com/apk/res-auto" common:layout_gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end" common:id="@id/datePicker" common:layout_width="wrap_content" common:layout_height="wrap_content" common:spinnersShown="true" common:calendarViewShown="false" common:mcInternalLayout="@layout/mc_custom_date_picker" common:mcVisibleRow="3" />

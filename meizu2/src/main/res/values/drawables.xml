@@ -1,0 +1,2648 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="abc_ab_share_pack_holo_dark">
+        res/drawable-xxhdpi-v4/abc_ab_share_pack_holo_dark.9.png
+    </drawable>
+    <drawable name="abc_ab_share_pack_holo_light">
+        res/drawable-xxhdpi-v4/abc_ab_share_pack_holo_light.9.png
+    </drawable>
+    <drawable name="abc_ab_share_pack_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+    </drawable>
+    <drawable name="abc_btn_borderless_material">res/drawable/abc_btn_borderless_material.xml
+    </drawable>
+    <drawable name="abc_btn_check_material">res/drawable/abc_btn_check_material.xml</drawable>
+    <drawable name="abc_btn_check_to_on_mtrl_000">
+        res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+    </drawable>
+    <drawable name="abc_btn_check_to_on_mtrl_015">
+        res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+    </drawable>
+    <drawable name="abc_btn_default_mtrl_shape">res/drawable/abc_btn_default_mtrl_shape.xml
+    </drawable>
+    <drawable name="abc_btn_radio_material">res/drawable/abc_btn_radio_material.xml</drawable>
+    <drawable name="abc_btn_radio_to_on_mtrl_000">
+        res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+    </drawable>
+    <drawable name="abc_btn_radio_to_on_mtrl_015">
+        res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+    </drawable>
+    <drawable name="abc_btn_rating_star_off_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+    </drawable>
+    <drawable name="abc_btn_rating_star_on_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+    </drawable>
+    <drawable name="abc_btn_switch_to_on_mtrl_00001">
+        res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+    </drawable>
+    <drawable name="abc_btn_switch_to_on_mtrl_00012">
+        res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+    </drawable>
+    <drawable name="abc_cab_background_internal_bg">
+        res/drawable/abc_cab_background_internal_bg.xml
+    </drawable>
+    <drawable name="abc_cab_background_top_material">
+        res/drawable/abc_cab_background_top_material.xml
+    </drawable>
+    <drawable name="abc_cab_background_top_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+    </drawable>
+    <drawable name="abc_dialog_material_background_dark">
+        res/drawable/abc_dialog_material_background_dark.xml
+    </drawable>
+    <drawable name="abc_dialog_material_background_light">
+        res/drawable/abc_dialog_material_background_light.xml
+    </drawable>
+    <drawable name="abc_edit_text_material">res/drawable/abc_edit_text_material.xml</drawable>
+    <drawable name="abc_ic_ab_back_mtrl_am_alpha">
+        res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+    </drawable>
+    <drawable name="abc_ic_ab_back_mtrl_am_alpha">
+        res/drawable-ldrtl-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+    </drawable>
+    <drawable name="abc_ic_clear_mtrl_alpha">res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+    </drawable>
+    <drawable name="abc_ic_commit_search_api_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+    </drawable>
+    <drawable name="abc_ic_go_search_api_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+    </drawable>
+    <drawable name="abc_ic_menu_copy_mtrl_am_alpha">
+        res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+    </drawable>
+    <drawable name="abc_ic_menu_copy_mtrl_am_alpha">
+        res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+    </drawable>
+    <drawable name="abc_ic_menu_cut_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+    </drawable>
+    <drawable name="abc_ic_menu_cut_mtrl_alpha">
+        res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+    </drawable>
+    <drawable name="abc_ic_menu_moreoverflow_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+    </drawable>
+    <drawable name="abc_ic_menu_paste_mtrl_am_alpha">
+        res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+    </drawable>
+    <drawable name="abc_ic_menu_selectall_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+    </drawable>
+    <drawable name="abc_ic_menu_share_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+    </drawable>
+    <drawable name="abc_ic_search_api_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+    </drawable>
+    <drawable name="abc_ic_voice_search_api_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+    </drawable>
+    <drawable name="abc_item_background_holo_dark">res/drawable/abc_item_background_holo_dark.xml
+    </drawable>
+    <drawable name="abc_item_background_holo_light">
+        res/drawable/abc_item_background_holo_light.xml
+    </drawable>
+    <drawable name="abc_list_divider_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+    </drawable>
+    <drawable name="abc_list_focused_holo">res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+    </drawable>
+    <drawable name="abc_list_longpressed_holo">
+        res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+    </drawable>
+    <drawable name="abc_list_pressed_holo_dark">
+        res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+    </drawable>
+    <drawable name="abc_list_pressed_holo_light">
+        res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+    </drawable>
+    <drawable name="abc_list_selector_background_transition_holo_dark">
+        res/drawable/abc_list_selector_background_transition_holo_dark.xml
+    </drawable>
+    <drawable name="abc_list_selector_background_transition_holo_light">
+        res/drawable/abc_list_selector_background_transition_holo_light.xml
+    </drawable>
+    <drawable name="abc_list_selector_disabled_holo_dark">
+        res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+    </drawable>
+    <drawable name="abc_list_selector_disabled_holo_light">
+        res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+    </drawable>
+    <drawable name="abc_list_selector_holo_dark">res/drawable/abc_list_selector_holo_dark.xml
+    </drawable>
+    <drawable name="abc_list_selector_holo_light">res/drawable/abc_list_selector_holo_light.xml
+    </drawable>
+    <drawable name="abc_menu_hardkey_panel_mtrl_mult">
+        res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+    </drawable>
+    <drawable name="abc_popup_background_mtrl_mult">
+        res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+    </drawable>
+    <drawable name="abc_ratingbar_full_material">res/drawable/abc_ratingbar_full_material.xml
+    </drawable>
+    <drawable name="abc_spinner_mtrl_am_alpha">
+        res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+    </drawable>
+    <drawable name="abc_spinner_mtrl_am_alpha">
+        res/drawable-ldrtl-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+    </drawable>
+    <drawable name="abc_spinner_textfield_background_material">
+        res/drawable/abc_spinner_textfield_background_material.xml
+    </drawable>
+    <drawable name="abc_switch_thumb_material">res/drawable/abc_switch_thumb_material.xml</drawable>
+    <drawable name="abc_switch_track_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+    </drawable>
+    <drawable name="abc_tab_indicator_material">res/drawable/abc_tab_indicator_material.xml
+    </drawable>
+    <drawable name="abc_tab_indicator_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+    </drawable>
+    <drawable name="abc_text_cursor_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_text_cursor_mtrl_alpha.9.png
+    </drawable>
+    <drawable name="abc_textfield_activated_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+    </drawable>
+    <drawable name="abc_textfield_default_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+    </drawable>
+    <drawable name="abc_textfield_search_activated_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+    </drawable>
+    <drawable name="abc_textfield_search_default_mtrl_alpha">
+        res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+    </drawable>
+    <drawable name="abc_textfield_search_material">res/drawable/abc_textfield_search_material.xml
+    </drawable>
+    <drawable name="add_nick_name_bg">res/drawable-xxhdpi-v4/add_nick_name_bg.9.png</drawable>
+    <drawable name="add_nick_name_bg_pressed">
+        res/drawable-xxhdpi-v4/add_nick_name_bg_pressed.9.png
+    </drawable>
+    <drawable name="add_nick_name_selector">res/drawable/add_nick_name_selector.xml</drawable>
+    <drawable name="app_list_item_background">res/drawable/app_list_item_background.xml</drawable>
+    <drawable name="app_list_item_bg_disabled">
+        res/drawable-xxhdpi-v4/app_list_item_bg_disabled.9.png
+    </drawable>
+    <drawable name="app_list_item_divider">res/drawable-xxhdpi-v4/app_list_item_divider.9.png
+    </drawable>
+    <drawable name="app_list_item_pressed">res/drawable-xxhdpi-v4/app_list_item_pressed.9.png
+    </drawable>
+    <drawable name="app_list_selector_background">res/drawable/app_list_selector_background.xml
+    </drawable>
+    <drawable name="change_slot_item_selector">res/drawable/change_slot_item_selector.xml</drawable>
+    <drawable name="change_slot_pop_bg">res/drawable-xxhdpi-v4/change_slot_pop_bg.9.png</drawable>
+    <drawable name="chat_line">res/drawable-xxhdpi-v4/chat_line.9.png</drawable>
+    <drawable name="clear_btn_color">res/drawable/clear_btn_color.xml</drawable>
+    <drawable name="cloud_noti">res/drawable-xxhdpi-v4/cloud_noti.png</drawable>
+    <drawable name="cma_edit_attachment_bg">res/drawable-xxhdpi-v4/cma_edit_attachment_bg.9.png
+    </drawable>
+    <drawable name="cma_edit_attachment_bg_pressed">
+        res/drawable-xxhdpi-v4/cma_edit_attachment_bg_pressed.9.png
+    </drawable>
+    <drawable name="cma_edit_attachment_bg_selector">
+        res/drawable/cma_edit_attachment_bg_selector.xml
+    </drawable>
+    <drawable name="cma_item_background_recv">
+        res/drawable-xxhdpi-v4/cma_item_background_recv.9.png
+    </drawable>
+    <drawable name="cma_item_background_recv_search">
+        res/drawable-xxhdpi-v4/cma_item_background_recv_search.9.png
+    </drawable>
+    <drawable name="cma_item_background_recv_selected">
+        res/drawable-xxhdpi-v4/cma_item_background_recv_selected.9.png
+    </drawable>
+    <drawable name="cma_item_background_recv_selector">
+        res/drawable/cma_item_background_recv_selector.xml
+    </drawable>
+    <drawable name="cma_item_background_send">
+        res/drawable-xxhdpi-v4/cma_item_background_send.9.png
+    </drawable>
+    <drawable name="cma_item_background_send_search">
+        res/drawable-xxhdpi-v4/cma_item_background_send_search.9.png
+    </drawable>
+    <drawable name="cma_item_background_send_selected">
+        res/drawable-xxhdpi-v4/cma_item_background_send_selected.9.png
+    </drawable>
+    <drawable name="cma_item_background_send_selector">
+        res/drawable/cma_item_background_send_selector.xml
+    </drawable>
+    <drawable name="cma_item_background_with_attach">
+        res/drawable-xxhdpi-v4/cma_item_background_with_attach.9.png
+    </drawable>
+    <drawable name="cma_list_sim1">res/drawable-xxhdpi-v4/cma_list_sim1.png</drawable>
+    <drawable name="cma_list_sim1_large">res/drawable-xxhdpi-v4/cma_list_sim1_large.png</drawable>
+    <drawable name="cma_list_sim2">res/drawable-xxhdpi-v4/cma_list_sim2.png</drawable>
+    <drawable name="cma_list_sim2_large">res/drawable-xxhdpi-v4/cma_list_sim2_large.png</drawable>
+    <drawable name="cma_list_sim_cloud">res/drawable-xxhdpi-v4/cma_list_sim_cloud.png</drawable>
+    <drawable name="cma_list_sim_cloud_large">res/drawable-xxhdpi-v4/cma_list_sim_cloud_large.png
+    </drawable>
+    <drawable name="compose_screen_bg">res/drawable-xxhdpi-v4/compose_screen_bg.9.png</drawable>
+    <drawable name="confirm_bg">res/drawable-xxhdpi-v4/confirm_bg.9.png</drawable>
+    <drawable name="duoqu_air_direction_black">
+        res/drawable-xxhdpi-v4/duoqu_air_direction_black.png
+    </drawable>
+    <drawable name="duoqu_air_direction_white">
+        res/drawable-xxhdpi-v4/duoqu_air_direction_white.png
+    </drawable>
+    <drawable name="duoqu_bottom_rectangle">res/drawable/duoqu_bottom_rectangle.xml</drawable>
+    <drawable name="duoqu_bottom_rectangle_0">res/drawable/duoqu_bottom_rectangle_0.xml</drawable>
+    <drawable name="duoqu_bottom_rectangle_op">res/drawable/duoqu_bottom_rectangle_op.xml</drawable>
+    <drawable name="duoqu_budy_title_rectangle">res/drawable/duoqu_budy_title_rectangle.xml
+    </drawable>
+    <drawable name="duoqu_button_corner">res/drawable/duoqu_button_corner.xml</drawable>
+    <drawable name="duoqu_button_corner_onpress">res/drawable/duoqu_button_corner_onpress.xml
+    </drawable>
+    <drawable name="duoqu_button_corner_selector">res/drawable/duoqu_button_corner_selector.xml
+    </drawable>
+    <drawable name="duoqu_call">res/drawable/duoqu_call.xml</drawable>
+    <drawable name="duoqu_call_disable">res/drawable-xxhdpi-v4/duoqu_call_disable.png</drawable>
+    <drawable name="duoqu_call_nomal">res/drawable-xxhdpi-v4/duoqu_call_nomal.png</drawable>
+    <drawable name="duoqu_call_pressed">res/drawable-xxhdpi-v4/duoqu_call_pressed.png</drawable>
+    <drawable name="duoqu_chakan">res/drawable/duoqu_chakan.xml</drawable>
+    <drawable name="duoqu_chakan_disable">res/drawable-xxhdpi-v4/duoqu_chakan_disable.png</drawable>
+    <drawable name="duoqu_chakan_normal">res/drawable-xxhdpi-v4/duoqu_chakan_normal.png</drawable>
+    <drawable name="duoqu_chakan_pressed">res/drawable-xxhdpi-v4/duoqu_chakan_pressed.png</drawable>
+    <drawable name="duoqu_chongzhi">res/drawable/duoqu_chongzhi.xml</drawable>
+    <drawable name="duoqu_chongzhi_disable">res/drawable-xxhdpi-v4/duoqu_chongzhi_disable.png
+    </drawable>
+    <drawable name="duoqu_chongzhi_normal">res/drawable-xxhdpi-v4/duoqu_chongzhi_normal.png
+    </drawable>
+    <drawable name="duoqu_chongzhi_pressed">res/drawable-xxhdpi-v4/duoqu_chongzhi_pressed.png
+    </drawable>
+    <drawable name="duoqu_copy_code">res/drawable/duoqu_copy_code.xml</drawable>
+    <drawable name="duoqu_copy_code_disable">res/drawable-xxhdpi-v4/duoqu_copy_code_disable.png
+    </drawable>
+    <drawable name="duoqu_copy_code_normal">res/drawable-xxhdpi-v4/duoqu_copy_code_normal.png
+    </drawable>
+    <drawable name="duoqu_copy_code_pressed">res/drawable-xxhdpi-v4/duoqu_copy_code_pressed.png
+    </drawable>
+    <drawable name="duoqu_default_logo">res/drawable-xxhdpi-v4/duoqu_default_logo.png</drawable>
+    <drawable name="duoqu_dialog_button">res/drawable/duoqu_dialog_button.xml</drawable>
+    <drawable name="duoqu_dialog_corner">res/drawable/duoqu_dialog_corner.xml</drawable>
+    <drawable name="duoqu_dialog_rectangle">res/drawable/duoqu_dialog_rectangle.xml</drawable>
+    <drawable name="duoqu_dialog_title">res/drawable/duoqu_dialog_title.xml</drawable>
+    <drawable name="duoqu_dotted_head_blue">res/drawable-xxhdpi-v4/duoqu_dotted_head_blue.png
+    </drawable>
+    <drawable name="duoqu_dotted_split">res/drawable/duoqu_dotted_split.xml</drawable>
+    <drawable name="duoqu_dotted_split_head">res/drawable/duoqu_dotted_split_head.xml</drawable>
+    <drawable name="duoqu_dotted_split_single">
+        res/drawable-xxhdpi-v4/duoqu_dotted_split_single.png
+    </drawable>
+    <drawable name="duoqu_dotted_split_single_2">
+        res/drawable-xxhdpi-v4/duoqu_dotted_split_single_2.png
+    </drawable>
+    <drawable name="duoqu_download">res/drawable/duoqu_download.xml</drawable>
+    <drawable name="duoqu_download_disable">res/drawable-xxhdpi-v4/duoqu_download_disable.png
+    </drawable>
+    <drawable name="duoqu_download_normal">res/drawable-xxhdpi-v4/duoqu_download_normal.png
+    </drawable>
+    <drawable name="duoqu_download_pressed">res/drawable-xxhdpi-v4/duoqu_download_pressed.png
+    </drawable>
+    <drawable name="duoqu_email">res/drawable/duoqu_email.xml</drawable>
+    <drawable name="duoqu_email_normal">res/drawable-xxhdpi-v4/duoqu_email_normal.png</drawable>
+    <drawable name="duoqu_fenqi">res/drawable/duoqu_fenqi.xml</drawable>
+    <drawable name="duoqu_fenqi_normal">res/drawable-xxhdpi-v4/duoqu_fenqi_normal.png</drawable>
+    <drawable name="duoqu_ic_ab_back_holo_dark">
+        res/drawable-xxhdpi-v4/duoqu_ic_ab_back_holo_dark.png
+    </drawable>
+    <drawable name="duoqu_ic_ab_back_holo_dark_near">
+        res/drawable-xxhdpi-v4/duoqu_ic_ab_back_holo_dark_near.png
+    </drawable>
+    <drawable name="duoqu_list_items_bottom_background">
+        res/drawable/duoqu_list_items_bottom_background.xml
+    </drawable>
+    <drawable name="duoqu_list_items_content_empty">
+        res/drawable-xxhdpi-v4/duoqu_list_items_content_empty.png
+    </drawable>
+    <drawable name="duoqu_list_items_content_full">
+        res/drawable-xxhdpi-v4/duoqu_list_items_content_full.png
+    </drawable>
+    <drawable name="duoqu_list_scrollbar">res/drawable-xxhdpi-v4/duoqu_list_scrollbar.9.png
+    </drawable>
+    <drawable name="duoqu_map">res/drawable/duoqu_map.xml</drawable>
+    <drawable name="duoqu_map_disable">res/drawable-xxhdpi-v4/duoqu_map_disable.png</drawable>
+    <drawable name="duoqu_map_normal">res/drawable-xxhdpi-v4/duoqu_map_normal.png</drawable>
+    <drawable name="duoqu_map_pressed">res/drawable-xxhdpi-v4/duoqu_map_pressed.png</drawable>
+    <drawable name="duoqu_nearby_point_load_more">
+        res/drawable-xxhdpi-v4/duoqu_nearby_point_load_more.png
+    </drawable>
+    <drawable name="duoqu_nearby_point_network_lose">
+        res/drawable-xxhdpi-v4/duoqu_nearby_point_network_lose.png
+    </drawable>
+    <drawable name="duoqu_nearby_point_origin">
+        res/drawable-xxhdpi-v4/duoqu_nearby_point_origin.png
+    </drawable>
+    <drawable name="duoqu_nearby_point_search_result">
+        res/drawable-xxhdpi-v4/duoqu_nearby_point_search_result.png
+    </drawable>
+    <drawable name="duoqu_network">res/drawable/duoqu_network.xml</drawable>
+    <drawable name="duoqu_network_disable">res/drawable-xxhdpi-v4/duoqu_network_disable.png
+    </drawable>
+    <drawable name="duoqu_network_normal">res/drawable-xxhdpi-v4/duoqu_network_normal.png</drawable>
+    <drawable name="duoqu_network_pressed">res/drawable-xxhdpi-v4/duoqu_network_pressed.png
+    </drawable>
+    <drawable name="duoqu_networksetting">res/drawable-xxhdpi-v4/duoqu_networksetting.png</drawable>
+    <drawable name="duoqu_nonetwork">res/drawable-xxhdpi-v4/duoqu_nonetwork.png</drawable>
+    <drawable name="duoqu_notice_sim1_list">res/drawable-xxhdpi-v4/duoqu_notice_sim1_list.png
+    </drawable>
+    <drawable name="duoqu_notice_sim2_list">res/drawable-xxhdpi-v4/duoqu_notice_sim2_list.png
+    </drawable>
+    <drawable name="duoqu_notification_default_small_icon">
+        res/drawable-xxhdpi-v4/duoqu_notification_default_small_icon.png
+    </drawable>
+    <drawable name="duoqu_notify_button_normal">
+        res/drawable-xxhdpi-v4/duoqu_notify_button_normal.9.png
+    </drawable>
+    <drawable name="duoqu_notify_button_pressed">
+        res/drawable-xxhdpi-v4/duoqu_notify_button_pressed.9.png
+    </drawable>
+    <drawable name="duoqu_notify_button_style">res/drawable/duoqu_notify_button_style.xml</drawable>
+    <drawable name="duoqu_pop_bg_gray">res/drawable-xxhdpi-v4/duoqu_pop_bg_gray.9.png</drawable>
+    <drawable name="duoqu_pop_menu">res/drawable-xxhdpi-v4/duoqu_pop_menu.png</drawable>
+    <drawable name="duoqu_popupwindow_menu">res/drawable-xxhdpi-v4/duoqu_popupwindow_menu.9.png
+    </drawable>
+    <drawable name="duoqu_progress_bar_states">res/drawable/duoqu_progress_bar_states.xml</drawable>
+    <drawable name="duoqu_purpose_line">res/drawable/duoqu_purpose_line.xml</drawable>
+    <drawable name="duoqu_reply">res/drawable/duoqu_reply.xml</drawable>
+    <drawable name="duoqu_reply_disable">res/drawable-xxhdpi-v4/duoqu_reply_disable.png</drawable>
+    <drawable name="duoqu_reply_normal">res/drawable-xxhdpi-v4/duoqu_reply_normal.png</drawable>
+    <drawable name="duoqu_reply_pressed">res/drawable-xxhdpi-v4/duoqu_reply_pressed.png</drawable>
+    <drawable name="duoqu_time_remind">res/drawable/duoqu_time_remind.xml</drawable>
+    <drawable name="duoqu_time_remind_disable">
+        res/drawable-xxhdpi-v4/duoqu_time_remind_disable.png
+    </drawable>
+    <drawable name="duoqu_time_remind_normal">res/drawable-xxhdpi-v4/duoqu_time_remind_normal.png
+    </drawable>
+    <drawable name="duoqu_time_remind_pressed">
+        res/drawable-xxhdpi-v4/duoqu_time_remind_pressed.png
+    </drawable>
+    <drawable name="duoqu_top_rectangle">res/drawable/duoqu_top_rectangle.xml</drawable>
+    <drawable name="duoqu_train_direction_white">
+        res/drawable-xxhdpi-v4/duoqu_train_direction_white.png
+    </drawable>
+    <drawable name="duoqu_train_more">res/drawable-xxhdpi-v4/duoqu_train_more.png</drawable>
+    <drawable name="duoqu_train_switch">res/drawable-xxhdpi-v4/duoqu_train_switch.png</drawable>
+    <drawable name="duoqu_web_header_close">res/drawable-xxhdpi-v4/duoqu_web_header_close.png
+    </drawable>
+    <drawable name="duoqu_webtitle_selector">res/drawable/duoqu_webtitle_selector.xml</drawable>
+    <drawable name="duoqu_with_button_div">res/drawable-xxhdpi-v4/duoqu_with_button_div.png
+    </drawable>
+    <drawable name="error_bar_background">res/drawable-xxhdpi-v4/error_bar_background.9.png
+    </drawable>
+    <drawable name="fastscroller_letterbar_lightblack">
+        res/drawable/fastscroller_letterbar_lightblack.png
+    </drawable>
+    <drawable name="fastscroller_letterbar_lightwhite">
+        res/drawable/fastscroller_letterbar_lightwhite.png
+    </drawable>
+    <drawable name="fastscroller_letterbar_white">res/drawable/fastscroller_letterbar_white.png
+    </drawable>
+    <drawable name="flyme_voice_pause_left">res/drawable-xxhdpi-v4/flyme_voice_pause_left.png
+    </drawable>
+    <drawable name="flyme_voice_pause_right">res/drawable-xxhdpi-v4/flyme_voice_pause_right.png
+    </drawable>
+    <drawable name="flyme_voice_play_left">res/drawable-xxhdpi-v4/flyme_voice_play_left.png
+    </drawable>
+    <drawable name="flyme_voice_play_right">res/drawable-xxhdpi-v4/flyme_voice_play_right.png
+    </drawable>
+    <drawable name="foreground">res/drawable/foreground.xml</drawable>
+    <drawable name="function_introduction">res/drawable-xxhdpi-v4/function_introduction.png
+    </drawable>
+    <drawable name="gradient_bg_widget_holo">res/drawable-xxhdpi-v4/gradient_bg_widget_holo.9.png
+    </drawable>
+    <drawable name="hairline_left">res/drawable-xxhdpi-v4/hairline_left.9.png</drawable>
+    <drawable name="header_bg_mms_widget_holo">
+        res/drawable-xxhdpi-v4/header_bg_mms_widget_holo.9.png
+    </drawable>
+    <drawable name="ic_add_keyboard">res/drawable-xxhdpi-v4/ic_add_keyboard.png</drawable>
+    <drawable name="ic_add_keyboard_disable">res/drawable-xxhdpi-v4/ic_add_keyboard_disable.png
+    </drawable>
+    <drawable name="ic_attach_capture_audio_holo_light">
+        res/drawable-xxhdpi-v4/ic_attach_capture_audio_holo_light.png
+    </drawable>
+    <drawable name="ic_attach_slideshow_holo_light">
+        res/drawable-xxhdpi-v4/ic_attach_slideshow_holo_light.png
+    </drawable>
+    <drawable name="ic_attachment_universal_small">
+        res/drawable-xxhdpi-v4/ic_attachment_universal_small.png
+    </drawable>
+    <drawable name="ic_chat_attachment_thumbnail_default">
+        res/drawable-xxhdpi-v4/ic_chat_attachment_thumbnail_default.png
+    </drawable>
+    <drawable name="ic_clock">res/drawable-xxhdpi-v4/ic_clock.png</drawable>
+    <drawable name="ic_clock_input">res/drawable-xxhdpi-v4/ic_clock_input.png</drawable>
+    <drawable name="ic_contact">res/drawable-xxhdpi-v4/ic_contact.png</drawable>
+    <drawable name="ic_dial_large">res/drawable-xxhdpi-v4/ic_dial_large.png</drawable>
+    <drawable name="ic_dial_normal">res/drawable-xxhdpi-v4/ic_dial_normal.png</drawable>
+    <drawable name="ic_file_folder">res/drawable-xxhdpi-v4/ic_file_folder.png</drawable>
+    <drawable name="ic_file_folder_pressed">res/drawable-xxhdpi-v4/ic_file_folder_pressed.png
+    </drawable>
+    <drawable name="ic_file_folder_selector">res/drawable/ic_file_folder_selector.xml</drawable>
+    <drawable name="ic_folder">res/drawable-xxhdpi-v4/ic_folder.png</drawable>
+    <drawable name="ic_from_camera">res/drawable-xxhdpi-v4/ic_from_camera.png</drawable>
+    <drawable name="ic_group_attachment_selector">res/drawable/ic_group_attachment_selector.xml
+    </drawable>
+    <drawable name="ic_group_detail">res/drawable-xxhdpi-v4/ic_group_detail.png</drawable>
+    <drawable name="ic_group_detail_press">res/drawable-xxhdpi-v4/ic_group_detail_press.png
+    </drawable>
+    <drawable name="ic_group_detail_selector">res/drawable/ic_group_detail_selector.xml</drawable>
+    <drawable name="ic_group_next">res/drawable-xxhdpi-v4/ic_group_next.png</drawable>
+    <drawable name="ic_group_next_press">res/drawable-xxhdpi-v4/ic_group_next_press.png</drawable>
+    <drawable name="ic_group_next_selector">res/drawable/ic_group_next_selector.xml</drawable>
+    <drawable name="ic_image">res/drawable-xxhdpi-v4/ic_image.png</drawable>
+    <drawable name="ic_keyboard_sim1">res/drawable-xxhdpi-v4/ic_keyboard_sim1.png</drawable>
+    <drawable name="ic_keyboard_sim2">res/drawable-xxhdpi-v4/ic_keyboard_sim2.png</drawable>
+    <drawable name="ic_keyboard_sim_unknow">res/drawable-xxhdpi-v4/ic_keyboard_sim_unknow.png
+    </drawable>
+    <drawable name="ic_launcher_contacts">res/drawable-xxhdpi-v4/ic_launcher_contacts.png</drawable>
+    <drawable name="ic_list_account_flyme">res/drawable-xxhdpi-v4/ic_list_account_flyme.png
+    </drawable>
+    <drawable name="ic_list_alert_sms_failed">res/drawable-xxhdpi-v4/ic_list_alert_sms_failed.png
+    </drawable>
+    <drawable name="ic_list_flyme">res/drawable-xxhdpi-v4/ic_list_flyme.png</drawable>
+    <drawable name="ic_list_flyme_ok">res/drawable-xxhdpi-v4/ic_list_flyme_ok.png</drawable>
+    <drawable name="ic_location">res/drawable-xxhdpi-v4/ic_location.png</drawable>
+    <drawable name="ic_map_default">res/drawable-xxhdpi-v4/ic_map_default.png</drawable>
+    <drawable name="ic_map_my_location_dot">res/drawable-xxhdpi-v4/ic_map_my_location_dot.png
+    </drawable>
+    <drawable name="ic_map_pin">res/drawable-xxhdpi-v4/ic_map_pin.png</drawable>
+    <drawable name="ic_map_pin_shadow">res/drawable-xxhdpi-v4/ic_map_pin_shadow.png</drawable>
+    <drawable name="ic_map_view_current">res/drawable-xxhdpi-v4/ic_map_view_current.png</drawable>
+    <drawable name="ic_map_view_current_disable">
+        res/drawable-xxhdpi-v4/ic_map_view_current_disable.png
+    </drawable>
+    <drawable name="ic_map_view_current_pressed">
+        res/drawable-xxhdpi-v4/ic_map_view_current_pressed.png
+    </drawable>
+    <drawable name="ic_map_view_divider">res/drawable-xxhdpi-v4/ic_map_view_divider.9.png</drawable>
+    <drawable name="ic_maps_back">res/drawable-xxhdpi-v4/ic_maps_back.png</drawable>
+    <drawable name="ic_maps_next">res/drawable-xxhdpi-v4/ic_maps_next.png</drawable>
+    <drawable name="ic_menu_add_slide">res/drawable-xxhdpi-v4/ic_menu_add_slide.png</drawable>
+    <drawable name="ic_menu_add_sound">res/drawable-xxhdpi-v4/ic_menu_add_sound.png</drawable>
+    <drawable name="ic_menu_delete_played">res/drawable-xxhdpi-v4/ic_menu_delete_played.png
+    </drawable>
+    <drawable name="ic_menu_duration">res/drawable-xxhdpi-v4/ic_menu_duration.png</drawable>
+    <drawable name="ic_menu_move_down">res/drawable-xxhdpi-v4/ic_menu_move_down.png</drawable>
+    <drawable name="ic_menu_move_up">res/drawable-xxhdpi-v4/ic_menu_move_up.png</drawable>
+    <drawable name="ic_menu_movie">res/drawable-xxhdpi-v4/ic_menu_movie.png</drawable>
+    <drawable name="ic_menu_msg_compose_holo_dark">
+        res/drawable-xxhdpi-v4/ic_menu_msg_compose_holo_dark.png
+    </drawable>
+    <drawable name="ic_menu_picture">res/drawable-xxhdpi-v4/ic_menu_picture.png</drawable>
+    <drawable name="ic_menu_play_clip">res/drawable-xxhdpi-v4/ic_menu_play_clip.png</drawable>
+    <drawable name="ic_menu_remove_picture">res/drawable-xxhdpi-v4/ic_menu_remove_picture.png
+    </drawable>
+    <drawable name="ic_menu_remove_sound">res/drawable-xxhdpi-v4/ic_menu_remove_sound.png</drawable>
+    <drawable name="ic_menu_remove_text">res/drawable-xxhdpi-v4/ic_menu_remove_text.png</drawable>
+    <drawable name="ic_menu_remove_video">res/drawable-xxhdpi-v4/ic_menu_remove_video.png</drawable>
+    <drawable name="ic_message_empty">res/drawable-xxhdpi-v4/ic_message_empty.png</drawable>
+    <drawable name="ic_missing_thumbnail_picture">
+        res/drawable-xxhdpi-v4/ic_missing_thumbnail_picture.png
+    </drawable>
+    <drawable name="ic_missing_thumbnail_video">
+        res/drawable-xxhdpi-v4/ic_missing_thumbnail_video.png
+    </drawable>
+    <drawable name="ic_mms_duration">res/drawable-xxhdpi-v4/ic_mms_duration.png</drawable>
+    <drawable name="ic_mms_layout">res/drawable-xxhdpi-v4/ic_mms_layout.png</drawable>
+    <drawable name="ic_mms_music">res/drawable-xxhdpi-v4/ic_mms_music.png</drawable>
+    <drawable name="ic_mms_text_bottom">res/drawable-xxhdpi-v4/ic_mms_text_bottom.png</drawable>
+    <drawable name="ic_mms_text_top">res/drawable-xxhdpi-v4/ic_mms_text_top.png</drawable>
+    <drawable name="ic_new">res/drawable-xxhdpi-v4/ic_new.png</drawable>
+    <drawable name="ic_new_fail">res/drawable-xxhdpi-v4/ic_new_fail.png</drawable>
+    <drawable name="ic_new_large">res/drawable-xxhdpi-v4/ic_new_large.9.png</drawable>
+    <drawable name="ic_new_large_pressed">res/drawable-xxhdpi-v4/ic_new_large_pressed.9.png
+    </drawable>
+    <drawable name="ic_new_mms">res/drawable-xxhdpi-v4/ic_new_mms.png</drawable>
+    <drawable name="ic_new_mms_single_digit">res/drawable-xxhdpi-v4/ic_new_mms_single_digit.png
+    </drawable>
+    <drawable name="ic_new_mms_ten_digit">res/drawable-xxhdpi-v4/ic_new_mms_ten_digit.png</drawable>
+    <drawable name="ic_new_mms_ten_digit_more">
+        res/drawable-xxhdpi-v4/ic_new_mms_ten_digit_more.png
+    </drawable>
+    <drawable name="ic_new_press">res/drawable-xxhdpi-v4/ic_new_press.png</drawable>
+    <drawable name="ic_new_selector">res/drawable/ic_new_selector.xml</drawable>
+    <drawable name="ic_new_selector_large">res/drawable/ic_new_selector_large.xml</drawable>
+    <drawable name="ic_online">res/drawable-xxhdpi-v4/ic_online.9.png</drawable>
+    <drawable name="ic_overflow_more">res/drawable-xxxhdpi-v4/ic_overflow_more.png</drawable>
+    <drawable name="ic_person_large">res/drawable-xxhdpi-v4/ic_person_large.png</drawable>
+    <drawable name="ic_person_normal">res/drawable-xxhdpi-v4/ic_person_normal.png</drawable>
+    <drawable name="ic_quick_reply">res/drawable-xxhdpi-v4/ic_quick_reply.png</drawable>
+    <drawable name="ic_record">res/drawable-xxhdpi-v4/ic_record.png</drawable>
+    <drawable name="ic_resend">res/drawable-xxhdpi-v4/ic_resend.png</drawable>
+    <drawable name="ic_resend_large">res/drawable-xxhdpi-v4/ic_resend_large.png</drawable>
+    <drawable name="ic_resend_large_selector">res/drawable/ic_resend_large_selector.xml</drawable>
+    <drawable name="ic_resend_pressed">res/drawable-xxhdpi-v4/ic_resend_pressed.png</drawable>
+    <drawable name="ic_resend_pressed_large">res/drawable-xxhdpi-v4/ic_resend_pressed_large.png
+    </drawable>
+    <drawable name="ic_resend_selector">res/drawable/ic_resend_selector.xml</drawable>
+    <drawable name="ic_save">res/drawable-xxhdpi-v4/ic_save.png</drawable>
+    <drawable name="ic_save_pressed">res/drawable-xxhdpi-v4/ic_save_pressed.png</drawable>
+    <drawable name="ic_save_selector">res/drawable/ic_save_selector.xml</drawable>
+    <drawable name="ic_sb_add">res/drawable-xxhdpi-v4/ic_sb_add.png</drawable>
+    <drawable name="ic_sb_add_disable">res/drawable-xxhdpi-v4/ic_sb_add_disable.png</drawable>
+    <drawable name="ic_sb_add_selector">res/drawable/ic_sb_add_selector.xml</drawable>
+    <drawable name="ic_sb_attachment">res/drawable-xxhdpi-v4/ic_sb_attachment.png</drawable>
+    <drawable name="ic_sb_attachment_disable">res/drawable-xxhdpi-v4/ic_sb_attachment_disable.png
+    </drawable>
+    <drawable name="ic_sb_attachment_selector">res/drawable/ic_sb_attachment_selector.xml</drawable>
+    <drawable name="ic_sb_cancel_favorite">res/drawable-xxhdpi-v4/ic_sb_cancel_favorite.png
+    </drawable>
+    <drawable name="ic_sb_copy">res/drawable-xxhdpi-v4/ic_sb_copy.png</drawable>
+    <drawable name="ic_sb_copy_disable">res/drawable-xxhdpi-v4/ic_sb_copy_disable.png</drawable>
+    <drawable name="ic_sb_delete">res/drawable-xxhdpi-v4/ic_sb_delete.png</drawable>
+    <drawable name="ic_sb_delete_disable">res/drawable-xxhdpi-v4/ic_sb_delete_disable.png</drawable>
+    <drawable name="ic_sb_delete_selector">res/drawable/ic_sb_delete_selector.xml</drawable>
+    <drawable name="ic_sb_filter">res/drawable-xxhdpi-v4/ic_sb_filter.png</drawable>
+    <drawable name="ic_sb_filter_disabled">res/drawable-xxhdpi-v4/ic_sb_filter_disabled.png
+    </drawable>
+    <drawable name="ic_sb_filter_selector">res/drawable/ic_sb_filter_selector.xml</drawable>
+    <drawable name="ic_sb_forward">res/drawable-xxhdpi-v4/ic_sb_forward.png</drawable>
+    <drawable name="ic_sb_forward_disable">res/drawable-xxhdpi-v4/ic_sb_forward_disable.png
+    </drawable>
+    <drawable name="ic_sb_keyboard">res/drawable-xxhdpi-v4/ic_sb_keyboard.png</drawable>
+    <drawable name="ic_sb_keyboard_selector">res/drawable/ic_sb_keyboard_selector.xml</drawable>
+    <drawable name="ic_sb_mark_read">res/drawable-xxhdpi-v4/ic_sb_mark_read.png</drawable>
+    <drawable name="ic_sb_mark_read_disabled">res/drawable-xxhdpi-v4/ic_sb_mark_read_disabled.png
+    </drawable>
+    <drawable name="ic_sb_mark_read_selector">res/drawable/ic_sb_mark_read_selector.xml</drawable>
+    <drawable name="ic_sb_new">res/drawable-xxhdpi-v4/ic_sb_new.png</drawable>
+    <drawable name="ic_sb_new_disable">res/drawable-xxhdpi-v4/ic_sb_new_disable.png</drawable>
+    <drawable name="ic_sb_new_disable_large">res/drawable-xxhdpi-v4/ic_sb_new_disable_large.png
+    </drawable>
+    <drawable name="ic_sb_new_large">res/drawable-xxhdpi-v4/ic_sb_new_large.png</drawable>
+    <drawable name="ic_sb_new_selector">res/drawable/ic_sb_new_selector.xml</drawable>
+    <drawable name="ic_sb_send">res/drawable-xxhdpi-v4/ic_sb_send.png</drawable>
+    <drawable name="ic_sb_send_disable">res/drawable-xxhdpi-v4/ic_sb_send_disable.png</drawable>
+    <drawable name="ic_sb_send_press">res/drawable-xxhdpi-v4/ic_sb_send_press.png</drawable>
+    <drawable name="ic_sb_top">res/drawable-xxhdpi-v4/ic_sb_top.png</drawable>
+    <drawable name="ic_sb_top_cancel">res/drawable-xxhdpi-v4/ic_sb_top_cancel.png</drawable>
+    <drawable name="ic_sb_top_cancel_selector">res/drawable/ic_sb_top_cancel_selector.xml</drawable>
+    <drawable name="ic_sb_top_disable">res/drawable-xxhdpi-v4/ic_sb_top_disable.png</drawable>
+    <drawable name="ic_sb_top_selector">res/drawable/ic_sb_top_selector.xml</drawable>
+    <drawable name="ic_send">res/drawable/ic_send.xml</drawable>
+    <drawable name="ic_slide">res/drawable-xxhdpi-v4/ic_slide.png</drawable>
+    <drawable name="ic_sms_mms_delivered">res/drawable-xxhdpi-v4/ic_sms_mms_delivered.png</drawable>
+    <drawable name="ic_sms_mms_details">res/drawable-xxhdpi-v4/ic_sms_mms_details.png</drawable>
+    <drawable name="ic_sms_mms_not_delivered">res/drawable-xxhdpi-v4/ic_sms_mms_not_delivered.png
+    </drawable>
+    <drawable name="ic_sms_mms_pending">res/drawable-xxhdpi-v4/ic_sms_mms_pending.png</drawable>
+    <drawable name="ic_star_nm">res/drawable-xxhdpi-v4/ic_star_nm.png</drawable>
+    <drawable name="ic_star_nm_disable">res/drawable-xxhdpi-v4/ic_star_nm_disable.png</drawable>
+    <drawable name="ic_tab_restore">res/drawable-xxhdpi-v4/ic_tab_restore.png</drawable>
+    <drawable name="ic_topbar_flyme">res/drawable-xxhdpi-v4/ic_topbar_flyme.png</drawable>
+    <drawable name="ic_topbar_flyme_close">res/drawable-xxhdpi-v4/ic_topbar_flyme_close.png
+    </drawable>
+    <drawable name="ic_topbar_flyme_disable">res/drawable-xxhdpi-v4/ic_topbar_flyme_disable.png
+    </drawable>
+    <drawable name="ic_topbar_sns_sina">res/drawable-xxhdpi-v4/ic_topbar_sns_sina.png</drawable>
+    <drawable name="ic_voice_sms">res/drawable-xxhdpi-v4/ic_voice_sms.png</drawable>
+    <drawable name="ic_voice_sms_disable">res/drawable-xxhdpi-v4/ic_voice_sms_disable.png</drawable>
+    <drawable name="ic_voice_sms_selector">res/drawable/ic_voice_sms_selector.xml</drawable>
+    <drawable name="icon_type_sina">res/drawable-xxhdpi-v4/icon_type_sina.png</drawable>
+    <drawable name="input_bg">res/drawable-xxhdpi-v4/input_bg.9.png</drawable>
+    <drawable name="launcher_item_divider">res/drawable-xxhdpi-v4/launcher_item_divider.9.png
+    </drawable>
+    <drawable name="launcher_list_selector_background">
+        res/drawable/launcher_list_selector_background.xml
+    </drawable>
+    <drawable name="list_div_top_btm_mms_widget_holo">
+        res/drawable-xxhdpi-v4/list_div_top_btm_mms_widget_holo.9.png
+    </drawable>
+    <drawable name="list_focused_holo">res/drawable-xxhdpi-v4/list_focused_holo.9.png</drawable>
+    <drawable name="list_item_font_primary">res/drawable/list_item_font_primary.xml</drawable>
+    <drawable name="list_item_font_secondary">res/drawable/list_item_font_secondary.xml</drawable>
+    <drawable name="list_pressed_holo">res/drawable-xxhdpi-v4/list_pressed_holo.9.png</drawable>
+    <drawable name="list_read_holo">res/drawable-xxhdpi-v4/list_read_holo.9.png</drawable>
+    <drawable name="list_top_icon">res/drawable-xxhdpi-v4/list_top_icon.9.png</drawable>
+    <drawable name="list_top_icon_large">res/drawable/list_top_icon_large.9.png</drawable>
+    <drawable name="list_top_icon_large">res/drawable-xxhdpi-v4/list_top_icon_large.9.png</drawable>
+    <drawable name="list_unread_holo">res/drawable-xxhdpi-v4/list_unread_holo.9.png</drawable>
+    <drawable name="listitem_background">res/drawable/listitem_background.xml</drawable>
+    <drawable name="location_current_check">res/drawable-xxhdpi-v4/location_current_check.png
+    </drawable>
+    <drawable name="location_my_location_tv_bg">
+        res/drawable-xxhdpi-v4/location_my_location_tv_bg.9.png
+    </drawable>
+    <drawable name="location_reset_btn_src">res/drawable/location_reset_btn_src.xml</drawable>
+    <drawable name="mark_all_as_read_background">res/drawable/mark_all_as_read_background.xml
+    </drawable>
+    <drawable name="mark_as_all_text_color_selector">
+        res/drawable/mark_as_all_text_color_selector.xml
+    </drawable>
+    <drawable name="mark_read_checkecd">res/drawable-xxhdpi-v4/mark_read_checkecd.png</drawable>
+    <drawable name="mark_read_normal">res/drawable-xxhdpi-v4/mark_read_normal.png</drawable>
+    <drawable name="mark_unread_checkecd">res/drawable-xxhdpi-v4/mark_unread_checkecd.png</drawable>
+    <drawable name="mark_unread_normal">res/drawable-xxhdpi-v4/mark_unread_normal.png</drawable>
+    <drawable name="mc_action_menu_borderless_background">
+        res/drawable/mc_action_menu_borderless_background.xml
+    </drawable>
+    <drawable name="mc_action_menu_borderless_normal">
+        res/drawable-xxhdpi-v4/mc_action_menu_borderless_normal.png
+    </drawable>
+    <drawable name="mc_action_menu_borderless_pressed">
+        res/drawable-xxhdpi-v4/mc_action_menu_borderless_pressed.png
+    </drawable>
+    <drawable name="mc_action_menu_view_background">
+        res/drawable/mc_action_menu_view_background.xml
+    </drawable>
+    <drawable name="mc_action_menu_view_background_normal">
+        res/drawable/mc_action_menu_view_background_normal.xml
+    </drawable>
+    <drawable name="mc_action_menu_view_background_pressed">
+        res/drawable/mc_action_menu_view_background_pressed.xml
+    </drawable>
+    <drawable name="mc_bg_week_switch_off">res/drawable-xxhdpi-v4/mc_bg_week_switch_off.png
+    </drawable>
+    <drawable name="mc_bg_week_switch_off_disable">
+        res/drawable-xxhdpi-v4/mc_bg_week_switch_off_disable.png
+    </drawable>
+    <drawable name="mc_bg_week_switch_on">res/drawable-xxhdpi-v4/mc_bg_week_switch_on.png</drawable>
+    <drawable name="mc_bg_week_switch_on_disable">
+        res/drawable-xxhdpi-v4/mc_bg_week_switch_on_disable.png
+    </drawable>
+    <drawable name="mc_btn_corner_disable_pressed">res/drawable/mc_btn_corner_disable_pressed.xml
+    </drawable>
+    <drawable name="mc_btn_list_default_alpha_normal">
+        res/drawable-xxhdpi-v4/mc_btn_list_default_alpha_normal.9.png
+    </drawable>
+    <drawable name="mc_btn_list_default_alpha_pressed">
+        res/drawable-xxhdpi-v4/mc_btn_list_default_alpha_pressed.9.png
+    </drawable>
+    <drawable name="mc_btn_list_default_normal">
+        res/drawable-xxhdpi-v4/mc_btn_list_default_normal.9.png
+    </drawable>
+    <drawable name="mc_btn_list_default_pressed">
+        res/drawable-xxhdpi-v4/mc_btn_list_default_pressed.9.png
+    </drawable>
+    <drawable name="mc_btn_tips_delete">res/drawable-xxhdpi-v4/mc_btn_tips_delete.png</drawable>
+    <drawable name="mc_checkbox_counter">res/drawable-xxhdpi-v4/mc_checkbox_counter.9.png</drawable>
+    <drawable name="mc_checkbox_counter_disable">
+        res/drawable-xxhdpi-v4/mc_checkbox_counter_disable.9.png
+    </drawable>
+    <drawable name="mc_cir_pro_btn_background">res/drawable/mc_cir_pro_btn_background.xml</drawable>
+    <drawable name="mc_contact_list_call">res/drawable-xxhdpi-v4/mc_contact_list_call.png</drawable>
+    <drawable name="mc_contact_list_picture">res/drawable-xxhdpi-v4/mc_contact_list_picture.png
+    </drawable>
+    <drawable name="mc_contact_list_picture_box">res/drawable/mc_contact_list_picture_box.xml
+    </drawable>
+    <drawable name="mc_contact_list_picture_call_pressed">
+        res/drawable-xxhdpi-v4/mc_contact_list_picture_call_pressed.png
+    </drawable>
+    <drawable name="mc_contact_list_picture_cover">
+        res/drawable-xxhdpi-v4/mc_contact_list_picture_cover.9.png
+    </drawable>
+    <drawable name="mc_contact_list_picture_default">
+        res/drawable-xxhdpi-v4/mc_contact_list_picture_default.9.png
+    </drawable>
+    <drawable name="mc_contact_list_picture_pressed">
+        res/drawable-xxhdpi-v4/mc_contact_list_picture_pressed.9.png
+    </drawable>
+    <drawable name="mc_contact_list_picture_shadow">
+        res/drawable-xxhdpi-v4/mc_contact_list_picture_shadow.9.png
+    </drawable>
+    <drawable name="mc_contact_small_picture">res/drawable-xxhdpi-v4/mc_contact_small_picture.png
+    </drawable>
+    <drawable name="mc_content_toast_bg_error">res/drawable/mc_content_toast_bg_error.xml</drawable>
+    <drawable name="mc_content_toast_bg_normal">res/drawable/mc_content_toast_bg_normal.xml
+    </drawable>
+    <drawable name="mc_custombutton_corner_pressed_color_background">
+        res/drawable/mc_custombutton_corner_pressed_color_background.xml
+    </drawable>
+    <drawable name="mc_default_word_point">res/drawable-xxhdpi-v4/mc_default_word_point.png
+    </drawable>
+    <drawable name="mc_expandable_preference_rotate_icon">
+        res/drawable-xxhdpi-v4/mc_expandable_preference_rotate_icon.png
+    </drawable>
+    <drawable name="mc_galleryflow_ablum_background">
+        res/drawable-xxhdpi-v4/mc_galleryflow_ablum_background.9.png
+    </drawable>
+    <drawable name="mc_galleryflow_ablum_foreground">
+        res/drawable-xxhdpi-v4/mc_galleryflow_ablum_foreground.png
+    </drawable>
+    <drawable name="mc_galleryflow_ablum_title_bg">
+        res/drawable-xxhdpi-v4/mc_galleryflow_ablum_title_bg.png
+    </drawable>
+    <drawable name="mc_gesture_slider">res/drawable-xxhdpi-v4/mc_gesture_slider.png</drawable>
+    <drawable name="mc_guide_left">res/drawable-xxhdpi-v4/mc_guide_left.9.png</drawable>
+    <drawable name="mc_guide_middle">res/drawable-xxhdpi-v4/mc_guide_middle.9.png</drawable>
+    <drawable name="mc_guide_middle_up">res/drawable-xxhdpi-v4/mc_guide_middle_up.9.png</drawable>
+    <drawable name="mc_guide_right">res/drawable-xxhdpi-v4/mc_guide_right.9.png</drawable>
+    <drawable name="mc_header_icon_input_clear">
+        res/drawable-xxhdpi-v4/mc_header_icon_input_clear.png
+    </drawable>
+    <drawable name="mc_header_icon_input_search">
+        res/drawable-xxhdpi-v4/mc_header_icon_input_search.png
+    </drawable>
+    <drawable name="mc_ic_foo">res/drawable-xxhdpi-v4/mc_ic_foo.png</drawable>
+    <drawable name="mc_ic_in_call_touch_answer">res/drawable/mc_ic_in_call_touch_answer.xml
+    </drawable>
+    <drawable name="mc_ic_in_call_touch_decline">res/drawable/mc_ic_in_call_touch_decline.xml
+    </drawable>
+    <drawable name="mc_ic_incoming_ringing_outerring">
+        res/drawable/mc_ic_incoming_ringing_outerring.xml
+    </drawable>
+    <drawable name="mc_ic_incoming_ringing_outerring_small">
+        res/drawable/mc_ic_incoming_ringing_outerring_small.xml
+    </drawable>
+    <drawable name="mc_ic_incoming_ringing_touch_handle">
+        res/drawable-xxhdpi-v4/mc_ic_incoming_ringing_touch_handle.png
+    </drawable>
+    <drawable name="mc_ic_incoming_ringing_touch_handle_small">
+        res/drawable-xxhdpi-v4/mc_ic_incoming_ringing_touch_handle_small.png
+    </drawable>
+    <drawable name="mc_ic_letter_search_bg">res/drawable-xxhdpi-v4/mc_ic_letter_search_bg.9.png
+    </drawable>
+    <drawable name="mc_ic_letter_search_point">
+        res/drawable-xxhdpi-v4/mc_ic_letter_search_point.png
+    </drawable>
+    <drawable name="mc_ic_popup_calendar_gregorian">
+        res/drawable-xxhdpi-v4/mc_ic_popup_calendar_gregorian.png
+    </drawable>
+    <drawable name="mc_ic_popup_calendar_lunar">
+        res/drawable-xxhdpi-v4/mc_ic_popup_calendar_lunar.png
+    </drawable>
+    <drawable name="mc_pinned_header_background">
+        res/drawable-xxhdpi-v4/mc_pinned_header_background.9.png
+    </drawable>
+    <drawable name="mc_scrubber_primary_vertical">res/drawable/mc_scrubber_primary_vertical.xml
+    </drawable>
+    <drawable name="mc_scrubber_primary_vertical_disable">
+        res/drawable-xxhdpi-v4/mc_scrubber_primary_vertical_disable.9.png
+    </drawable>
+    <drawable name="mc_scrubber_primary_vertical_normal">
+        res/drawable-xxhdpi-v4/mc_scrubber_primary_vertical_normal.9.png
+    </drawable>
+    <drawable name="mc_scrubber_progress_vertical_light">
+        res/drawable/mc_scrubber_progress_vertical_light.xml
+    </drawable>
+    <drawable name="mc_scrubber_track_shadow_vertical">
+        res/drawable-xxhdpi-v4/mc_scrubber_track_shadow_vertical.9.png
+    </drawable>
+    <drawable name="mc_scrubber_track_vertical">
+        res/drawable-xxhdpi-v4/mc_scrubber_track_vertical.9.png
+    </drawable>
+    <drawable name="mc_selection_button_background">
+        res/drawable/mc_selection_button_background.xml
+    </drawable>
+    <drawable name="mc_slide_shadow_r">res/drawable-xxhdpi-v4/mc_slide_shadow_r.9.png</drawable>
+    <drawable name="mc_slidingmenu_shadow">res/drawable/mc_slidingmenu_shadow.xml</drawable>
+    <drawable name="mc_spinner_normal_light">res/drawable-xxhdpi-v4/mc_spinner_normal_light.9.png
+    </drawable>
+    <drawable name="mc_spinner_normal_light_pressed">
+        res/drawable-xxhdpi-v4/mc_spinner_normal_light_pressed.9.png
+    </drawable>
+    <drawable name="mc_switch_anim_thumb_off_selector">
+        res/drawable/mc_switch_anim_thumb_off_selector.xml
+    </drawable>
+    <drawable name="mc_switch_anim_thumb_off_selector_color_white">
+        res/drawable/mc_switch_anim_thumb_off_selector_color_white.xml
+    </drawable>
+    <drawable name="mc_switch_anim_thumb_on_selector">
+        res/drawable/mc_switch_anim_thumb_on_selector.xml
+    </drawable>
+    <drawable name="mc_switch_anim_thumb_on_selector_color_white">
+        res/drawable/mc_switch_anim_thumb_on_selector_color_white.xml
+    </drawable>
+    <drawable name="mc_switch_anim_track">res/drawable/mc_switch_anim_track.xml</drawable>
+    <drawable name="mc_switch_anim_track_color_white">
+        res/drawable/mc_switch_anim_track_color_white.xml
+    </drawable>
+    <drawable name="mc_switch_bg_default">res/drawable-xxhdpi-v4/mc_switch_bg_default.png</drawable>
+    <drawable name="mc_switch_bg_default_color_white">
+        res/drawable-xxhdpi-v4/mc_switch_bg_default_color_white.png
+    </drawable>
+    <drawable name="mc_switch_bg_default_dark">
+        res/drawable-xxhdpi-v4/mc_switch_bg_default_dark.png
+    </drawable>
+    <drawable name="mc_switch_bg_default_dark_color_white">
+        res/drawable-xxhdpi-v4/mc_switch_bg_default_dark_color_white.png
+    </drawable>
+    <drawable name="mc_switch_bg_disabled">res/drawable-xxhdpi-v4/mc_switch_bg_disabled.png
+    </drawable>
+    <drawable name="mc_switch_bg_disabled_color_white">
+        res/drawable-xxhdpi-v4/mc_switch_bg_disabled_color_white.png
+    </drawable>
+    <drawable name="mc_switch_thumb_activated_color_blue">
+        res/drawable-xxhdpi-v4/mc_switch_thumb_activated_color_blue.png
+    </drawable>
+    <drawable name="mc_switch_thumb_activated_color_white">
+        res/drawable-xxhdpi-v4/mc_switch_thumb_activated_color_white.png
+    </drawable>
+    <drawable name="mc_switch_thumb_activated_disabled_color_blue">
+        res/drawable-xxhdpi-v4/mc_switch_thumb_activated_disabled_color_blue.png
+    </drawable>
+    <drawable name="mc_switch_thumb_activated_disabled_color_white">
+        res/drawable-xxhdpi-v4/mc_switch_thumb_activated_disabled_color_white.png
+    </drawable>
+    <drawable name="mc_switch_thumb_activated_pressed_color_blue">
+        res/drawable-xxhdpi-v4/mc_switch_thumb_activated_pressed_color_blue.png
+    </drawable>
+    <drawable name="mc_switch_thumb_activated_pressed_color_white">
+        res/drawable-xxhdpi-v4/mc_switch_thumb_activated_pressed_color_white.png
+    </drawable>
+    <drawable name="mc_switch_thumb_off">res/drawable-xxhdpi-v4/mc_switch_thumb_off.9.png</drawable>
+    <drawable name="mc_switch_thumb_off_color_white">
+        res/drawable-xxhdpi-v4/mc_switch_thumb_off_color_white.9.png
+    </drawable>
+    <drawable name="mc_switch_thumb_off_disabled">
+        res/drawable-xxhdpi-v4/mc_switch_thumb_off_disabled.png
+    </drawable>
+    <drawable name="mc_switch_thumb_off_disabled_color_white">
+        res/drawable-xxhdpi-v4/mc_switch_thumb_off_disabled_color_white.png
+    </drawable>
+    <drawable name="mc_sym_call_list_incoming">
+        res/drawable-xxhdpi-v4/mc_sym_call_list_incoming.png
+    </drawable>
+    <drawable name="mc_sym_call_list_missed">res/drawable-xxhdpi-v4/mc_sym_call_list_missed.png
+    </drawable>
+    <drawable name="mc_sym_call_list_outgoing">
+        res/drawable-xxhdpi-v4/mc_sym_call_list_outgoing.png
+    </drawable>
+    <drawable name="mc_sym_call_list_record">res/drawable-xxhdpi-v4/mc_sym_call_list_record.png
+    </drawable>
+    <drawable name="mc_sym_call_list_record_fail">
+        res/drawable-xxhdpi-v4/mc_sym_call_list_record_fail.png
+    </drawable>
+    <drawable name="mc_sym_call_list_reject">res/drawable-xxhdpi-v4/mc_sym_call_list_reject.png
+    </drawable>
+    <drawable name="mc_sym_call_list_ringing">res/drawable-xxhdpi-v4/mc_sym_call_list_ringing.png
+    </drawable>
+    <drawable name="mc_sym_call_list_stranger">
+        res/drawable-xxhdpi-v4/mc_sym_call_list_stranger.png
+    </drawable>
+    <drawable name="mc_sym_call_list_voicemail">
+        res/drawable-xxhdpi-v4/mc_sym_call_list_voicemail.png
+    </drawable>
+    <drawable name="mc_viewpager_cover">res/drawable-xxhdpi-v4/mc_viewpager_cover.9.png</drawable>
+    <drawable name="meizu_slide_item_audio_playbtn_background_selector">
+        res/drawable/meizu_slide_item_audio_playbtn_background_selector.xml
+    </drawable>
+    <drawable name="message_close">res/drawable-xxhdpi-v4/message_close.png</drawable>
+    <drawable name="message_popup_background">
+        res/drawable-xxhdpi-v4/message_popup_background.9.png
+    </drawable>
+    <drawable name="mms_attachment_default_bg">res/drawable/mms_attachment_default_bg.xml</drawable>
+    <drawable name="mms_mask_layer">res/drawable/mms_mask_layer.xml</drawable>
+    <drawable name="mms_menu_copy_selector">res/drawable/mms_menu_copy_selector.xml</drawable>
+    <drawable name="mms_menu_forward_selector">res/drawable/mms_menu_forward_selector.xml</drawable>
+    <drawable name="mms_notify_icon">res/drawable-xxhdpi-v4/mms_notify_icon.png</drawable>
+    <drawable name="mms_play_btn">res/drawable-xxhdpi-v4/mms_play_btn.png</drawable>
+    <drawable name="mms_play_btn_press">res/drawable-xxhdpi-v4/mms_play_btn_press.png</drawable>
+    <drawable name="mms_play_btn_selector">res/drawable/mms_play_btn_selector.xml</drawable>
+    <drawable name="mms_popup_dial">res/drawable/mms_popup_dial.xml</drawable>
+    <drawable name="mms_popup_dial_normal">res/drawable-xxhdpi-v4/mms_popup_dial_normal.png
+    </drawable>
+    <drawable name="mms_popup_dial_pressed">res/drawable-xxhdpi-v4/mms_popup_dial_pressed.png
+    </drawable>
+    <drawable name="mms_progress_bar_bg_recv">res/drawable/mms_progress_bar_bg_recv.xml</drawable>
+    <drawable name="mms_progress_bar_bg_send">res/drawable/mms_progress_bar_bg_send.xml</drawable>
+    <drawable name="mms_sms_change_btn_bg">res/drawable/mms_sms_change_btn_bg.xml</drawable>
+    <drawable name="movie">res/drawable-xxhdpi-v4/movie.png</drawable>
+    <drawable name="msg_bubble_left">res/drawable-xxhdpi-v4/msg_bubble_left.png</drawable>
+    <drawable name="msg_bubble_right">res/drawable-xxhdpi-v4/msg_bubble_right.png</drawable>
+    <drawable name="mult_choice_select_all_text">res/drawable/mult_choice_select_all_text.xml
+    </drawable>
+    <drawable name="mw_btn_list_add">res/drawable/mw_btn_list_add.xml</drawable>
+    <drawable name="mw_btn_list_add_normal">res/drawable-xxhdpi-v4/mw_btn_list_add_normal.png
+    </drawable>
+    <drawable name="mw_btn_list_add_pressed">res/drawable-xxhdpi-v4/mw_btn_list_add_pressed.png
+    </drawable>
+    <drawable name="mw_ic_list_delete_contact">
+        res/drawable-xxhdpi-v4/mw_ic_list_delete_contact.png
+    </drawable>
+    <drawable name="mw_ic_list_global_contact">
+        res/drawable-xxhdpi-v4/mw_ic_list_global_contact.png
+    </drawable>
+    <drawable name="mw_ic_list_sns_sina_weibo">
+        res/drawable-xxhdpi-v4/mw_ic_list_sns_sina_weibo.png
+    </drawable>
+    <drawable name="mw_list_divider_light">res/drawable-xxhdpi-v4/mw_list_divider_light.9.png
+    </drawable>
+    <drawable name="mw_list_history_background">
+        res/drawable-xxhdpi-v4/mw_list_history_background.9.png
+    </drawable>
+    <drawable name="mw_list_history_background_noshadow">
+        res/drawable-xxhdpi-v4/mw_list_history_background_noshadow.9.png
+    </drawable>
+    <drawable name="mw_recipient_divider_email_2px">
+        res/drawable-xxhdpi-v4/mw_recipient_divider_email_2px.9.png
+    </drawable>
+    <drawable name="mw_recipient_divider_sms_2px">
+        res/drawable-xxhdpi-v4/mw_recipient_divider_sms_2px.9.png
+    </drawable>
+    <drawable name="mw_recipient_selected_bg">res/drawable/mw_recipient_selected_bg.xml</drawable>
+    <drawable name="mw_recipient_selected_bg_calendar">
+        res/drawable/mw_recipient_selected_bg_calendar.xml
+    </drawable>
+    <drawable name="mw_recipient_selected_bg_easymode">
+        res/drawable-xxhdpi-v4/mw_recipient_selected_bg_easymode.xml
+    </drawable>
+    <drawable name="mw_recipient_selected_bg_mns">res/drawable/mw_recipient_selected_bg_mns.xml
+    </drawable>
+    <drawable name="mw_recipient_text">res/drawable/mw_recipient_text.xml</drawable>
+    <drawable name="mw_recipient_text_calendar">res/drawable/mw_recipient_text_calendar.xml
+    </drawable>
+    <drawable name="mw_recipient_text_easymode">
+        res/drawable-xxhdpi-v4/mw_recipient_text_easymode.xml
+    </drawable>
+    <drawable name="mw_recipient_text_mns">res/drawable/mw_recipient_text_mns.xml</drawable>
+    <drawable name="mw_recipient_textcolor">res/drawable/mw_recipient_textcolor.xml</drawable>
+    <drawable name="mw_recipient_textcolor_calendar">
+        res/drawable/mw_recipient_textcolor_calendar.xml
+    </drawable>
+    <drawable name="mw_recipient_textcolor_easymode">
+        res/drawable-xxhdpi-v4/mw_recipient_textcolor_easymode.xml
+    </drawable>
+    <drawable name="mw_recipient_textcolor_mns">res/drawable/mw_recipient_textcolor_mns.xml
+    </drawable>
+    <drawable name="mw_scrollbar_handle_vertical">
+        res/drawable-xxhdpi-v4/mw_scrollbar_handle_vertical.9.png
+    </drawable>
+    <drawable name="mz_abc_zoom_background">res/drawable-xxhdpi-v4/mz_abc_zoom_background.png
+    </drawable>
+    <drawable name="mz_action_bar_tab_indicator">
+        res/drawable-xxhdpi-v4/mz_action_bar_tab_indicator.9.png
+    </drawable>
+    <drawable name="mz_action_bar_tab_indicator_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_action_bar_tab_indicator_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_action_bar_tab_indicator_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_action_bar_tab_indicator_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_actionbar_progress_horizontal">
+        res/drawable/mz_actionbar_progress_horizontal.xml
+    </drawable>
+    <drawable name="mz_actionbar_progress_horizontal_color_dodgerblue">
+        res/drawable/mz_actionbar_progress_horizontal_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_actionbar_progress_horizontal_color_limegreen">
+        res/drawable/mz_actionbar_progress_horizontal_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_activated_background">res/drawable/mz_activated_background.xml</drawable>
+    <drawable name="mz_alertdialog_buttonbar_background">
+        res/drawable/mz_alertdialog_buttonbar_background.xml
+    </drawable>
+    <drawable name="mz_arrow_next_right">res/drawable/mz_arrow_next_right.xml</drawable>
+    <drawable name="mz_arrow_next_right_disable">
+        res/drawable-xxhdpi-v4/mz_arrow_next_right_disable.png
+    </drawable>
+    <drawable name="mz_arrow_next_right_disable">
+        res/drawable-ldrtl-xxhdpi-v4/mz_arrow_next_right_disable.png
+    </drawable>
+    <drawable name="mz_arrow_next_right_normal">
+        res/drawable-xxhdpi-v4/mz_arrow_next_right_normal.png
+    </drawable>
+    <drawable name="mz_arrow_next_right_normal">
+        res/drawable-ldrtl-xxhdpi-v4/mz_arrow_next_right_normal.png
+    </drawable>
+    <drawable name="mz_arrow_next_right_warning">
+        res/drawable-xxhdpi-v4/mz_arrow_next_right_warning.png
+    </drawable>
+    <drawable name="mz_btn_background_transition_light">
+        res/drawable/mz_btn_background_transition_light.xml
+    </drawable>
+    <drawable name="mz_btn_bigstar_off">res/drawable-xxhdpi-v4/mz_btn_bigstar_off.png</drawable>
+    <drawable name="mz_btn_bigstar_on">res/drawable-xxhdpi-v4/mz_btn_bigstar_on.png</drawable>
+    <drawable name="mz_btn_bigstar_on_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_btn_bigstar_on_color_dodgerblue.png
+    </drawable>
+    <drawable name="mz_btn_bigstar_on_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_btn_bigstar_on_color_limegreen.png
+    </drawable>
+    <drawable name="mz_btn_bigstar_on_pressed">
+        res/drawable-xxhdpi-v4/mz_btn_bigstar_on_pressed.png
+    </drawable>
+    <drawable name="mz_btn_bigstar_on_pressed_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_btn_bigstar_on_pressed_color_dodgerblue.png
+    </drawable>
+    <drawable name="mz_btn_bigstar_on_pressed_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_btn_bigstar_on_pressed_color_limegreen.png
+    </drawable>
+    <drawable name="mz_btn_borderless_background">res/drawable/mz_btn_borderless_background.xml
+    </drawable>
+    <drawable name="mz_btn_check_button_circle_off_disable">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_circle_off_disable.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_circle_off_disable_dark">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_circle_off_disable_dark.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_circle_off_normal">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_circle_off_normal.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_circle_off_normal_dark">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_circle_off_normal_dark.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_off_disable_arrow">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_off_disable_arrow.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_off_disable_arrow_circle">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_off_disable_arrow_circle.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_off_disable_arrow_dark">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_off_disable_arrow_dark.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_off_normal_arrow">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_off_normal_arrow.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_off_normal_arrow_circle">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_off_normal_arrow_circle.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_off_normal_arrow_dark">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_off_normal_arrow_dark.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_square_off">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_square_off.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_square_off_dark">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_square_off_dark.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_square_off_disable">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_square_off_disable.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_square_off_disable_dark">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_square_off_disable_dark.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_square_off_white">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_square_off_white.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_square_on">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_square_on.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_square_on_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_square_on_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_square_on_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_square_on_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_square_on_disable">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_square_on_disable.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_square_on_disable_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_square_on_disable_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_btn_check_button_square_on_disable_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_btn_check_button_square_on_disable_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_btn_check_buttonless_multiple">
+        res/drawable/mz_btn_check_buttonless_multiple.xml
+    </drawable>
+    <drawable name="mz_btn_check_buttonless_multiple_arrow_circle_color_dodgerblue">
+        res/drawable/mz_btn_check_buttonless_multiple_arrow_circle_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_btn_check_buttonless_multiple_arrow_circle_color_limegreen">
+        res/drawable/mz_btn_check_buttonless_multiple_arrow_circle_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_btn_check_buttonless_multiple_arrow_color_dodgerblue">
+        res/drawable/mz_btn_check_buttonless_multiple_arrow_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_btn_check_buttonless_multiple_arrow_color_dodgerblue_dark">
+        res/drawable/mz_btn_check_buttonless_multiple_arrow_color_dodgerblue_dark.xml
+    </drawable>
+    <drawable name="mz_btn_check_buttonless_multiple_arrow_color_limegreen">
+        res/drawable/mz_btn_check_buttonless_multiple_arrow_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_btn_check_buttonless_multiple_arrow_color_limegreen_dark">
+        res/drawable/mz_btn_check_buttonless_multiple_arrow_color_limegreen_dark.xml
+    </drawable>
+    <drawable name="mz_btn_check_buttonless_multiple_color_dodgerblue">
+        res/drawable/mz_btn_check_buttonless_multiple_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_btn_check_buttonless_multiple_color_limegreen">
+        res/drawable/mz_btn_check_buttonless_multiple_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_btn_check_buttonless_off_single">
+        res/drawable-xxhdpi-v4/mz_btn_check_buttonless_off_single.9.png
+    </drawable>
+    <drawable name="mz_btn_check_buttonless_on_disable">
+        res/drawable-xxhdpi-v4/mz_btn_check_buttonless_on_disable.9.png
+    </drawable>
+    <drawable name="mz_btn_check_buttonless_on_disable_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_btn_check_buttonless_on_disable_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_btn_check_buttonless_on_disable_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_btn_check_buttonless_on_disable_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_btn_check_buttonless_on_normal">
+        res/drawable-xxhdpi-v4/mz_btn_check_buttonless_on_normal.9.png
+    </drawable>
+    <drawable name="mz_btn_check_buttonless_on_normal_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_btn_check_buttonless_on_normal_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_btn_check_buttonless_on_normal_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_btn_check_buttonless_on_normal_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_btn_check_multiple">res/drawable/mz_btn_check_multiple.xml</drawable>
+    <drawable name="mz_btn_check_multiple_color_dodgerblue">
+        res/drawable/mz_btn_check_multiple_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_btn_check_multiple_color_limegreen">
+        res/drawable/mz_btn_check_multiple_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_btn_check_single">res/drawable/mz_btn_check_single.xml</drawable>
+    <drawable name="mz_btn_check_single_color_dodgerblue">
+        res/drawable/mz_btn_check_single_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_btn_check_single_color_limegreen">
+        res/drawable/mz_btn_check_single_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_btn_copy_divider">res/drawable-xxhdpi-v4/mz_btn_copy_divider.png</drawable>
+    <drawable name="mz_btn_copy_left">res/drawable/mz_btn_copy_left.xml</drawable>
+    <drawable name="mz_btn_copy_left_normal">res/drawable-xxhdpi-v4/mz_btn_copy_left_normal.9.png
+    </drawable>
+    <drawable name="mz_btn_copy_left_pressed">
+        res/drawable-xxhdpi-v4/mz_btn_copy_left_pressed.9.png
+    </drawable>
+    <drawable name="mz_btn_copy_middle">res/drawable/mz_btn_copy_middle.xml</drawable>
+    <drawable name="mz_btn_copy_middle_normal">
+        res/drawable-xxhdpi-v4/mz_btn_copy_middle_normal.png
+    </drawable>
+    <drawable name="mz_btn_copy_middle_pressed">
+        res/drawable-xxhdpi-v4/mz_btn_copy_middle_pressed.png
+    </drawable>
+    <drawable name="mz_btn_copy_next_page">res/drawable-xxhdpi-v4/mz_btn_copy_next_page.png
+    </drawable>
+    <drawable name="mz_btn_copy_prev_page">res/drawable-xxhdpi-v4/mz_btn_copy_prev_page.png
+    </drawable>
+    <drawable name="mz_btn_copy_right">res/drawable/mz_btn_copy_right.xml</drawable>
+    <drawable name="mz_btn_copy_right_normal">
+        res/drawable-xxhdpi-v4/mz_btn_copy_right_normal.9.png
+    </drawable>
+    <drawable name="mz_btn_copy_right_pressed">
+        res/drawable-xxhdpi-v4/mz_btn_copy_right_pressed.9.png
+    </drawable>
+    <drawable name="mz_btn_corner_default_color_dodgerblue">
+        res/drawable/mz_btn_corner_default_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_btn_corner_default_color_limegreen">
+        res/drawable/mz_btn_corner_default_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_btn_corner_default_stroke_color_dodgerblue">
+        res/drawable/mz_btn_corner_default_stroke_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_btn_corner_default_stroke_color_limegreen">
+        res/drawable/mz_btn_corner_default_stroke_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_btn_corner_disable">res/drawable/mz_btn_corner_disable.xml</drawable>
+    <drawable name="mz_btn_corner_disable_stroke">res/drawable/mz_btn_corner_disable_stroke.xml
+    </drawable>
+    <drawable name="mz_btn_corner_normal_color_dodgerblue">
+        res/drawable/mz_btn_corner_normal_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_btn_corner_normal_color_limegreen">
+        res/drawable/mz_btn_corner_normal_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_btn_corner_normal_stroke_color_dodgerblue">
+        res/drawable/mz_btn_corner_normal_stroke_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_btn_corner_normal_stroke_color_limegreen">
+        res/drawable/mz_btn_corner_normal_stroke_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_btn_corner_pressed_color_dodgerblue">
+        res/drawable/mz_btn_corner_pressed_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_btn_corner_pressed_color_limegreen">
+        res/drawable/mz_btn_corner_pressed_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_btn_corner_pressed_stroke_color_dodgerblue">
+        res/drawable/mz_btn_corner_pressed_stroke_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_btn_corner_pressed_stroke_color_limegreen">
+        res/drawable/mz_btn_corner_pressed_stroke_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_btn_list_add">res/drawable/mz_btn_list_add.xml</drawable>
+    <drawable name="mz_btn_list_add_normal">res/drawable-xxhdpi-v4/mz_btn_list_add_normal.png
+    </drawable>
+    <drawable name="mz_btn_list_add_pressed">res/drawable-xxhdpi-v4/mz_btn_list_add_pressed.png
+    </drawable>
+    <drawable name="mz_btn_list_attachment_delete">res/drawable/mz_btn_list_attachment_delete.xml
+    </drawable>
+    <drawable name="mz_btn_list_attachment_delete_normal">
+        res/drawable-xxhdpi-v4/mz_btn_list_attachment_delete_normal.png
+    </drawable>
+    <drawable name="mz_btn_list_attachment_delete_pressed">
+        res/drawable-xxhdpi-v4/mz_btn_list_attachment_delete_pressed.png
+    </drawable>
+    <drawable name="mz_btn_list_default">res/drawable/mz_btn_list_default.xml</drawable>
+    <drawable name="mz_btn_list_default_disabled">
+        res/drawable-xxhdpi-v4/mz_btn_list_default_disabled.9.png
+    </drawable>
+    <drawable name="mz_btn_list_default_normal">
+        res/drawable-xxhdpi-v4/mz_btn_list_default_normal.9.png
+    </drawable>
+    <drawable name="mz_btn_list_default_pressed">
+        res/drawable-xxhdpi-v4/mz_btn_list_default_pressed.9.png
+    </drawable>
+    <drawable name="mz_btn_textfield_delete">res/drawable/mz_btn_textfield_delete.xml</drawable>
+    <drawable name="mz_btn_textfield_delete_dark">res/drawable/mz_btn_textfield_delete_dark.xml
+    </drawable>
+    <drawable name="mz_btn_textfield_delete_normal">
+        res/drawable-xxhdpi-v4/mz_btn_textfield_delete_normal.png
+    </drawable>
+    <drawable name="mz_btn_textfield_delete_normal_dark">
+        res/drawable-xxhdpi-v4/mz_btn_textfield_delete_normal_dark.png
+    </drawable>
+    <drawable name="mz_btn_textfield_delete_pressed">
+        res/drawable-xxhdpi-v4/mz_btn_textfield_delete_pressed.png
+    </drawable>
+    <drawable name="mz_button_bar_style_divider">res/drawable/mz_button_bar_style_divider.xml
+    </drawable>
+    <drawable name="mz_card_bg_light">res/drawable/mz_card_bg_light.xml</drawable>
+    <drawable name="mz_card_bg_light_activated">
+        res/drawable-xxhdpi-v4/mz_card_bg_light_activated.9.png
+    </drawable>
+    <drawable name="mz_card_bg_light_normal">res/drawable-xxhdpi-v4/mz_card_bg_light_normal.9.png
+    </drawable>
+    <drawable name="mz_card_bg_light_pressed">
+        res/drawable-xxhdpi-v4/mz_card_bg_light_pressed.9.png
+    </drawable>
+    <drawable name="mz_card_bottom_shade_light">
+        res/drawable-xxhdpi-v4/mz_card_bottom_shade_light.9.png
+    </drawable>
+    <drawable name="mz_card_full_shade_light">
+        res/drawable-xxhdpi-v4/mz_card_full_shade_light.9.png
+    </drawable>
+    <drawable name="mz_card_list_divider_light">
+        res/drawable-xxhdpi-v4/mz_card_list_divider_light.9.png
+    </drawable>
+    <drawable name="mz_card_list_divider_shade_light">
+        res/drawable-xxhdpi-v4/mz_card_list_divider_shade_light.9.png
+    </drawable>
+    <drawable name="mz_card_middle_shade_light">
+        res/drawable-xxhdpi-v4/mz_card_middle_shade_light.9.png
+    </drawable>
+    <drawable name="mz_card_new_bg_light_activated">
+        res/drawable-xxhdpi-v4/mz_card_new_bg_light_activated.9.png
+    </drawable>
+    <drawable name="mz_card_new_bg_light_pressed">
+        res/drawable-xxhdpi-v4/mz_card_new_bg_light_pressed.9.png
+    </drawable>
+    <drawable name="mz_card_new_list_divider">
+        res/drawable-xxhdpi-v4/mz_card_new_list_divider.9.png
+    </drawable>
+    <drawable name="mz_card_new_list_selector_background">
+        res/drawable/mz_card_new_list_selector_background.xml
+    </drawable>
+    <drawable name="mz_card_new_list_selector_background_transition">
+        res/drawable/mz_card_new_list_selector_background_transition.xml
+    </drawable>
+    <drawable name="mz_card_top_shade_light">res/drawable-xxhdpi-v4/mz_card_top_shade_light.9.png
+    </drawable>
+    <drawable name="mz_checkbox_counter_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_checkbox_counter_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_checkbox_counter_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_checkbox_counter_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_checkbox_counter_disable_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_checkbox_counter_disable_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_checkbox_counter_disable_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_checkbox_counter_disable_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_checkbox_counter_pressed_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_checkbox_counter_pressed_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_checkbox_counter_pressed_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_checkbox_counter_pressed_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_collect_red">res/drawable-xxhdpi-v4/mz_collect_red.png</drawable>
+    <drawable name="mz_collect_white">res/drawable-xxhdpi-v4/mz_collect_white.png</drawable>
+    <drawable name="mz_contact_list_picture">res/drawable-xxhdpi-v4/mz_contact_list_picture.png
+    </drawable>
+    <drawable name="mz_contact_list_picture_box">res/drawable/mz_contact_list_picture_box.xml
+    </drawable>
+    <drawable name="mz_contact_list_picture_pressed">
+        res/drawable-xxhdpi-v4/mz_contact_list_picture_pressed.9.png
+    </drawable>
+    <drawable name="mz_dialog_background_material">res/drawable/mz_dialog_background_material.xml
+    </drawable>
+    <drawable name="mz_dialog_background_show_at_bottom">
+        res/drawable/mz_dialog_background_show_at_bottom.xml
+    </drawable>
+    <drawable name="mz_dialog_card_bg_light">res/drawable-xxhdpi-v4/mz_dialog_card_bg_light.9.png
+    </drawable>
+    <drawable name="mz_dialog_full_light_bg">res/drawable-xxhdpi-v4/mz_dialog_full_light_bg.9.png
+    </drawable>
+    <drawable name="mz_dialog_up">res/drawable-xxhdpi-v4/mz_dialog_up.9.png</drawable>
+    <drawable name="mz_download">res/drawable-xxhdpi-v4/mz_download.png</drawable>
+    <drawable name="mz_download_pause">res/drawable-xxhdpi-v4/mz_download_pause.png</drawable>
+    <drawable name="mz_download_pause_white">res/drawable-xxhdpi-v4/mz_download_pause_white.png
+    </drawable>
+    <drawable name="mz_download_white">res/drawable-xxhdpi-v4/mz_download_white.png</drawable>
+    <drawable name="mz_drawer_list_divider_light">
+        res/drawable-xxhdpi-v4/mz_drawer_list_divider_light.9.png
+    </drawable>
+    <drawable name="mz_drawer_shadow_light">res/drawable-xxhdpi-v4/mz_drawer_shadow_light.9.png
+    </drawable>
+    <drawable name="mz_edit_text_background">res/drawable/mz_edit_text_background.xml</drawable>
+    <drawable name="mz_edit_text_background_color_dodgerblue">
+        res/drawable/mz_edit_text_background_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_edit_text_background_color_limegreen">
+        res/drawable/mz_edit_text_background_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_edit_text_background_dialog_dodgerblue">
+        res/drawable/mz_edit_text_background_dialog_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_edit_text_background_dialog_limegreen">
+        res/drawable/mz_edit_text_background_dialog_limegreen.xml
+    </drawable>
+    <drawable name="mz_edittext_new_error">res/drawable-xxhdpi-v4/mz_edittext_new_error.9.png
+    </drawable>
+    <drawable name="mz_edittext_new_normal">res/drawable-xxhdpi-v4/mz_edittext_new_normal.9.png
+    </drawable>
+    <drawable name="mz_edittext_new_selected_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_edittext_new_selected_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_edittext_new_selected_limegreen">
+        res/drawable-xxhdpi-v4/mz_edittext_new_selected_limegreen.9.png
+    </drawable>
+    <drawable name="mz_fastscroll_thumb">res/drawable/mz_fastscroll_thumb.xml</drawable>
+    <drawable name="mz_fastscroll_thumb_default">
+        res/drawable-xxhdpi-v4/mz_fastscroll_thumb_default.png
+    </drawable>
+    <drawable name="mz_fastscroll_thumb_pressed">
+        res/drawable-xxhdpi-v4/mz_fastscroll_thumb_pressed.png
+    </drawable>
+    <drawable name="mz_fastscroll_track_default">
+        res/drawable-xxhdpi-v4/mz_fastscroll_track_default.9.png
+    </drawable>
+    <drawable name="mz_fastscroller_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_fastscroller_color_dodgerblue.png
+    </drawable>
+    <drawable name="mz_fastscroller_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_fastscroller_color_limegreen.png
+    </drawable>
+    <drawable name="mz_fastscroller_letter">res/drawable-xxhdpi-v4/mz_fastscroller_letter.png
+    </drawable>
+    <drawable name="mz_ic_ab_back_dark">res/drawable/mz_ic_ab_back_dark.xml</drawable>
+    <drawable name="mz_ic_ab_back_indicator_close">res/drawable/mz_ic_ab_back_indicator_close.xml
+    </drawable>
+    <drawable name="mz_ic_ab_back_indicator_normal">
+        res/drawable-xxhdpi-v4/mz_ic_ab_back_indicator_normal.9.png
+    </drawable>
+    <drawable name="mz_ic_ab_back_indicator_pressed">
+        res/drawable-xxhdpi-v4/mz_ic_ab_back_indicator_pressed.9.png
+    </drawable>
+    <drawable name="mz_ic_ab_back_light">res/drawable/mz_ic_ab_back_light.xml</drawable>
+    <drawable name="mz_ic_ab_back_menu_dark">res/drawable/mz_ic_ab_back_menu_dark.xml</drawable>
+    <drawable name="mz_ic_ab_back_menu_hover_normal">
+        res/drawable-xxhdpi-v4/mz_ic_ab_back_menu_hover_normal.png
+    </drawable>
+    <drawable name="mz_ic_ab_back_menu_light">res/drawable/mz_ic_ab_back_menu_light.xml</drawable>
+    <drawable name="mz_ic_ab_back_menu_normal">
+        res/drawable-xxhdpi-v4/mz_ic_ab_back_menu_normal.png
+    </drawable>
+    <drawable name="mz_ic_ab_back_menu_pressed">
+        res/drawable-xxhdpi-v4/mz_ic_ab_back_menu_pressed.png
+    </drawable>
+    <drawable name="mz_ic_ab_back_top">res/drawable-xxhdpi-v4/mz_ic_ab_back_top.png</drawable>
+    <drawable name="mz_ic_ab_back_transparent">
+        res/drawable-xxhdpi-v4/mz_ic_ab_back_transparent.png
+    </drawable>
+    <drawable name="mz_ic_actionbar_highlight">
+        res/drawable-xxhdpi-v4/mz_ic_actionbar_highlight.png
+    </drawable>
+    <drawable name="mz_ic_app">res/drawable-xxhdpi-v4/mz_ic_app.png</drawable>
+    <drawable name="mz_ic_bin">res/drawable-xxhdpi-v4/mz_ic_bin.png</drawable>
+    <drawable name="mz_ic_content_toast_warning">
+        res/drawable-xxhdpi-v4/mz_ic_content_toast_warning.png
+    </drawable>
+    <drawable name="mz_ic_doc">res/drawable-xxhdpi-v4/mz_ic_doc.png</drawable>
+    <drawable name="mz_ic_document">res/drawable-xxxhdpi-v4/mz_ic_document.png</drawable>
+    <drawable name="mz_ic_document_view">res/drawable-xxhdpi-v4/mz_ic_document_view.png</drawable>
+    <drawable name="mz_ic_document_zip_small">res/drawable-xxhdpi-v4/mz_ic_document_zip_small.png
+    </drawable>
+    <drawable name="mz_ic_empty_view_no_network">
+        res/drawable-xxhdpi-v4/mz_ic_empty_view_no_network.png
+    </drawable>
+    <drawable name="mz_ic_empty_view_refresh">res/drawable-xxhdpi-v4/mz_ic_empty_view_refresh.png
+    </drawable>
+    <drawable name="mz_ic_html">res/drawable-xxhdpi-v4/mz_ic_html.png</drawable>
+    <drawable name="mz_ic_list_app">res/drawable-xxhdpi-v4/mz_ic_list_app.png</drawable>
+    <drawable name="mz_ic_list_app_big">res/drawable-xxhdpi-v4/mz_ic_list_app_big.png</drawable>
+    <drawable name="mz_ic_list_app_small">res/drawable-xxhdpi-v4/mz_ic_list_app_small.png</drawable>
+    <drawable name="mz_ic_list_bin">res/drawable-xxhdpi-v4/mz_ic_list_bin.png</drawable>
+    <drawable name="mz_ic_list_bin_big">res/drawable-xxhdpi-v4/mz_ic_list_bin_big.png</drawable>
+    <drawable name="mz_ic_list_bin_small">res/drawable-xxhdpi-v4/mz_ic_list_bin_small.png</drawable>
+    <drawable name="mz_ic_list_doc">res/drawable-xxhdpi-v4/mz_ic_list_doc.png</drawable>
+    <drawable name="mz_ic_list_doc_big">res/drawable-xxhdpi-v4/mz_ic_list_doc_big.png</drawable>
+    <drawable name="mz_ic_list_doc_small">res/drawable-xxhdpi-v4/mz_ic_list_doc_small.png</drawable>
+    <drawable name="mz_ic_list_draft">res/drawable-xxhdpi-v4/mz_ic_list_draft.png</drawable>
+    <drawable name="mz_ic_list_draft_small">res/drawable-xxhdpi-v4/mz_ic_list_draft_small.png
+    </drawable>
+    <drawable name="mz_ic_list_html">res/drawable-xxhdpi-v4/mz_ic_list_html.png</drawable>
+    <drawable name="mz_ic_list_html_big">res/drawable-xxhdpi-v4/mz_ic_list_html_big.png</drawable>
+    <drawable name="mz_ic_list_html_small">res/drawable-xxhdpi-v4/mz_ic_list_html_small.png
+    </drawable>
+    <drawable name="mz_ic_list_lock">res/drawable-xxhdpi-v4/mz_ic_list_lock.png</drawable>
+    <drawable name="mz_ic_list_lock_small">res/drawable-xxhdpi-v4/mz_ic_list_lock_small.png
+    </drawable>
+    <drawable name="mz_ic_list_mms">res/drawable-xxhdpi-v4/mz_ic_list_mms.png</drawable>
+    <drawable name="mz_ic_list_more">res/drawable/mz_ic_list_more.xml</drawable>
+    <drawable name="mz_ic_list_more_borderless">res/drawable/mz_ic_list_more_borderless.xml
+    </drawable>
+    <drawable name="mz_ic_list_more_borderless">
+        res/drawable-xxhdpi-v4/mz_ic_list_more_borderless.png
+    </drawable>
+    <drawable name="mz_ic_list_more_borderless_normal">
+        res/drawable-xxhdpi-v4/mz_ic_list_more_borderless_normal.png
+    </drawable>
+    <drawable name="mz_ic_list_more_borderless_pressed">
+        res/drawable-xxhdpi-v4/mz_ic_list_more_borderless_pressed.png
+    </drawable>
+    <drawable name="mz_ic_list_more_down">res/drawable-xxhdpi-v4/mz_ic_list_more_down.png</drawable>
+    <drawable name="mz_ic_list_more_normal">res/drawable-xxhdpi-v4/mz_ic_list_more_normal.png
+    </drawable>
+    <drawable name="mz_ic_list_more_right">res/drawable-xxhdpi-v4/mz_ic_list_more_right.png
+    </drawable>
+    <drawable name="mz_ic_list_more_small">res/drawable-xxhdpi-v4/mz_ic_list_more_small.png
+    </drawable>
+    <drawable name="mz_ic_list_movie">res/drawable-xxhdpi-v4/mz_ic_list_movie.png</drawable>
+    <drawable name="mz_ic_list_movie_big">res/drawable-xxhdpi-v4/mz_ic_list_movie_big.png</drawable>
+    <drawable name="mz_ic_list_movie_small">res/drawable-xxhdpi-v4/mz_ic_list_movie_small.png
+    </drawable>
+    <drawable name="mz_ic_list_music">res/drawable-xxhdpi-v4/mz_ic_list_music.png</drawable>
+    <drawable name="mz_ic_list_music_big">res/drawable-xxhdpi-v4/mz_ic_list_music_big.png</drawable>
+    <drawable name="mz_ic_list_music_small">res/drawable-xxhdpi-v4/mz_ic_list_music_small.png
+    </drawable>
+    <drawable name="mz_ic_list_nas_small">res/drawable-xxhdpi-v4/mz_ic_list_nas_small.png</drawable>
+    <drawable name="mz_ic_list_pdf">res/drawable-xxhdpi-v4/mz_ic_list_pdf.png</drawable>
+    <drawable name="mz_ic_list_pdf_big">res/drawable-xxhdpi-v4/mz_ic_list_pdf_big.png</drawable>
+    <drawable name="mz_ic_list_pdf_small">res/drawable-xxhdpi-v4/mz_ic_list_pdf_small.png</drawable>
+    <drawable name="mz_ic_list_photo">res/drawable-xxhdpi-v4/mz_ic_list_photo.png</drawable>
+    <drawable name="mz_ic_list_photo_big">res/drawable-xxhdpi-v4/mz_ic_list_photo_big.png</drawable>
+    <drawable name="mz_ic_list_photo_small">res/drawable-xxhdpi-v4/mz_ic_list_photo_small.png
+    </drawable>
+    <drawable name="mz_ic_list_ppt">res/drawable-xxhdpi-v4/mz_ic_list_ppt.png</drawable>
+    <drawable name="mz_ic_list_ppt_big">res/drawable-xxhdpi-v4/mz_ic_list_ppt_big.png</drawable>
+    <drawable name="mz_ic_list_ppt_small">res/drawable-xxhdpi-v4/mz_ic_list_ppt_small.png</drawable>
+    <drawable name="mz_ic_list_preference_normal">
+        res/drawable-xxhdpi-v4/mz_ic_list_preference_normal.9.png
+    </drawable>
+    <drawable name="mz_ic_list_preference_pressed">
+        res/drawable-xxhdpi-v4/mz_ic_list_preference_pressed.9.png
+    </drawable>
+    <drawable name="mz_ic_list_rar_small">res/drawable-xxhdpi-v4/mz_ic_list_rar_small.png</drawable>
+    <drawable name="mz_ic_list_sdnofound">res/drawable-xxhdpi-v4/mz_ic_list_sdnofound.png</drawable>
+    <drawable name="mz_ic_list_txt">res/drawable-xxhdpi-v4/mz_ic_list_txt.png</drawable>
+    <drawable name="mz_ic_list_txt_big">res/drawable-xxhdpi-v4/mz_ic_list_txt_big.png</drawable>
+    <drawable name="mz_ic_list_txt_small">res/drawable-xxhdpi-v4/mz_ic_list_txt_small.png</drawable>
+    <drawable name="mz_ic_list_unknow">res/drawable-xxhdpi-v4/mz_ic_list_unknow.png</drawable>
+    <drawable name="mz_ic_list_unknow_big">res/drawable-xxhdpi-v4/mz_ic_list_unknow_big.png
+    </drawable>
+    <drawable name="mz_ic_list_unknow_small">res/drawable-xxhdpi-v4/mz_ic_list_unknow_small.png
+    </drawable>
+    <drawable name="mz_ic_list_usb_small">res/drawable-xxhdpi-v4/mz_ic_list_usb_small.png</drawable>
+    <drawable name="mz_ic_list_vcf">res/drawable-xxhdpi-v4/mz_ic_list_vcf.png</drawable>
+    <drawable name="mz_ic_list_vcf_big">res/drawable-xxhdpi-v4/mz_ic_list_vcf_big.png</drawable>
+    <drawable name="mz_ic_list_vcf_small">res/drawable-xxhdpi-v4/mz_ic_list_vcf_small.png</drawable>
+    <drawable name="mz_ic_list_vip_small">res/drawable-xxhdpi-v4/mz_ic_list_vip_small.png</drawable>
+    <drawable name="mz_ic_list_watch_small">res/drawable-xxhdpi-v4/mz_ic_list_watch_small.png
+    </drawable>
+    <drawable name="mz_ic_list_xls">res/drawable-xxhdpi-v4/mz_ic_list_xls.png</drawable>
+    <drawable name="mz_ic_list_xls_big">res/drawable-xxhdpi-v4/mz_ic_list_xls_big.png</drawable>
+    <drawable name="mz_ic_list_xls_small">res/drawable-xxhdpi-v4/mz_ic_list_xls_small.png</drawable>
+    <drawable name="mz_ic_list_zip">res/drawable-xxhdpi-v4/mz_ic_list_zip.png</drawable>
+    <drawable name="mz_ic_list_zip_big">res/drawable-xxhdpi-v4/mz_ic_list_zip_big.png</drawable>
+    <drawable name="mz_ic_list_zip_small">res/drawable-xxhdpi-v4/mz_ic_list_zip_small.png</drawable>
+    <drawable name="mz_ic_lock">res/drawable-xxhdpi-v4/mz_ic_lock.png</drawable>
+    <drawable name="mz_ic_mms">res/drawable-xxhdpi-v4/mz_ic_mms.png</drawable>
+    <drawable name="mz_ic_movie">res/drawable-xxhdpi-v4/mz_ic_movie.png</drawable>
+    <drawable name="mz_ic_music">res/drawable-xxhdpi-v4/mz_ic_music.png</drawable>
+    <drawable name="mz_ic_pdf">res/drawable-xxhdpi-v4/mz_ic_pdf.png</drawable>
+    <drawable name="mz_ic_photo">res/drawable-xxhdpi-v4/mz_ic_photo.png</drawable>
+    <drawable name="mz_ic_popup_about">res/drawable-xxhdpi-v4/mz_ic_popup_about.png</drawable>
+    <drawable name="mz_ic_popup_app">res/drawable-xxhdpi-v4/mz_ic_popup_app.png</drawable>
+    <drawable name="mz_ic_popup_caution">res/drawable-xxhdpi-v4/mz_ic_popup_caution.png</drawable>
+    <drawable name="mz_ic_popup_delete">res/drawable-xxhdpi-v4/mz_ic_popup_delete.png</drawable>
+    <drawable name="mz_ic_popup_done">res/drawable-xxhdpi-v4/mz_ic_popup_done.png</drawable>
+    <drawable name="mz_ic_popup_lyric">res/drawable-xxhdpi-v4/mz_ic_popup_lyric.png</drawable>
+    <drawable name="mz_ic_popup_music">res/drawable-xxhdpi-v4/mz_ic_popup_music.png</drawable>
+    <drawable name="mz_ic_popup_refresh">res/drawable-xxhdpi-v4/mz_ic_popup_refresh.png</drawable>
+    <drawable name="mz_ic_popup_zip">res/drawable-xxhdpi-v4/mz_ic_popup_zip.png</drawable>
+    <drawable name="mz_ic_ppt">res/drawable-xxhdpi-v4/mz_ic_ppt.png</drawable>
+    <drawable name="mz_ic_sb_back">res/drawable-xxhdpi-v4/mz_ic_sb_back.png</drawable>
+    <drawable name="mz_ic_sb_more">res/drawable-xxhdpi-v4/mz_ic_sb_more.png</drawable>
+    <drawable name="mz_ic_sdnofound">res/drawable-xxxhdpi-v4/mz_ic_sdnofound.png</drawable>
+    <drawable name="mz_ic_search_empty">res/drawable-xxhdpi-v4/mz_ic_search_empty.png</drawable>
+    <drawable name="mz_ic_tab_add">res/drawable/mz_ic_tab_add.xml</drawable>
+    <drawable name="mz_ic_tab_add">res/drawable-land/mz_ic_tab_add.xml</drawable>
+    <drawable name="mz_ic_tab_add_dark">res/drawable/mz_ic_tab_add_dark.xml</drawable>
+    <drawable name="mz_ic_tab_add_disable">res/drawable-xxhdpi-v4/mz_ic_tab_add_disable.png
+    </drawable>
+    <drawable name="mz_ic_tab_add_disable_dark">
+        res/drawable-xxhdpi-v4/mz_ic_tab_add_disable_dark.png
+    </drawable>
+    <drawable name="mz_ic_tab_add_normal">res/drawable-xxhdpi-v4/mz_ic_tab_add_normal.png</drawable>
+    <drawable name="mz_ic_tab_add_normal_dark">
+        res/drawable-xxhdpi-v4/mz_ic_tab_add_normal_dark.png
+    </drawable>
+    <drawable name="mz_ic_tab_back">res/drawable/mz_ic_tab_back.xml</drawable>
+    <drawable name="mz_ic_tab_back">res/drawable-land/mz_ic_tab_back.xml</drawable>
+    <drawable name="mz_ic_tab_back_dark">res/drawable/mz_ic_tab_back_dark.xml</drawable>
+    <drawable name="mz_ic_tab_back_dark">res/drawable-land/mz_ic_tab_back_dark.xml</drawable>
+    <drawable name="mz_ic_tab_back_normal">res/drawable-xxhdpi-v4/mz_ic_tab_back_normal.png
+    </drawable>
+    <drawable name="mz_ic_tab_back_normal_dark">
+        res/drawable-xxhdpi-v4/mz_ic_tab_back_normal_dark.png
+    </drawable>
+    <drawable name="mz_ic_tab_cancel">res/drawable/mz_ic_tab_cancel.xml</drawable>
+    <drawable name="mz_ic_tab_cancel">res/drawable-land/mz_ic_tab_cancel.xml</drawable>
+    <drawable name="mz_ic_tab_cancel_disable">res/drawable-xxhdpi-v4/mz_ic_tab_cancel_disable.png
+    </drawable>
+    <drawable name="mz_ic_tab_cancel_normal">res/drawable-xxhdpi-v4/mz_ic_tab_cancel_normal.png
+    </drawable>
+    <drawable name="mz_ic_tab_delete">res/drawable/mz_ic_tab_delete.xml</drawable>
+    <drawable name="mz_ic_tab_delete">res/drawable-land/mz_ic_tab_delete.xml</drawable>
+    <drawable name="mz_ic_tab_delete_disable">res/drawable-xxhdpi-v4/mz_ic_tab_delete_disable.png
+    </drawable>
+    <drawable name="mz_ic_tab_delete_disable_dark">
+        res/drawable-xxhdpi-v4/mz_ic_tab_delete_disable_dark.png
+    </drawable>
+    <drawable name="mz_ic_tab_delete_normal">res/drawable-xxhdpi-v4/mz_ic_tab_delete_normal.png
+    </drawable>
+    <drawable name="mz_ic_tab_delete_normal_dark">
+        res/drawable-xxhdpi-v4/mz_ic_tab_delete_normal_dark.png
+    </drawable>
+    <drawable name="mz_ic_tab_delete_pressed">res/drawable-xxhdpi-v4/mz_ic_tab_delete_pressed.png
+    </drawable>
+    <drawable name="mz_ic_tab_done">res/drawable/mz_ic_tab_done.xml</drawable>
+    <drawable name="mz_ic_tab_done">res/drawable-land/mz_ic_tab_done.xml</drawable>
+    <drawable name="mz_ic_tab_done_dark">res/drawable/mz_ic_tab_done_dark.xml</drawable>
+    <drawable name="mz_ic_tab_done_disable">res/drawable-xxhdpi-v4/mz_ic_tab_done_disable.png
+    </drawable>
+    <drawable name="mz_ic_tab_done_disable_dark">
+        res/drawable-xxhdpi-v4/mz_ic_tab_done_disable_dark.png
+    </drawable>
+    <drawable name="mz_ic_tab_done_normal">res/drawable-xxhdpi-v4/mz_ic_tab_done_normal.png
+    </drawable>
+    <drawable name="mz_ic_tab_done_normal_dark">
+        res/drawable-xxhdpi-v4/mz_ic_tab_done_normal_dark.png
+    </drawable>
+    <drawable name="mz_ic_tab_done_pressed">res/drawable-xxhdpi-v4/mz_ic_tab_done_pressed.png
+    </drawable>
+    <drawable name="mz_ic_tab_down">res/drawable/mz_ic_tab_down.xml</drawable>
+    <drawable name="mz_ic_tab_down_normal">res/drawable-xxhdpi-v4/mz_ic_tab_down_normal.png
+    </drawable>
+    <drawable name="mz_ic_tab_down_pressed">res/drawable-xxhdpi-v4/mz_ic_tab_down_pressed.png
+    </drawable>
+    <drawable name="mz_ic_tab_downloading_normal_dark">
+        res/drawable-xxhdpi-v4/mz_ic_tab_downloading_normal_dark.png
+    </drawable>
+    <drawable name="mz_ic_tab_images_pressed">res/drawable-xxhdpi-v4/mz_ic_tab_images_pressed.png
+    </drawable>
+    <drawable name="mz_ic_tab_more">res/drawable/mz_ic_tab_more.xml</drawable>
+    <drawable name="mz_ic_tab_more">res/drawable-land/mz_ic_tab_more.xml</drawable>
+    <drawable name="mz_ic_tab_more_dark">res/drawable/mz_ic_tab_more_dark.xml</drawable>
+    <drawable name="mz_ic_tab_more_dark">res/drawable-land/mz_ic_tab_more_dark.xml</drawable>
+    <drawable name="mz_ic_tab_more_disable_dark">
+        res/drawable-xxhdpi-v4/mz_ic_tab_more_disable_dark.png
+    </drawable>
+    <drawable name="mz_ic_tab_more_normal">res/drawable-xxhdpi-v4/mz_ic_tab_more_normal.png
+    </drawable>
+    <drawable name="mz_ic_tab_more_normal_dark">
+        res/drawable-xxhdpi-v4/mz_ic_tab_more_normal_dark.png
+    </drawable>
+    <drawable name="mz_ic_tab_pressed">res/drawable-xxhdpi-v4/mz_ic_tab_pressed.png</drawable>
+    <drawable name="mz_ic_tab_refresh">res/drawable/mz_ic_tab_refresh.xml</drawable>
+    <drawable name="mz_ic_tab_refresh">res/drawable-land/mz_ic_tab_refresh.xml</drawable>
+    <drawable name="mz_ic_tab_refresh_disable">
+        res/drawable-xxhdpi-v4/mz_ic_tab_refresh_disable.png
+    </drawable>
+    <drawable name="mz_ic_tab_refresh_normal">res/drawable-xxhdpi-v4/mz_ic_tab_refresh_normal.png
+    </drawable>
+    <drawable name="mz_ic_tab_refresh_pressed">
+        res/drawable-xxhdpi-v4/mz_ic_tab_refresh_pressed.png
+    </drawable>
+    <drawable name="mz_ic_tab_refresh_stop">res/drawable/mz_ic_tab_refresh_stop.xml</drawable>
+    <drawable name="mz_ic_tab_refresh_stop">res/drawable-land/mz_ic_tab_refresh_stop.xml</drawable>
+    <drawable name="mz_ic_tab_refresh_stop_normal">
+        res/drawable-xxhdpi-v4/mz_ic_tab_refresh_stop_normal.png
+    </drawable>
+    <drawable name="mz_ic_tab_refresh_stop_pressed">
+        res/drawable-xxhdpi-v4/mz_ic_tab_refresh_stop_pressed.png
+    </drawable>
+    <drawable name="mz_ic_tab_return">res/drawable/mz_ic_tab_return.xml</drawable>
+    <drawable name="mz_ic_tab_return">res/drawable-land/mz_ic_tab_return.xml</drawable>
+    <drawable name="mz_ic_tab_return_disable">res/drawable-xxhdpi-v4/mz_ic_tab_return_disable.png
+    </drawable>
+    <drawable name="mz_ic_tab_return_normal">res/drawable-xxhdpi-v4/mz_ic_tab_return_normal.png
+    </drawable>
+    <drawable name="mz_ic_tab_search_normal">res/drawable-xxhdpi-v4/mz_ic_tab_search_normal.png
+    </drawable>
+    <drawable name="mz_ic_tab_search_normal_dark">
+        res/drawable-xxhdpi-v4/mz_ic_tab_search_normal_dark.png
+    </drawable>
+    <drawable name="mz_ic_tab_search_pressed">res/drawable-xxhdpi-v4/mz_ic_tab_search_pressed.png
+    </drawable>
+    <drawable name="mz_ic_tab_send">res/drawable/mz_ic_tab_send.xml</drawable>
+    <drawable name="mz_ic_tab_send">res/drawable-land/mz_ic_tab_send.xml</drawable>
+    <drawable name="mz_ic_tab_send_disable">res/drawable-xxhdpi-v4/mz_ic_tab_send_disable.png
+    </drawable>
+    <drawable name="mz_ic_tab_send_normal">res/drawable-xxhdpi-v4/mz_ic_tab_send_normal.png
+    </drawable>
+    <drawable name="mz_ic_tab_settings">res/drawable/mz_ic_tab_settings.xml</drawable>
+    <drawable name="mz_ic_tab_settings">res/drawable-land/mz_ic_tab_settings.xml</drawable>
+    <drawable name="mz_ic_tab_settings_disable">
+        res/drawable-xxhdpi-v4/mz_ic_tab_settings_disable.png
+    </drawable>
+    <drawable name="mz_ic_tab_settings_normal">
+        res/drawable-xxhdpi-v4/mz_ic_tab_settings_normal.png
+    </drawable>
+    <drawable name="mz_ic_tab_settings_normal_dark">
+        res/drawable-xxhdpi-v4/mz_ic_tab_settings_normal_dark.png
+    </drawable>
+    <drawable name="mz_ic_tab_settings_pressed">
+        res/drawable-xxhdpi-v4/mz_ic_tab_settings_pressed.png
+    </drawable>
+    <drawable name="mz_ic_tab_share_disable_dark">
+        res/drawable-xxhdpi-v4/mz_ic_tab_share_disable_dark.png
+    </drawable>
+    <drawable name="mz_ic_tab_share_normal_dark">
+        res/drawable-xxhdpi-v4/mz_ic_tab_share_normal_dark.png
+    </drawable>
+    <drawable name="mz_ic_txt">res/drawable-xxhdpi-v4/mz_ic_txt.png</drawable>
+    <drawable name="mz_ic_unknow">res/drawable-xxhdpi-v4/mz_ic_unknow.png</drawable>
+    <drawable name="mz_ic_vcf">res/drawable-xxhdpi-v4/mz_ic_vcf.png</drawable>
+    <drawable name="mz_ic_xls">res/drawable-xxhdpi-v4/mz_ic_xls.png</drawable>
+    <drawable name="mz_ic_zip">res/drawable-xxhdpi-v4/mz_ic_zip.png</drawable>
+    <drawable name="mz_item_background">res/drawable/mz_item_background.xml</drawable>
+    <drawable name="mz_item_background">res/drawable-v21/mz_item_background.xml</drawable>
+    <drawable name="mz_item_background_borderless_dark">
+        res/drawable/mz_item_background_borderless_dark.xml
+    </drawable>
+    <drawable name="mz_item_background_borderless_dark">
+        res/drawable-v21/mz_item_background_borderless_dark.xml
+    </drawable>
+    <drawable name="mz_item_background_dark">res/drawable/mz_item_background_dark.xml</drawable>
+    <drawable name="mz_item_background_dark">res/drawable-v21/mz_item_background_dark.xml</drawable>
+    <drawable name="mz_item_image_background">res/drawable/mz_item_image_background.xml</drawable>
+    <drawable name="mz_item_image_background">res/drawable-v21/mz_item_image_background.xml
+    </drawable>
+    <drawable name="mz_list_activated">res/drawable-xxhdpi-v4/mz_list_activated.9.png</drawable>
+    <drawable name="mz_list_divider_dark">res/drawable-xxhdpi-v4/mz_list_divider_dark.9.png
+    </drawable>
+    <drawable name="mz_list_divider_light">res/drawable-xxhdpi-v4/mz_list_divider_light.9.png
+    </drawable>
+    <drawable name="mz_list_group_divider_light">
+        res/drawable-xxhdpi-v4/mz_list_group_divider_light.9.png
+    </drawable>
+    <drawable name="mz_list_history_background">
+        res/drawable-xxhdpi-v4/mz_list_history_background.9.png
+    </drawable>
+    <drawable name="mz_list_history_background_noshadow">
+        res/drawable-xxhdpi-v4/mz_list_history_background_noshadow.9.png
+    </drawable>
+    <drawable name="mz_list_item_bg_light">res/drawable/mz_list_item_bg_light.xml</drawable>
+    <drawable name="mz_list_item_bg_light_activated">
+        res/drawable/mz_list_item_bg_light_activated.xml
+    </drawable>
+    <drawable name="mz_list_new_item_bg_light_activated">
+        res/drawable/mz_list_new_item_bg_light_activated.xml
+    </drawable>
+    <drawable name="mz_list_selector_background">res/drawable/mz_list_selector_background.xml
+    </drawable>
+    <drawable name="mz_list_selector_background">res/drawable-v21/mz_list_selector_background.xml
+    </drawable>
+    <drawable name="mz_list_selector_background_dark">
+        res/drawable-v21/mz_list_selector_background_dark.xml
+    </drawable>
+    <drawable name="mz_list_selector_background_delete">
+        res/drawable-xxhdpi-v4/mz_list_selector_background_delete.9.png
+    </drawable>
+    <drawable name="mz_list_selector_background_filter">
+        res/drawable-xxhdpi-v4/mz_list_selector_background_filter.9.png
+    </drawable>
+    <drawable name="mz_list_selector_background_long_pressed">
+        res/drawable-xxhdpi-v4/mz_list_selector_background_long_pressed.9.png
+    </drawable>
+    <drawable name="mz_list_selector_background_pressed">
+        res/drawable-xxhdpi-v4/mz_list_selector_background_pressed.9.png
+    </drawable>
+    <drawable name="mz_list_selector_background_transition">
+        res/drawable/mz_list_selector_background_transition.xml
+    </drawable>
+    <drawable name="mz_list_selector_disabled_holo_light">
+        res/drawable-xxhdpi-v4/mz_list_selector_disabled_holo_light.9.png
+    </drawable>
+    <drawable name="mz_menuitem_background">res/drawable/mz_menuitem_background.xml</drawable>
+    <drawable name="mz_message_scrollbar_handle_vertical">
+        res/drawable-xxhdpi-v4/mz_message_scrollbar_handle_vertical.9.png
+    </drawable>
+    <drawable name="mz_mms_starting_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_mms_starting_color_limegreen.png
+    </drawable>
+    <drawable name="mz_new_list_line">res/drawable-xxhdpi-v4/mz_new_list_line.png</drawable>
+    <drawable name="mz_option_menu_background">
+        res/drawable-xxhdpi-v4/mz_option_menu_background.9.png
+    </drawable>
+    <drawable name="mz_picker_box_selected">res/drawable-xxhdpi-v4/mz_picker_box_selected.9.png
+    </drawable>
+    <drawable name="mz_pinned_header_background">
+        res/drawable-xxhdpi-v4/mz_pinned_header_background.9.png
+    </drawable>
+    <drawable name="mz_popup_bg_light">res/drawable-xxhdpi-v4/mz_popup_bg_light.9.png</drawable>
+    <drawable name="mz_popup_divider_line">res/drawable-xxhdpi-v4/mz_popup_divider_line.9.png
+    </drawable>
+    <drawable name="mz_praise_red">res/drawable-xxhdpi-v4/mz_praise_red.png</drawable>
+    <drawable name="mz_praise_white">res/drawable-xxhdpi-v4/mz_praise_white.png</drawable>
+    <drawable name="mz_progress_bg">res/drawable-xxhdpi-v4/mz_progress_bg.9.png</drawable>
+    <drawable name="mz_progress_bg_notification">
+        res/drawable-xxhdpi-v4/mz_progress_bg_notification.9.png
+    </drawable>
+    <drawable name="mz_progress_error">res/drawable-xxhdpi-v4/mz_progress_error.9.png</drawable>
+    <drawable name="mz_progress_error_notification">
+        res/drawable-xxhdpi-v4/mz_progress_error_notification.9.png
+    </drawable>
+    <drawable name="mz_progress_horizontal">res/drawable/mz_progress_horizontal.xml</drawable>
+    <drawable name="mz_progress_horizontal_color_dodgerblue">
+        res/drawable/mz_progress_horizontal_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_progress_horizontal_color_limegreen">
+        res/drawable/mz_progress_horizontal_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_progress_horizontal_error">res/drawable/mz_progress_horizontal_error.xml
+    </drawable>
+    <drawable name="mz_progress_horizontal_error_notification">
+        res/drawable/mz_progress_horizontal_error_notification.xml
+    </drawable>
+    <drawable name="mz_progress_horizontal_notification">
+        res/drawable/mz_progress_horizontal_notification.xml
+    </drawable>
+    <drawable name="mz_progress_horizontal_stop">res/drawable/mz_progress_horizontal_stop.xml
+    </drawable>
+    <drawable name="mz_progress_horizontal_stop_notification">
+        res/drawable/mz_progress_horizontal_stop_notification.xml
+    </drawable>
+    <drawable name="mz_progress_indeterminate_horizontal">
+        res/drawable/mz_progress_indeterminate_horizontal.xml
+    </drawable>
+    <drawable name="mz_progress_large">res/drawable/mz_progress_large.xml</drawable>
+    <drawable name="mz_progress_medium">res/drawable/mz_progress_medium.xml</drawable>
+    <drawable name="mz_progress_primary">res/drawable-xxhdpi-v4/mz_progress_primary.9.png</drawable>
+    <drawable name="mz_progress_primary_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_progress_primary_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_progress_primary_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_progress_primary_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_progress_primary_notification">
+        res/drawable-xxhdpi-v4/mz_progress_primary_notification.9.png
+    </drawable>
+    <drawable name="mz_progress_small">res/drawable/mz_progress_small.xml</drawable>
+    <drawable name="mz_progress_stop">res/drawable-xxhdpi-v4/mz_progress_stop.9.png</drawable>
+    <drawable name="mz_progress_stop_notification">
+        res/drawable-xxhdpi-v4/mz_progress_stop_notification.9.png
+    </drawable>
+    <drawable name="mz_progressbar_indeterminate1">
+        res/drawable-xxhdpi-v4/mz_progressbar_indeterminate1.png
+    </drawable>
+    <drawable name="mz_progressbar_indeterminate10">
+        res/drawable-xxhdpi-v4/mz_progressbar_indeterminate10.png
+    </drawable>
+    <drawable name="mz_progressbar_indeterminate11">
+        res/drawable-xxhdpi-v4/mz_progressbar_indeterminate11.png
+    </drawable>
+    <drawable name="mz_progressbar_indeterminate12">
+        res/drawable-xxhdpi-v4/mz_progressbar_indeterminate12.png
+    </drawable>
+    <drawable name="mz_progressbar_indeterminate13">
+        res/drawable-xxhdpi-v4/mz_progressbar_indeterminate13.png
+    </drawable>
+    <drawable name="mz_progressbar_indeterminate14">
+        res/drawable-xxhdpi-v4/mz_progressbar_indeterminate14.png
+    </drawable>
+    <drawable name="mz_progressbar_indeterminate15">
+        res/drawable-xxhdpi-v4/mz_progressbar_indeterminate15.png
+    </drawable>
+    <drawable name="mz_progressbar_indeterminate2">
+        res/drawable-xxhdpi-v4/mz_progressbar_indeterminate2.png
+    </drawable>
+    <drawable name="mz_progressbar_indeterminate3">
+        res/drawable-xxhdpi-v4/mz_progressbar_indeterminate3.png
+    </drawable>
+    <drawable name="mz_progressbar_indeterminate4">
+        res/drawable-xxhdpi-v4/mz_progressbar_indeterminate4.png
+    </drawable>
+    <drawable name="mz_progressbar_indeterminate5">
+        res/drawable-xxhdpi-v4/mz_progressbar_indeterminate5.png
+    </drawable>
+    <drawable name="mz_progressbar_indeterminate6">
+        res/drawable-xxhdpi-v4/mz_progressbar_indeterminate6.png
+    </drawable>
+    <drawable name="mz_progressbar_indeterminate7">
+        res/drawable-xxhdpi-v4/mz_progressbar_indeterminate7.png
+    </drawable>
+    <drawable name="mz_progressbar_indeterminate8">
+        res/drawable-xxhdpi-v4/mz_progressbar_indeterminate8.png
+    </drawable>
+    <drawable name="mz_progressbar_indeterminate9">
+        res/drawable-xxhdpi-v4/mz_progressbar_indeterminate9.png
+    </drawable>
+    <drawable name="mz_progressloading_success_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_progressloading_success_color_dodgerblue.png
+    </drawable>
+    <drawable name="mz_progressloading_success_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_progressloading_success_color_limegreen.png
+    </drawable>
+    <drawable name="mz_ratingbar_full_empty_light">res/drawable/mz_ratingbar_full_empty_light.xml
+    </drawable>
+    <drawable name="mz_ratingbar_full_filled_light">
+        res/drawable/mz_ratingbar_full_filled_light.xml
+    </drawable>
+    <drawable name="mz_ratingbar_full_filled_light_color_dodgerblue">
+        res/drawable/mz_ratingbar_full_filled_light_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_ratingbar_full_filled_light_color_limegreen">
+        res/drawable/mz_ratingbar_full_filled_light_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_ratingbar_full_light">res/drawable/mz_ratingbar_full_light.xml</drawable>
+    <drawable name="mz_ratingbar_full_light_color_dodgerblue">
+        res/drawable/mz_ratingbar_full_light_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_ratingbar_full_light_color_limegreen">
+        res/drawable/mz_ratingbar_full_light_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_recipient_divider_email_2px">
+        res/drawable-xxhdpi-v4/mz_recipient_divider_email_2px.9.png
+    </drawable>
+    <drawable name="mz_recyclerview_item_activated">
+        res/drawable/mz_recyclerview_item_activated.xml
+    </drawable>
+    <drawable name="mz_recyclerview_item_divider">
+        res/drawable-xxhdpi-v4/mz_recyclerview_item_divider.9.png
+    </drawable>
+    <drawable name="mz_recyclerview_pull_hold_icon">
+        res/drawable-xxhdpi-v4/mz_recyclerview_pull_hold_icon.png
+    </drawable>
+    <drawable name="mz_recyclerview_selector">res/drawable/mz_recyclerview_selector.xml</drawable>
+    <drawable name="mz_recyclerview_selector">res/drawable-v21/mz_recyclerview_selector.xml
+    </drawable>
+    <drawable name="mz_recyclerview_selector_activated">
+        res/drawable-xxhdpi-v4/mz_recyclerview_selector_activated.9.png
+    </drawable>
+    <drawable name="mz_recyclerview_selector_dark">
+        res/drawable-v21/mz_recyclerview_selector_dark.xml
+    </drawable>
+    <drawable name="mz_recyclerview_selector_pressed">
+        res/drawable-xxhdpi-v4/mz_recyclerview_selector_pressed.9.png
+    </drawable>
+    <drawable name="mz_scrollbar_handle_horizontal">
+        res/drawable-xxhdpi-v4/mz_scrollbar_handle_horizontal.9.png
+    </drawable>
+    <drawable name="mz_scrollbar_handle_vertical">
+        res/drawable-xxhdpi-v4/mz_scrollbar_handle_vertical.9.png
+    </drawable>
+    <drawable name="mz_scrollbar_handle_vertical_dark">
+        res/drawable-xxhdpi-v4/mz_scrollbar_handle_vertical_dark.9.png
+    </drawable>
+    <drawable name="mz_scrubber_control_disable">
+        res/drawable-xxhdpi-v4/mz_scrubber_control_disable.png
+    </drawable>
+    <drawable name="mz_scrubber_control_disable_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_scrubber_control_disable_color_dodgerblue.png
+    </drawable>
+    <drawable name="mz_scrubber_control_disable_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_scrubber_control_disable_color_limegreen.png
+    </drawable>
+    <drawable name="mz_scrubber_control_disable_dark">
+        res/drawable-xxhdpi-v4/mz_scrubber_control_disable_dark.png
+    </drawable>
+    <drawable name="mz_scrubber_control_draged_bg_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_scrubber_control_draged_bg_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_scrubber_control_draged_bg_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_scrubber_control_draged_bg_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_scrubber_control_normal">
+        res/drawable-xxhdpi-v4/mz_scrubber_control_normal.png
+    </drawable>
+    <drawable name="mz_scrubber_control_normal_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_scrubber_control_normal_color_dodgerblue.png
+    </drawable>
+    <drawable name="mz_scrubber_control_normal_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_scrubber_control_normal_color_limegreen.png
+    </drawable>
+    <drawable name="mz_scrubber_control_pressed">
+        res/drawable-xxhdpi-v4/mz_scrubber_control_pressed.png
+    </drawable>
+    <drawable name="mz_scrubber_control_pressed_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_scrubber_control_pressed_color_dodgerblue.png
+    </drawable>
+    <drawable name="mz_scrubber_control_pressed_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_scrubber_control_pressed_color_limegreen.png
+    </drawable>
+    <drawable name="mz_scrubber_control_selector">res/drawable/mz_scrubber_control_selector.xml
+    </drawable>
+    <drawable name="mz_scrubber_control_selector_color_dodgerblue">
+        res/drawable/mz_scrubber_control_selector_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_scrubber_control_selector_color_limegreen">
+        res/drawable/mz_scrubber_control_selector_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_scrubber_control_selector_dark">
+        res/drawable/mz_scrubber_control_selector_dark.xml
+    </drawable>
+    <drawable name="mz_scrubber_control_selector_white">
+        res/drawable/mz_scrubber_control_selector_white.xml
+    </drawable>
+    <drawable name="mz_scrubber_control_white_disable">
+        res/drawable-xxhdpi-v4/mz_scrubber_control_white_disable.png
+    </drawable>
+    <drawable name="mz_scrubber_control_white_normal">
+        res/drawable-xxhdpi-v4/mz_scrubber_control_white_normal.png
+    </drawable>
+    <drawable name="mz_scrubber_control_white_pressed">
+        res/drawable-xxhdpi-v4/mz_scrubber_control_white_pressed.png
+    </drawable>
+    <drawable name="mz_scrubber_primary">res/drawable/mz_scrubber_primary.xml</drawable>
+    <drawable name="mz_scrubber_primary_color_dodgerblue">
+        res/drawable/mz_scrubber_primary_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_scrubber_primary_color_limegreen">
+        res/drawable/mz_scrubber_primary_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_scrubber_primary_dark">res/drawable/mz_scrubber_primary_dark.xml</drawable>
+    <drawable name="mz_scrubber_primary_disable">
+        res/drawable-xxhdpi-v4/mz_scrubber_primary_disable.9.png
+    </drawable>
+    <drawable name="mz_scrubber_primary_disable_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_scrubber_primary_disable_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_scrubber_primary_disable_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_scrubber_primary_disable_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_scrubber_primary_disable_dark">
+        res/drawable-xxhdpi-v4/mz_scrubber_primary_disable_dark.9.png
+    </drawable>
+    <drawable name="mz_scrubber_primary_normal">
+        res/drawable-xxhdpi-v4/mz_scrubber_primary_normal.9.png
+    </drawable>
+    <drawable name="mz_scrubber_primary_normal_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_scrubber_primary_normal_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_scrubber_primary_normal_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_scrubber_primary_normal_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_scrubber_primary_vertical_color_dodgerblue">
+        res/drawable/mz_scrubber_primary_vertical_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_scrubber_primary_vertical_color_limegreen">
+        res/drawable/mz_scrubber_primary_vertical_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_scrubber_primary_vertical_disable_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_scrubber_primary_vertical_disable_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_scrubber_primary_vertical_disable_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_scrubber_primary_vertical_disable_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_scrubber_primary_vertical_normal_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_scrubber_primary_vertical_normal_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_scrubber_primary_vertical_normal_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_scrubber_primary_vertical_normal_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_scrubber_primary_white">res/drawable/mz_scrubber_primary_white.xml</drawable>
+    <drawable name="mz_scrubber_primary_white_disable">
+        res/drawable-xxhdpi-v4/mz_scrubber_primary_white_disable.9.png
+    </drawable>
+    <drawable name="mz_scrubber_primary_white_normal">
+        res/drawable-xxhdpi-v4/mz_scrubber_primary_white_normal.9.png
+    </drawable>
+    <drawable name="mz_scrubber_progress_horizontal">
+        res/drawable/mz_scrubber_progress_horizontal.xml
+    </drawable>
+    <drawable name="mz_scrubber_progress_horizontal_color_dodgerblue">
+        res/drawable/mz_scrubber_progress_horizontal_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_scrubber_progress_horizontal_color_limegreen">
+        res/drawable/mz_scrubber_progress_horizontal_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_scrubber_progress_horizontal_white">
+        res/drawable/mz_scrubber_progress_horizontal_white.xml
+    </drawable>
+    <drawable name="mz_scrubber_progress_vertical_light_color_dodgerblue">
+        res/drawable/mz_scrubber_progress_vertical_light_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_scrubber_progress_vertical_light_color_limegreen">
+        res/drawable/mz_scrubber_progress_vertical_light_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_scrubber_secondary">res/drawable-xxhdpi-v4/mz_scrubber_secondary.9.png
+    </drawable>
+    <drawable name="mz_scrubber_track">res/drawable-xxhdpi-v4/mz_scrubber_track.9.png</drawable>
+    <drawable name="mz_scrubber_track_dark">res/drawable-xxhdpi-v4/mz_scrubber_track_dark.9.png
+    </drawable>
+    <drawable name="mz_scrubber_track_white">res/drawable-xxhdpi-v4/mz_scrubber_track_white.9.png
+    </drawable>
+    <drawable name="mz_search_edittext_handle_left_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_search_edittext_handle_left_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_search_edittext_handle_left_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_search_edittext_handle_left_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_search_edittext_handle_right_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_search_edittext_handle_right_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_search_edittext_handle_right_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_search_edittext_handle_right_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_search_text_cursor_white">res/drawable/mz_search_text_cursor_white.xml
+    </drawable>
+    <drawable name="mz_search_view_textfield_hover_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_search_view_textfield_hover_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_search_view_textfield_hover_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_search_view_textfield_hover_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_search_view_textfield_hover_default">
+        res/drawable-xxhdpi-v4/mz_search_view_textfield_hover_default.9.png
+    </drawable>
+    <drawable name="mz_search_view_textfield_hover_white">
+        res/drawable-xxhdpi-v4/mz_search_view_textfield_hover_white.9.png
+    </drawable>
+    <drawable name="mz_selection_button_background_color_dodgerblue">
+        res/drawable/mz_selection_button_background_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_selection_button_background_color_limegreen">
+        res/drawable/mz_selection_button_background_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_slide_divider_8px">res/drawable-xxhdpi-v4/mz_slide_divider_8px.9.png
+    </drawable>
+    <drawable name="mz_slider_btn_hover_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_slider_btn_hover_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_slider_btn_hover_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_slider_btn_hover_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_slidingmenu_item_activated_bg">
+        res/drawable/mz_slidingmenu_item_activated_bg.xml
+    </drawable>
+    <drawable name="mz_smartbar_background">res/drawable-xxhdpi-v4/mz_smartbar_background.9.png
+    </drawable>
+    <drawable name="mz_smartbar_background_dark">
+        res/drawable-xxhdpi-v4/mz_smartbar_background_dark.9.png
+    </drawable>
+    <drawable name="mz_smartbar_background_grey">
+        res/drawable-xxhdpi-v4/mz_smartbar_background_grey.9.png
+    </drawable>
+    <drawable name="mz_spinner_background_light">res/drawable/mz_spinner_background_light.xml
+    </drawable>
+    <drawable name="mz_spinner_large">res/drawable-xxhdpi-v4/mz_spinner_large.png</drawable>
+    <drawable name="mz_spinner_medium">res/drawable-xxhdpi-v4/mz_spinner_medium.png</drawable>
+    <drawable name="mz_spinner_normal_light">res/drawable-xxhdpi-v4/mz_spinner_normal_light.9.png
+    </drawable>
+    <drawable name="mz_spinner_normal_light">
+        res/drawable-ldrtl-xxhdpi-v4/mz_spinner_normal_light.9.png
+    </drawable>
+    <drawable name="mz_spinner_pressed_light">
+        res/drawable-xxhdpi-v4/mz_spinner_pressed_light.9.png
+    </drawable>
+    <drawable name="mz_spinner_pressed_light">
+        res/drawable-ldrtl-xxhdpi-v4/mz_spinner_pressed_light.9.png
+    </drawable>
+    <drawable name="mz_spinner_small">res/drawable-xxhdpi-v4/mz_spinner_small.png</drawable>
+    <drawable name="mz_starting_color_phone">res/drawable-xxhdpi-v4/mz_starting_color_phone.png
+    </drawable>
+    <drawable name="mz_stat_notify_email">res/drawable-xxhdpi-v4/mz_stat_notify_email.png</drawable>
+    <drawable name="mz_stat_notify_email_fail">
+        res/drawable-xxhdpi-v4/mz_stat_notify_email_fail.png
+    </drawable>
+    <drawable name="mz_stat_notify_email_send">
+        res/drawable-xxhdpi-v4/mz_stat_notify_email_send.png
+    </drawable>
+    <drawable name="mz_stat_notify_email_send_anim0">
+        res/drawable-xxhdpi-v4/mz_stat_notify_email_send_anim0.png
+    </drawable>
+    <drawable name="mz_stat_notify_email_send_anim1">
+        res/drawable-xxhdpi-v4/mz_stat_notify_email_send_anim1.png
+    </drawable>
+    <drawable name="mz_stat_notify_email_warn">
+        res/drawable-xxhdpi-v4/mz_stat_notify_email_warn.png
+    </drawable>
+    <drawable name="mz_stat_notify_sms">res/drawable-xxhdpi-v4/mz_stat_notify_sms.png</drawable>
+    <drawable name="mz_stat_notify_sms_failed">
+        res/drawable-xxhdpi-v4/mz_stat_notify_sms_failed.png
+    </drawable>
+    <drawable name="mz_stat_notify_sync">res/drawable-xxhdpi-v4/mz_stat_notify_sync.png</drawable>
+    <drawable name="mz_stat_notify_sync_error">
+        res/drawable-xxhdpi-v4/mz_stat_notify_sync_error.png
+    </drawable>
+    <drawable name="mz_stat_notify_sync_promet">
+        res/drawable-xxhdpi-v4/mz_stat_notify_sync_promet.png
+    </drawable>
+    <drawable name="mz_stat_sys_360cloud_backup">
+        res/drawable-xxhdpi-v4/mz_stat_sys_360cloud_backup.png
+    </drawable>
+    <drawable name="mz_stat_sys_360cloud_restore">
+        res/drawable-xxhdpi-v4/mz_stat_sys_360cloud_restore.png
+    </drawable>
+    <drawable name="mz_stat_sys_360cloud_succeed">
+        res/drawable-xxhdpi-v4/mz_stat_sys_360cloud_succeed.png
+    </drawable>
+    <drawable name="mz_stat_sys_desktop_backup">
+        res/drawable-xxhdpi-v4/mz_stat_sys_desktop_backup.png
+    </drawable>
+    <drawable name="mz_stat_sys_desktop_backup_fail">
+        res/drawable-xxhdpi-v4/mz_stat_sys_desktop_backup_fail.png
+    </drawable>
+    <drawable name="mz_stat_sys_desktop_restore">
+        res/drawable-xxhdpi-v4/mz_stat_sys_desktop_restore.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim0">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim0.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim1">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim1.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim10">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim10.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim11">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim11.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim12">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim12.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim13">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim13.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim14">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim14.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim15">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim15.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim16">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim16.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim17">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim17.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim18">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim18.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim19">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim19.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim2">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim2.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim3">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim3.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim4">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim4.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim5">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim5.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim6">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim6.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim7">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim7.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim8">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim8.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_anim9">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_anim9.png
+    </drawable>
+    <drawable name="mz_stat_sys_download_error">
+        res/drawable-xxhdpi-v4/mz_stat_sys_download_error.png
+    </drawable>
+    <drawable name="mz_stat_sys_downloaded">res/drawable-xxhdpi-v4/mz_stat_sys_downloaded.png
+    </drawable>
+    <drawable name="mz_stat_sys_downloading">res/drawable/mz_stat_sys_downloading.xml</drawable>
+    <drawable name="mz_stat_sys_downloading_pause">
+        res/drawable-xxhdpi-v4/mz_stat_sys_downloading_pause.png
+    </drawable>
+    <drawable name="mz_stat_sys_installed">res/drawable-xxhdpi-v4/mz_stat_sys_installed.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim0">res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim0.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim1">res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim1.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim10">
+        res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim10.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim11">
+        res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim11.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim12">
+        res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim12.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim13">
+        res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim13.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim14">
+        res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim14.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim15">
+        res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim15.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim16">
+        res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim16.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim17">
+        res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim17.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim18">
+        res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim18.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim19">
+        res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim19.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim2">res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim2.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim3">res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim3.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim4">res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim4.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim5">res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim5.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim6">res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim6.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim7">res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim7.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim8">res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim8.png
+    </drawable>
+    <drawable name="mz_stat_sys_upload_anim9">res/drawable-xxhdpi-v4/mz_stat_sys_upload_anim9.png
+    </drawable>
+    <drawable name="mz_stat_sys_uploaded">res/drawable-xxhdpi-v4/mz_stat_sys_uploaded.png</drawable>
+    <drawable name="mz_stat_sys_uploading">res/drawable/mz_stat_sys_uploading.xml</drawable>
+    <drawable name="mz_stat_sys_warning">res/drawable-xxhdpi-v4/mz_stat_sys_warning.png</drawable>
+    <drawable name="mz_status_ic_adb">res/drawable-xxhdpi-v4/mz_status_ic_adb.png</drawable>
+    <drawable name="mz_status_ic_chronograph">res/drawable-xxhdpi-v4/mz_status_ic_chronograph.png
+    </drawable>
+    <drawable name="mz_status_ic_contact_group_picture">
+        res/drawable-xxhdpi-v4/mz_status_ic_contact_group_picture.png
+    </drawable>
+    <drawable name="mz_status_ic_contact_picture">
+        res/drawable-xxhdpi-v4/mz_status_ic_contact_picture.png
+    </drawable>
+    <drawable name="mz_status_ic_data_usb">res/drawable-xxhdpi-v4/mz_status_ic_data_usb.png
+    </drawable>
+    <drawable name="mz_status_ic_desktop_backup">
+        res/drawable-xxhdpi-v4/mz_status_ic_desktop_backup.png
+    </drawable>
+    <drawable name="mz_status_ic_desktop_backup_fail">
+        res/drawable-xxhdpi-v4/mz_status_ic_desktop_backup_fail.png
+    </drawable>
+    <drawable name="mz_status_ic_desktop_restore">
+        res/drawable-xxhdpi-v4/mz_status_ic_desktop_restore.png
+    </drawable>
+    <drawable name="mz_status_ic_document_wlan">
+        res/drawable-xxhdpi-v4/mz_status_ic_document_wlan.png
+    </drawable>
+    <drawable name="mz_status_ic_keyboard">res/drawable-xxhdpi-v4/mz_status_ic_keyboard.png
+    </drawable>
+    <drawable name="mz_status_ic_music_default">
+        res/drawable-xxhdpi-v4/mz_status_ic_music_default.png
+    </drawable>
+    <drawable name="mz_status_ic_notify_alarm_miss">
+        res/drawable-xxhdpi-v4/mz_status_ic_notify_alarm_miss.png
+    </drawable>
+    <drawable name="mz_status_ic_notify_disk_full">
+        res/drawable-xxhdpi-v4/mz_status_ic_notify_disk_full.png
+    </drawable>
+    <drawable name="mz_status_ic_notify_email">
+        res/drawable-xxhdpi-v4/mz_status_ic_notify_email.png
+    </drawable>
+    <drawable name="mz_status_ic_notify_email_contact">
+        res/drawable-xxhdpi-v4/mz_status_ic_notify_email_contact.png
+    </drawable>
+    <drawable name="mz_status_ic_notify_email_fail">
+        res/drawable-xxhdpi-v4/mz_status_ic_notify_email_fail.png
+    </drawable>
+    <drawable name="mz_status_ic_notify_email_send">
+        res/drawable-xxhdpi-v4/mz_status_ic_notify_email_send.png
+    </drawable>
+    <drawable name="mz_status_ic_notify_missed_call">
+        res/drawable-xxhdpi-v4/mz_status_ic_notify_missed_call.png
+    </drawable>
+    <drawable name="mz_status_ic_notify_sms">res/drawable-xxhdpi-v4/mz_status_ic_notify_sms.png
+    </drawable>
+    <drawable name="mz_status_ic_notify_sms_failed">
+        res/drawable-xxhdpi-v4/mz_status_ic_notify_sms_failed.png
+    </drawable>
+    <drawable name="mz_status_ic_notify_sync">res/drawable-xxhdpi-v4/mz_status_ic_notify_sync.png
+    </drawable>
+    <drawable name="mz_status_ic_notify_sync_error">
+        res/drawable-xxhdpi-v4/mz_status_ic_notify_sync_error.png
+    </drawable>
+    <drawable name="mz_status_ic_notify_voicemail">
+        res/drawable-xxhdpi-v4/mz_status_ic_notify_voicemail.png
+    </drawable>
+    <drawable name="mz_status_ic_notify_wifi_display">
+        res/drawable-xxhdpi-v4/mz_status_ic_notify_wifi_display.png
+    </drawable>
+    <drawable name="mz_status_ic_notify_wifi_in_range">
+        res/drawable-xxhdpi-v4/mz_status_ic_notify_wifi_in_range.png
+    </drawable>
+    <drawable name="mz_status_ic_phone_call_forward">
+        res/drawable-xxhdpi-v4/mz_status_ic_phone_call_forward.png
+    </drawable>
+    <drawable name="mz_status_ic_pppoe">res/drawable-xxhdpi-v4/mz_status_ic_pppoe.png</drawable>
+    <drawable name="mz_status_ic_printscreen">res/drawable-xxhdpi-v4/mz_status_ic_printscreen.png
+    </drawable>
+    <drawable name="mz_status_ic_tether_general">
+        res/drawable-xxhdpi-v4/mz_status_ic_tether_general.png
+    </drawable>
+    <drawable name="mz_status_ic_timer">res/drawable-xxhdpi-v4/mz_status_ic_timer.png</drawable>
+    <drawable name="mz_status_ic_voicemsg_new">
+        res/drawable-xxhdpi-v4/mz_status_ic_voicemsg_new.png
+    </drawable>
+    <drawable name="mz_status_ic_vpn">res/drawable-xxhdpi-v4/mz_status_ic_vpn.png</drawable>
+    <drawable name="mz_status_ic_warnning">res/drawable-xxhdpi-v4/mz_status_ic_warnning.png
+    </drawable>
+    <drawable name="mz_switch_anim_thumb_on_selector_color_dodgerblue">
+        res/drawable/mz_switch_anim_thumb_on_selector_color_dodgerblue.xml
+    </drawable>
+    <drawable name="mz_switch_anim_thumb_on_selector_color_limegreen">
+        res/drawable/mz_switch_anim_thumb_on_selector_color_limegreen.xml
+    </drawable>
+    <drawable name="mz_switch_thumb_activated_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_switch_thumb_activated_color_dodgerblue.png
+    </drawable>
+    <drawable name="mz_switch_thumb_activated_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_switch_thumb_activated_color_limegreen.png
+    </drawable>
+    <drawable name="mz_switch_thumb_activated_disabled_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_switch_thumb_activated_disabled_color_dodgerblue.png
+    </drawable>
+    <drawable name="mz_switch_thumb_activated_disabled_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_switch_thumb_activated_disabled_color_limegreen.png
+    </drawable>
+    <drawable name="mz_switch_thumb_activated_pressed_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_switch_thumb_activated_pressed_color_dodgerblue.png
+    </drawable>
+    <drawable name="mz_switch_thumb_activated_pressed_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_switch_thumb_activated_pressed_color_limegreen.png
+    </drawable>
+    <drawable name="mz_tab_background">res/drawable-xxhdpi-v4/mz_tab_background.9.png</drawable>
+    <drawable name="mz_tab_indicator">res/drawable/mz_tab_indicator.xml</drawable>
+    <drawable name="mz_tab_selected">res/drawable-xxhdpi-v4/mz_tab_selected.9.png</drawable>
+    <drawable name="mz_tab_selected_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_tab_selected_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_tab_selected_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_tab_selected_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_text_cursor_dark">res/drawable-xxhdpi-v4/mz_text_cursor_dark.9.png</drawable>
+    <drawable name="mz_text_cursor_light_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_text_cursor_light_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_text_cursor_light_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_text_cursor_light_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_text_select_handle_left">
+        res/drawable-xxhdpi-v4/mz_text_select_handle_left.9.png
+    </drawable>
+    <drawable name="mz_text_select_handle_left_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_text_select_handle_left_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_text_select_handle_left_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_text_select_handle_left_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_text_select_handle_right">
+        res/drawable-xxhdpi-v4/mz_text_select_handle_right.9.png
+    </drawable>
+    <drawable name="mz_text_select_handle_right_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_text_select_handle_right_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_text_select_handle_right_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_text_select_handle_right_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_textfield_default">res/drawable-xxhdpi-v4/mz_textfield_default.9.png
+    </drawable>
+    <drawable name="mz_textfield_default_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_textfield_default_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_textfield_default_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_textfield_default_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_textfield_nocursor">res/drawable-xxhdpi-v4/mz_textfield_nocursor.9.png
+    </drawable>
+    <drawable name="mz_theme_list_bg">res/drawable-xxhdpi-v4/mz_theme_list_bg.9.png</drawable>
+    <drawable name="mz_titleba_search_layout_ic_search_white">
+        res/drawable-xxhdpi-v4/mz_titleba_search_layout_ic_search_white.png
+    </drawable>
+    <drawable name="mz_titlebar_background">res/drawable-xxhdpi-v4/mz_titlebar_background.9.png
+    </drawable>
+    <drawable name="mz_titlebar_background_bottom">
+        res/drawable-xxhdpi-v4/mz_titlebar_background_bottom.9.png
+    </drawable>
+    <drawable name="mz_titlebar_background_bottom_blank">
+        res/drawable-xxhdpi-v4/mz_titlebar_background_bottom_blank.9.png
+    </drawable>
+    <drawable name="mz_titlebar_background_bottom_color_dodgerblue">
+        res/drawable-xxhdpi-v4/mz_titlebar_background_bottom_color_dodgerblue.9.png
+    </drawable>
+    <drawable name="mz_titlebar_background_bottom_color_limegreen">
+        res/drawable-xxhdpi-v4/mz_titlebar_background_bottom_color_limegreen.9.png
+    </drawable>
+    <drawable name="mz_titlebar_ic_back">res/drawable-xxhdpi-v4/mz_titlebar_ic_back.png</drawable>
+    <drawable name="mz_titlebar_ic_back">res/drawable-ldrtl-xxhdpi-v4/mz_titlebar_ic_back.png
+    </drawable>
+    <drawable name="mz_titlebar_ic_back_dark">res/drawable-xxhdpi-v4/mz_titlebar_ic_back_dark.png
+    </drawable>
+    <drawable name="mz_titlebar_ic_back_dark">
+        res/drawable-ldrtl-xxhdpi-v4/mz_titlebar_ic_back_dark.png
+    </drawable>
+    <drawable name="mz_titlebar_ic_list">res/drawable-xxhdpi-v4/mz_titlebar_ic_list.png</drawable>
+    <drawable name="mz_titlebar_ic_list_dark">res/drawable-xxhdpi-v4/mz_titlebar_ic_list_dark.png
+    </drawable>
+    <drawable name="mz_titlebar_ic_more">res/drawable-xxhdpi-v4/mz_titlebar_ic_more.png</drawable>
+    <drawable name="mz_titlebar_ic_more_dark">res/drawable-xxhdpi-v4/mz_titlebar_ic_more_dark.png
+    </drawable>
+    <drawable name="mz_titlebar_ic_search">res/drawable-xxhdpi-v4/mz_titlebar_ic_search.png
+    </drawable>
+    <drawable name="mz_titlebar_ic_search_dark">
+        res/drawable-xxhdpi-v4/mz_titlebar_ic_search_dark.png
+    </drawable>
+    <drawable name="mz_titlebar_ic_tab_unfold">
+        res/drawable-xxhdpi-v4/mz_titlebar_ic_tab_unfold.png
+    </drawable>
+    <drawable name="mz_titlebar_search_layout_ic_delete_black">
+        res/drawable-xxhdpi-v4/mz_titlebar_search_layout_ic_delete_black.png
+    </drawable>
+    <drawable name="mz_titlebar_search_layout_ic_delete_white">
+        res/drawable-xxhdpi-v4/mz_titlebar_search_layout_ic_delete_white.png
+    </drawable>
+    <drawable name="mz_titlebar_search_layout_ic_search_black">
+        res/drawable-xxhdpi-v4/mz_titlebar_search_layout_ic_search_black.png
+    </drawable>
+    <drawable name="mz_titlebar_search_layout_ic_search_white">
+        res/drawable-xxhdpi-v4/mz_titlebar_search_layout_ic_search_white.png
+    </drawable>
+    <drawable name="mz_titlebar_search_layout_ic_voice_black">
+        res/drawable-xxhdpi-v4/mz_titlebar_search_layout_ic_voice_black.png
+    </drawable>
+    <drawable name="mz_titlebar_search_layout_ic_voice_white">
+        res/drawable-xxhdpi-v4/mz_titlebar_search_layout_ic_voice_white.png
+    </drawable>
+    <drawable name="mz_toast_frame">res/drawable-xxhdpi-v4/mz_toast_frame.9.png</drawable>
+    <drawable name="mz_topbar_background">res/drawable-xxhdpi-v4/mz_topbar_background.9.png
+    </drawable>
+    <drawable name="mz_topbar_dropdown_ic_arrow">
+        res/drawable-xxhdpi-v4/mz_topbar_dropdown_ic_arrow.9.png
+    </drawable>
+    <drawable name="mz_topbar_shadow_light">res/drawable-xxhdpi-v4/mz_topbar_shadow_light.9.png
+    </drawable>
+    <drawable name="mzuc_stat_sys_update">res/drawable-xxhdpi-v4/mzuc_stat_sys_update.png</drawable>
+    <drawable name="nick_name_bg">res/drawable-xxhdpi-v4/nick_name_bg.9.png</drawable>
+    <drawable name="nickname_function_dialog_example_content_bg">
+        res/drawable-xxhdpi-v4/nickname_function_dialog_example_content_bg.png
+    </drawable>
+    <drawable name="nickname_function_send_out_message_bg">
+        res/drawable-xxhdpi-v4/nickname_function_send_out_message_bg.9.png
+    </drawable>
+    <drawable name="notice_edit_text_background">
+        res/drawable-xxhdpi-v4/notice_edit_text_background.9.png
+    </drawable>
+    <drawable name="notice_ic_input_field_send">
+        res/drawable-xxhdpi-v4/notice_ic_input_field_send.png
+    </drawable>
+    <drawable name="notice_ic_input_field_send_disable">
+        res/drawable-xxhdpi-v4/notice_ic_input_field_send_disable.png
+    </drawable>
+    <drawable name="notice_ic_input_field_send_selector">
+        res/drawable/notice_ic_input_field_send_selector.xml
+    </drawable>
+    <drawable name="peek_arrow">res/drawable-xxhdpi-v4/peek_arrow.png</drawable>
+    <drawable name="peek_pop_menu_bg">res/drawable-xxhdpi-v4/peek_pop_menu_bg.9.png</drawable>
+    <drawable name="peek_pull_to_mark_read">res/drawable/peek_pull_to_mark_read.xml</drawable>
+    <drawable name="peek_pull_to_mark_unread">res/drawable/peek_pull_to_mark_unread.xml</drawable>
+    <drawable name="processbar_color">res/drawable/processbar_color.xml</drawable>
+    <drawable name="shape_horizontal_divider">res/drawable/shape_horizontal_divider.xml</drawable>
+    <drawable name="shape_horizontal_divider_2px">res/drawable/shape_horizontal_divider_2px.xml
+    </drawable>
+    <drawable name="shape_vertical_divider">res/drawable/shape_vertical_divider.xml</drawable>
+    <drawable name="sim1_input">res/drawable-xxhdpi-v4/sim1_input.png</drawable>
+    <drawable name="sim1_input_choose">res/drawable-xxhdpi-v4/sim1_input_choose.png</drawable>
+    <drawable name="sim1_input_choose_large">res/drawable-xxhdpi-v4/sim1_input_choose_large.png
+    </drawable>
+    <drawable name="sim1_input_large">res/drawable-xxhdpi-v4/sim1_input_large.png</drawable>
+    <drawable name="sim1_input_large_selector">res/drawable/sim1_input_large_selector.xml</drawable>
+    <drawable name="sim1_input_pop_up_box">res/drawable-xxhdpi-v4/sim1_input_pop_up_box.png
+    </drawable>
+    <drawable name="sim1_input_pop_up_box_large">
+        res/drawable-xxhdpi-v4/sim1_input_pop_up_box_large.png
+    </drawable>
+    <drawable name="sim1_input_selector">res/drawable/sim1_input_selector.xml</drawable>
+    <drawable name="sim1_list">res/drawable-xxhdpi-v4/sim1_list.png</drawable>
+    <drawable name="sim1_list_large">res/drawable-xxhdpi-v4/sim1_list_large.png</drawable>
+    <drawable name="sim1_noti">res/drawable-xxhdpi-v4/sim1_noti.png</drawable>
+    <drawable name="sim2_input">res/drawable-xxhdpi-v4/sim2_input.png</drawable>
+    <drawable name="sim2_input_choose">res/drawable-xxhdpi-v4/sim2_input_choose.png</drawable>
+    <drawable name="sim2_input_choose_large">res/drawable-xxhdpi-v4/sim2_input_choose_large.png
+    </drawable>
+    <drawable name="sim2_input_large">res/drawable-xxhdpi-v4/sim2_input_large.png</drawable>
+    <drawable name="sim2_input_large_selector">res/drawable/sim2_input_large_selector.xml</drawable>
+    <drawable name="sim2_input_pop_up_box">res/drawable-xxhdpi-v4/sim2_input_pop_up_box.png
+    </drawable>
+    <drawable name="sim2_input_pop_up_box_large">
+        res/drawable-xxhdpi-v4/sim2_input_pop_up_box_large.png
+    </drawable>
+    <drawable name="sim2_input_selector">res/drawable/sim2_input_selector.xml</drawable>
+    <drawable name="sim2_list">res/drawable-xxhdpi-v4/sim2_list.png</drawable>
+    <drawable name="sim2_list_large">res/drawable-xxhdpi-v4/sim2_list_large.png</drawable>
+    <drawable name="sim2_noti">res/drawable-xxhdpi-v4/sim2_noti.png</drawable>
+    <drawable name="sim_cloud_input">res/drawable-xxhdpi-v4/sim_cloud_input.png</drawable>
+    <drawable name="sim_cloud_input_choose">res/drawable-xxhdpi-v4/sim_cloud_input_choose.png
+    </drawable>
+    <drawable name="sim_cloud_input_choose_large">
+        res/drawable-xxhdpi-v4/sim_cloud_input_choose_large.png
+    </drawable>
+    <drawable name="sim_cloud_input_large">res/drawable-xxhdpi-v4/sim_cloud_input_large.png
+    </drawable>
+    <drawable name="sim_cloud_input_large_selector">
+        res/drawable/sim_cloud_input_large_selector.xml
+    </drawable>
+    <drawable name="sim_cloud_input_pop_up_box">
+        res/drawable-xxhdpi-v4/sim_cloud_input_pop_up_box.png
+    </drawable>
+    <drawable name="sim_cloud_input_pop_up_box_large">
+        res/drawable-xxhdpi-v4/sim_cloud_input_pop_up_box_large.png
+    </drawable>
+    <drawable name="sim_cloud_input_selector">res/drawable/sim_cloud_input_selector.xml</drawable>
+    <drawable name="sim_cloud_list">res/drawable-xxhdpi-v4/sim_cloud_list.png</drawable>
+    <drawable name="sim_cloud_list_large">res/drawable-xxhdpi-v4/sim_cloud_list_large.png</drawable>
+    <drawable name="sim_cloud_noti">res/drawable-xxhdpi-v4/sim_cloud_noti.png</drawable>
+    <drawable name="sim_default_input">res/drawable-xxhdpi-v4/sim_default_input.png</drawable>
+    <drawable name="sim_default_input_choose">res/drawable-xxhdpi-v4/sim_default_input_choose.png
+    </drawable>
+    <drawable name="sim_default_input_choose_large">
+        res/drawable-xxhdpi-v4/sim_default_input_choose_large.png
+    </drawable>
+    <drawable name="sim_default_input_large">res/drawable-xxhdpi-v4/sim_default_input_large.png
+    </drawable>
+    <drawable name="sim_default_input_large_selector">
+        res/drawable/sim_default_input_large_selector.xml
+    </drawable>
+    <drawable name="sim_default_input_selector">res/drawable/sim_default_input_selector.xml
+    </drawable>
+    <drawable name="sim_default_pop_up_box">res/drawable-xxhdpi-v4/sim_default_pop_up_box.png
+    </drawable>
+    <drawable name="sim_default_pop_up_box_large">
+        res/drawable-xxhdpi-v4/sim_default_pop_up_box_large.png
+    </drawable>
+    <drawable name="sim_no_input">res/drawable-xxhdpi-v4/sim_no_input.png</drawable>
+    <drawable name="sim_no_input_choose">res/drawable-xxhdpi-v4/sim_no_input_choose.png</drawable>
+    <drawable name="sim_no_input_choose_large">
+        res/drawable-xxhdpi-v4/sim_no_input_choose_large.png
+    </drawable>
+    <drawable name="sim_no_input_large">res/drawable-xxhdpi-v4/sim_no_input_large.png</drawable>
+    <drawable name="sim_no_input_large_selector">res/drawable/sim_no_input_large_selector.xml
+    </drawable>
+    <drawable name="sim_no_input_selector">res/drawable/sim_no_input_selector.xml</drawable>
+    <drawable name="small_stat_sys_sim_full">res/drawable-xxhdpi-v4/small_stat_sys_sim_full.png
+    </drawable>
+    <drawable name="smartbar_bg">res/drawable-xxhdpi-v4/smartbar_bg.9.png</drawable>
+    <drawable name="sms_icon_detail">res/drawable-xxhdpi-v4/sms_icon_detail.png</drawable>
+    <drawable name="stat_sys_no_sim">res/drawable-xxhdpi-v4/stat_sys_no_sim.png</drawable>
+    <drawable name="stat_sys_sim_full">res/drawable-xxhdpi-v4/stat_sys_sim_full.png</drawable>
+    <drawable name="subject_bottom_line">res/drawable-xxhdpi-v4/subject_bottom_line.9.png</drawable>
+    <drawable name="talk_process_recv">res/drawable/talk_process_recv.xml</drawable>
+    <drawable name="talk_process_send">res/drawable/talk_process_send.xml</drawable>
+    <drawable name="text_select_handle_left_message">
+        res/drawable-xxhdpi-v4/text_select_handle_left_message.9.png
+    </drawable>
+    <drawable name="text_select_handle_right_message">
+        res/drawable-xxhdpi-v4/text_select_handle_right_message.9.png
+    </drawable>
+    <drawable name="titlebar_background_bottom_blank">
+        res/drawable-xxhdpi-v4/titlebar_background_bottom_blank.9.png
+    </drawable>
+    <drawable name="titlebar_high_bg">res/drawable-xxhdpi-v4/titlebar_high_bg.9.png</drawable>
+    <drawable name="titlebar_icon_more_large">res/drawable-xxhdpi-v4/titlebar_icon_more_large.png
+    </drawable>
+    <drawable name="titlebar_icon_search_large">
+        res/drawable-xxhdpi-v4/titlebar_icon_search_large.png
+    </drawable>
+    <drawable name="titlebar_normal_bg">res/drawable-xxhdpi-v4/titlebar_normal_bg.9.png</drawable>
+    <drawable name="widget_conversation_read_selector">
+        res/drawable/widget_conversation_read_selector.xml
+    </drawable>
+    <drawable name="widget_conversation_unread_selector">
+        res/drawable/widget_conversation_unread_selector.xml
+    </drawable>
+    <drawable name="btn_bg_press">#992eb5e6</drawable>
+    <drawable name="class_zero_background">#7f040000</drawable>
+    <drawable name="cma_edit_bg_color">#f5f5f5</drawable>
+    <drawable name="compose_message_selector">#00ffffff</drawable>
+    <drawable name="list_bg_pressed">#80e2e2e2</drawable>
+    <drawable name="mark_as_all_text_color">@color/mz_theme_color_limegreen</drawable>
+    <drawable name="mark_as_all_text_color_disable">#80000000</drawable>
+    <drawable name="mz_background_dark">@color/mz_background_dark</drawable>
+    <drawable name="mz_background_light">@color/mz_background_light</drawable>
+    <drawable name="mz_header_clear_text_color">@color/mz_theme_color_limegreen</drawable>
+    <drawable name="mz_header_clear_text_color_pressed">#48a068</drawable>
+    <drawable name="notification_template_icon_bg">#3333b5e5</drawable>
+    <drawable name="pay_btn_bg_press">#e2e2e2</drawable>
+</resources>

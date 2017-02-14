@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res-auto">
+    <item app:id="@id/discard_change_nickname" app:title="@string/no" app:showAsAction="always" />
+    <item app:id="@id/save_change_nickname" app:title="@string/yes" app:showAsAction="always" />
+</menu>

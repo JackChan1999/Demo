@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="#000000" android:fitsSystemWindows="true" android:clipToPadding="true" android:layout_width="match_parent" android:layout_height="match_parent"
+    <LinearLayout android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:orientation="horizontal" android:id="@bp$d/duoqu_ll_nearby_point_loading" android:background="@bp$a/duoqu_white" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ImageView android:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:layout_width="UNKNOWN_DATA_0x1001" android:layout_height="UNKNOWN_DATA_0x1401" android:src="@bp$c/duoqu_nearby_point_origin" />
+        <TextView android:textSize="14sp" android:textColor="@bp$a/duoqu_nearby_point_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:text="@bp$f/duoqu_tip_nearby_point_loading" />
+    </LinearLayout>
+    <LinearLayout android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:orientation="horizontal" android:id="@bp$d/duoqu_ll_nearby_point_not_find" android:background="@bp$a/duoqu_white" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ImageView android:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:layout_width="UNKNOWN_DATA_0x1001" android:layout_height="UNKNOWN_DATA_0x1401" android:src="@bp$c/duoqu_nearby_point_search_result" />
+        <TextView android:textSize="14sp" android:textColor="@bp$a/duoqu_nearby_point_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:text="@bp$f/duoqu_tip_nearby_point_not_find" />
+        <TextView android:textSize="14sp" android:textColor="@bp$a/duoqu_nearby_point_hyper_link" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@bp$f/duoqu_tip_nearby_point_refresh" />
+    </LinearLayout>
+    <LinearLayout android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:orientation="vertical" android:id="@bp$d/duoqu_ll_nearby_point_network_lose" android:background="@bp$a/duoqu_white" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ImageView android:layout_gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_width="UNKNOWN_DATA_0x2801" android:layout_height="UNKNOWN_DATA_0x2801" android:layout_marginBottom="20dp" android:src="@bp$c/duoqu_nearby_point_network_lose" />
+        <TextView android:textSize="14sp" android:textColor="@bp$a/duoqu_nearby_point_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@bp$f/duoqu_tip_nearby_point_network_lose" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@bp$d/duoqu_ll_nearby_point_list" android:background="@bp$a/duoqu_white" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ListView android:id="@bp$d/duoqu_lv_nearby_point" android:scrollbars="UNKNOWN_DATA_0x0" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x1" android:layout_weight="1.0" android:overScrollMode="never" />
+        <LinearLayout android:gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end" android:orientation="horizontal" android:visibility="gone" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x1401">
+            <TextView android:textSize="9sp" android:textColor="@bp$a/duoqu_nearby_point_gray" android:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:paddingRight="20dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@bp$f/duoqu_tip_services_provide" />
+        </LinearLayout>
+    </LinearLayout>
+    <RelativeLayout android:id="@bp$d/duoqu_nearby_point_error_page" android:background="#ffffff" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@bp$f/duoqu_errortext" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</LinearLayout>

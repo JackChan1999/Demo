@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:splitMotionEvents="false">
+    <FrameLayout android:paddingLeft="17dp" android:paddingRight="17dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x3101">
+        <View android:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:id="@id/indicator" android:layout_width="UNKNOWN_DATA_0x7f0d02a7" android:layout_height="UNKNOWN_DATA_0x7f0d02a4" android:layout_marginLeft="@dimen/mc_custom_picker_dicator_margin_left" android:layout_marginTop="1dp" />
+        <LinearLayout android:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="64dp">
+            <TextView android:textSize="16sp" android:textColor="@color/mc_custom_date_picker_selected_tab_color" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/gregorian" android:layout_width="UNKNOWN_DATA_0x7f0d02ac" android:layout_height="UNKNOWN_DATA_0x2f01" android:text="@string/mc_custom_date_time_gregorian" />
+            <TextView android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/tabSplit" android:layout_width="UNKNOWN_DATA_0x1601" android:layout_height="UNKNOWN_DATA_0x2f01" />
+            <TextView android:textSize="16sp" android:textColor="@color/mc_custom_date_picker_unselected_tab_color" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/lunar" android:layout_width="UNKNOWN_DATA_0x7f0d02ac" android:layout_height="UNKNOWN_DATA_0x2f01" android:text="@string/mc_custom_date_time_lunar" />
+        </LinearLayout>
+    </FrameLayout>
+    <View android:background="@color/mc_custom_date_picker_divider_color" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x100" />
+    <com.meizu.common.widget.DatePicker common:layout_gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end" common:id="@id/datePicker" common:layout_width="wrap_content" common:layout_height="wrap_content" common:spinnersShown="true" common:calendarViewShown="false" common:mcInternalLayout="@layout/mc_custom_date_picker" common:mcVisibleRow="3" />
+</LinearLayout>

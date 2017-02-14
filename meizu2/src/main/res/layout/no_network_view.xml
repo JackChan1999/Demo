@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.meizu.common.widget.EmptyView xmlns:android="http://schemas.android.com/apk/res-auto" app:orientation="vertical" app:layout_width="match_parent" app:layout_height="match_parent" app:mcTopMarginOfTips="20dp" app:mcSrcOfImage="@drawable/mz_ic_empty_view_no_network" app:mcTitle="@string/mz_wif_setting_dialog_message" app:mcTitleTextAppearance="@style/TextAppearance.Small.EmptyViewToast.Title" />

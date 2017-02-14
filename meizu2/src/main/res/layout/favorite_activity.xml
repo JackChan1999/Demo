@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res-auto">
+    <com.meizu.common.widget.EmptyView meizu:mcTitle="@string/no_conversations" meizu:mcTitleTextAppearance="?attr/empty_view_title_style" style="@style/EmptyViewStyle" />
+    <view meizu:id="@bp$d/content" meizu:paddingLeft="@dimen/mz_list_item_padding_left" meizu:paddingRight="@dimen/mz_list_item_padding_right" style="@style/FavoriteListViewStyle" class="com.android.mms.fragmentstyle.FavoriteListView" />
+</merge>

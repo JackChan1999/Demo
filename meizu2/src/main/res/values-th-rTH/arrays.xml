@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>ไม่มีหัวข้อ</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>เสมอ</item>
+        <item>เฉพาะเมื่อใช้งานในโหมดปิดเสียงเท่านั้น</item>
+        <item>ไม่อย่างเด็ดขาด</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 วินาที</item>
+        <item>2 วินาที</item>
+        <item>3 วินาที</item>
+        <item>4 วินาที</item>
+        <item>5 วินาที</item>
+        <item>6 วินาที</item>
+        <item>7 วินาที</item>
+        <item>8 วินาที</item>
+        <item>9 วินาที</item>
+        <item>10 วินาที</item>
+        <item>อื่นๆ</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>ลบข้อความออกหรือไม่?</item>
+        <item>ลบรายการที่เลือกออกหรือไม่?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>ม.ค.</item>
+        <item>ก.พ.</item>
+        <item>มี.ค.</item>
+        <item>เม.ย.</item>
+        <item>พฤษภาคม</item>
+        <item>ม.ค.</item>
+        <item>ก.ค.</item>
+        <item>ส.ค.</item>
+        <item>ก.ย.</item>
+        <item>ต.ค.</item>
+        <item>พ.ย.</item>
+        <item>ธ.ค.</item>
+    </array>
+    <array name="phrases">
+        <item>ตอนนี้ฉันไม่ว่าง ฉันจะติดต่อคุณในภายหลัง</item>
+        <item>โปรดโทรมาใหม่อีกครั้งในภายหลัง ขอบคุณ</item>
+        <item>ใช่แล้ว ขอบคุณ</item>
+        <item>การจราจรติดขัด ฉันอาจจะไปสายนิดหน่อย</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>ผู้ใช้ Weibo ที่ไม่ถูกต้อง</item>
+        <item>จำกัดการเข้าถึง</item>
+        <item>ไม่มีผู้ใช้</item>
+        <item>เนื้อหาว่างเปล่า การส่งล้มเหลว</item>
+        <item>ห้ามป้อนข้อความมากกว่า 300 ตัวอักษร</item>
+        <item>การละเมิดกฎที่เกี่ยวข้อง การดำเนินการไม่ถูกต้อง</item>
+        <item>ไม่สามารถโพสต์เนื้อหาเดิมซ้ำได้ภายในเวลา 10 นาที</item>
+        <item>URL ที่คุณป้อนดูเหมือนจะไม่ปลอดภัย</item>
+        <item>ตามกฎหมายและกฎระเบียบที่มีผลบังคับใช้ คุณไม่สามารถโพสต์เนื้อหานี้ได้</item>
+        <item>คุณสมบัตินี้ไม่สามารถใช้งานได้ในขณะนี้</item>
+        <item>ระบบไม่สามารถส่งข้อความส่วนตัวไปยังผู้ใช้รายนี้ได้เนื่องจากการตั้งค่าความเป็นส่วนตัวของผู้ใช้</item>
+        <item>สถานะการเข้าสู่ระบบที่ไม่ได้คาดไว้</item>
+        <item>ล็อคบัญชีแล้ว</item>
+        <item>ไม่สามารถดูเนื้อหานี้ได้ชั่วคราว</item>
+        <item>คุณไม่สามารถส่งข้อความส่วนตัวไปยังผู้ใช้ที่ไม่ได้ติดตามคุณ</item>
+        <item>ข้อความส่วนตัวที่ไม่ถูกต้อง</item>
+        <item>ไม่มีข้อความส่วนตัว</item>
+        <item>คุณไม่สามารถส่งข้อความส่วนตัวซึ่งเป็นข้อความเดียวกันซ้ำได้อีก</item>
+        <item>ID ในการส่งข้อความส่วนตัวไม่ถูกต้อง</item>
+        <item>มีการส่งข้อความส่วนตัวจำนวนมากเกินไป</item>
+        <item>ข้อความส่วนตัวนี้ละเมิดกฎระเบียบที่เกี่ยวข้องและถูกบล็อกแล้ว</item>
+        <item>ตามกฎหมายและกฎระเบียบที่มีผลบังคับใช้ คุณไม่สามารถส่งข้อความส่วนตัวได้</item>
+        <item>โทเค็นหมดอายุ</item>
+        <item>คุณไม่สามารถส่งข้อความส่วนตัวไปยังผู้ใช้รายนี้ได้เนื่องจากการตั้งค่าของผู้ใช้</item>
+        <item>คุณส่งข้อความเรียบร้อยแล้ว เมื่อเพียงพอแล้ว</item>
+    </array>
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>कोई विषय नहीं</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>हमेशा</item>
+        <item>केवल जब साइलेंट हो</item>
+        <item>कभी नहीं</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 सेकंड</item>
+        <item>2 सेकंड</item>
+        <item>3 सेकंड</item>
+        <item>4 सेकंड</item>
+        <item>5 सेकंड</item>
+        <item>6 सेकंड</item>
+        <item>7 सेकंड</item>
+        <item>8 सेकंड</item>
+        <item>9 सेकंड</item>
+        <item>10 सेकंड</item>
+        <item>अन्य</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>संदेश मिटाएँ?</item>
+        <item>चुने गए आइटम मिटाएँ?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>जनवरी</item>
+        <item>फ़रवरी</item>
+        <item>मार्च</item>
+        <item>अप्रैल</item>
+        <item>मई</item>
+        <item>जून</item>
+        <item>जुलाई</item>
+        <item>अगस्त</item>
+        <item>सितंबर</item>
+        <item>अक्टूबर</item>
+        <item>नवंबर</item>
+        <item>दिसंबर</item>
+    </array>
+    <array name="phrases">
+        <item>अभी व्यस्त हूँ, बाद में आपसे संपर्क करता/करती हूँ।</item>
+        <item>कृपया मुझे बाद में कॉल करें, धन्यवाद।</item>
+        <item>ठीक है, धन्यवाद।</item>
+        <item>ट्रैफ़िक रुका हुआ है, मुझे थोड़ी देर हो जाएगी।</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>अवैध Weibo उपयोगकर्ता</item>
+        <item>प्रतिबंधित पहुँच</item>
+        <item>उपयोगकर्ता मौजूद नहीं है</item>
+        <item>सामग्री को खाली करें। प्रेषण नहीं किया जा सका</item>
+        <item>300 से अधिक वर्ण न लिखें</item>
+        <item>संबंधित नियमों का उल्लंघन किया जा रहा है, अमान्य प्रचालन</item>
+        <item>उसी सामग्री को 10 मिनट के अंदर फिर से पोस्ट नहीं किया जा सकता है</item>
+        <item>आपके द्वारा दर्ज किया गया URL सुरक्षित नहीं प्रतीत होता</item>
+        <item>लागू कानूनों और विनियमों के अनुसार इस विषय सामग्री को पोस्ट नहीं किया जा सकता है</item>
+        <item>मौजूदा समय में यह सुविधा उपलब्ध नहीं है</item>
+        <item>उपयोगकर्ता की गोपनीयता सेटिंग्स के कारण निजी संदेशों को नहीं भेजा जा सकता है</item>
+        <item>अप्रत्याशित लॉगिन स्थिति</item>
+        <item>खाता लॉक है</item>
+        <item>इस सामग्री को अभी नहीं देखा जा सकता है</item>
+        <item>आप ऐसे उपयोगकर्ताओं को निजी संदेश नहीं भेज सकते जो आपको फ़ॉलो नहीं करते हैं</item>
+        <item>अवैध निजी संदेश</item>
+        <item>निजी संदेश मौजूद नहीं हैं</item>
+        <item>आप उसी निजी संदेश को फिर से नहीं भेज सकते</item>
+        <item>अवैध निजी संदेश सेवा ID</item>
+        <item>बहुत अधिक निजी संदेश भेजे गए</item>
+        <item>इस निजी द्वारा संबंधित नियमों का उल्लंघन किया गया है और इसे अवरुद्ध कर दिया गया है</item>
+        <item>लागू कानूनों और विनियमों के अनुसार आप किसी निजी संदेश को नहीं भेज सकते</item>
+        <item>टोकन की समय सीमा समाप्त हो गई है</item>
+        <item>आप उपयोगकर्ता द्वारा की गईं सेटिंग्स की वजह से इस उपयोगकर्ता को निजी संदेश नहीं भेज सकते हैं</item>
+        <item>आप पहले ही भेज चुके हैं। एक बार पर्याप्त है</item>
+    </array>
+</resources>

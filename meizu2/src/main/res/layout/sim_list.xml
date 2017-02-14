@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res-auto">
+    <ListView meizu:id="@bp$d/list" meizu:fadingEdge="UNKNOWN_DATA_0x0" meizu:clipToPadding="false" meizu:layout_width="match_parent" meizu:layout_height="match_parent" meizu:drawSelectorOnTop="false" />
+    <com.meizu.common.widget.EmptyView meizu:id="@id/sim_empty_view" meizu:mcTitle="@string/sim_empty" style="@style/EmptyViewStyle" />
+</merge>

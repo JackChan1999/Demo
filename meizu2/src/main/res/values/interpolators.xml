@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <interpolator name="albummanager_in_interpolator">res/interpolator/albummanager_in_interpolator.xml</interpolator>
+    <interpolator name="albummanager_out_interpolator">res/interpolator/albummanager_out_interpolator.xml</interpolator>
+    <interpolator name="mz_dialog_alert_interpolator">res/interpolator/mz_dialog_alert_interpolator.xml</interpolator>
+    <interpolator name="mz_dialog_alert_interpolator">res/interpolator-v21/mz_dialog_alert_interpolator.xml</interpolator>
+    <interpolator name="mz_edit_new_close_enter_alpha">res/interpolator/mz_edit_new_close_enter_alpha.xml</interpolator>
+    <interpolator name="mz_edit_new_close_enter_alpha">res/interpolator-v21/mz_edit_new_close_enter_alpha.xml</interpolator>
+    <interpolator name="mz_edit_new_close_exit_alpha">res/interpolator/mz_edit_new_close_exit_alpha.xml</interpolator>
+    <interpolator name="mz_edit_new_close_exit_translate">res/interpolator/mz_edit_new_close_exit_translate.xml</interpolator>
+    <interpolator name="mz_edit_new_open_enter_alpha">res/interpolator/mz_edit_new_open_enter_alpha.xml</interpolator>
+    <interpolator name="mz_edit_new_open_enter_translate">res/interpolator/mz_edit_new_open_enter_translate.xml</interpolator>
+    <interpolator name="mz_edit_new_open_exit_alpha">res/interpolator/mz_edit_new_open_exit_alpha.xml</interpolator>
+    <interpolator name="mz_edit_new_open_exit_alpha">res/interpolator-v21/mz_edit_new_open_exit_alpha.xml</interpolator>
+    <interpolator name="mz_extra_close_exit_translate_app">res/interpolator/mz_extra_close_exit_translate_app.xml</interpolator>
+    <interpolator name="mz_extra_open_enter_translate_app">res/interpolator/mz_extra_open_enter_translate_app.xml</interpolator>
+    <interpolator name="mz_overflow_popup_enter_translate">res/interpolator/mz_overflow_popup_enter_translate.xml</interpolator>
+    <interpolator name="mz_overflow_popup_enter_translate">res/interpolator-v21/mz_overflow_popup_enter_translate.xml</interpolator>
+    <interpolator name="mz_overflow_popup_exit_translate">res/interpolator/mz_overflow_popup_exit_translate.xml</interpolator>
+    <interpolator name="mz_overflow_popup_exit_translate">res/interpolator-v21/mz_overflow_popup_exit_translate.xml</interpolator>
+    <interpolator name="mz_search_interpolator_alpha">res/interpolator/mz_search_interpolator_alpha.xml</interpolator>
+    <interpolator name="mz_search_interpolator_alpha">res/interpolator-v21/mz_search_interpolator_alpha.xml</interpolator>
+    <interpolator name="mz_support_fragment_close_enter_alpha">res/interpolator/mz_support_fragment_close_enter_alpha.xml</interpolator>
+    <interpolator name="mz_support_fragment_close_enter_alpha">res/interpolator-v21/mz_support_fragment_close_enter_alpha.xml</interpolator>
+    <interpolator name="mz_support_fragment_close_exit_alpha">res/interpolator/mz_support_fragment_close_exit_alpha.xml</interpolator>
+    <interpolator name="mz_support_fragment_close_exit_alpha">res/interpolator-v21/mz_support_fragment_close_exit_alpha.xml</interpolator>
+    <interpolator name="mz_support_fragment_close_exit_translationx">res/interpolator/mz_support_fragment_close_exit_translationx.xml</interpolator>
+    <interpolator name="mz_support_fragment_close_exit_translationx">res/interpolator-v21/mz_support_fragment_close_exit_translationx.xml</interpolator>
+    <interpolator name="mz_support_fragment_open_enter_alpha">res/interpolator/mz_support_fragment_open_enter_alpha.xml</interpolator>
+    <interpolator name="mz_support_fragment_open_enter_alpha">res/interpolator-v21/mz_support_fragment_open_enter_alpha.xml</interpolator>
+    <interpolator name="mz_support_fragment_open_enter_translationx">res/interpolator/mz_support_fragment_open_enter_translationx.xml</interpolator>
+    <interpolator name="mz_support_fragment_open_enter_translationx">res/interpolator-v21/mz_support_fragment_open_enter_translationx.xml</interpolator>
+    <interpolator name="mz_support_fragment_open_exit_alpha">res/interpolator/mz_support_fragment_open_exit_alpha.xml</interpolator>
+    <interpolator name="mz_support_fragment_open_exit_alpha">res/interpolator-v21/mz_support_fragment_open_exit_alpha.xml</interpolator>
+</resources>

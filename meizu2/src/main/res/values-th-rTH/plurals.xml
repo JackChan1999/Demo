@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+ข้อความอื่น %1$s รายการ</item>
+        <item quantity="one">+ข้อความอื่น %1$s รายการ</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">รายชื่อผู้ติดต่อ %1$s รายการ</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s ผลลัพธ์สำหรับ %2$s</item>
+        <item quantity="one">%1$s ผลลัพธ์สำหรับ %2$s</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s</item>
+        <item quantity="one">%s</item>
+        <item quantity="few">%s</item>
+    </plurals>
+</resources>

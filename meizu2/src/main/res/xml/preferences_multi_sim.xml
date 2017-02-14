@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/com.android.settings" settings:key="pref_key_root">
+    <com.meizu.common.preference.SwitchPreference settings:title="@string/pref_title_notification_enabled" settings:key="pref_key_enable_notifications" settings:defaultValue="true" />
+    <PreferenceScreen settings:title="@string/pref_title_sms_delivery_reports" settings:key="pref_key_sms_delivery_reports" settings:defaultValue="false" />
+    <PreferenceScreen settings:title="@string/pref_title_mms_auto_retrieval" settings:key="pref_key_mms_auto_retrieval" settings:summary="@string/pref_summary_mms_auto_retrieval" settings:defaultValue="false" />
+    <PreferenceScreen settings:title="@string/pref_title_mms_retrieval_during_roaming" settings:key="pref_key_mms_retrieval_during_roaming" settings:defaultValue="false" />
+    <PreferenceScreen settings:title="@string/pref_title_flyme_message" settings:key="pref_key_manage_flyme_message" />
+    <PreferenceScreen settings:title="@string/pref_title_manage_messages_spam" settings:key="pref_key_manage_messages_spam" />
+    <PreferenceScreen settings:title="@string/quick_reply_menu" settings:key="pref_key_edit_quick_reply" settings:summary="@string/pref_summary_edit_quick_reply" />
+    <PreferenceScreen settings:title="@string/pref_title_manage_sim_messages" settings:key="pref_key_manage_sim_messages" />
+    <PreferenceScreen settings:title="@string/lable_sms_center_number" settings:key="pref_key_mms_center_number" />
+    <ListPreference settings:persistent="false" settings:title="@string/pref_title_default_message_app" settings:key="pre_key_change_default_message_app" mzListPreferenceMode="MODE_DROPDOWN" />
+    <PreferenceScreen settings:title="@string/pref_more_title" settings:key="pref_key_more" /> />

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.mms.quickreply.CustomeScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@id/scroll_view" android:paddingTop="@dimen/sum_actionbar_height_statusbar_height" android:focusable="false" android:focusableInTouchMode="true" android:fadingEdge="UNKNOWN_DATA_0x0" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginBottom="@dimen/action_bar_bottom_height" android:layout_weight="1.0" android:overScrollMode="always">
+    <LinearLayout android:orientation="vertical" android:id="@id/edit_ll" android:layout_width="match_parent" android:layout_height="wrap_content" />
+</com.android.mms.quickreply.CustomeScrollView>

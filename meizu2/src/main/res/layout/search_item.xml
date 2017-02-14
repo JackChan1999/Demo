@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:orientation="vertical" android:paddingLeft="15dp" android:paddingRight="15dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="?unknown_attr_ref: 101004d">
+    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:ellipsize="end" android:id="@id/title" android:paddingTop="2dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true" />
+    <view android:textAppearance="?unknown_attr_ref: 1010042" android:textSize="12sp" android:ellipsize="end" android:id="@id/subtitle" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true" class="com.android.mms.ui.SearchActivity$TextViewSnippet" />
+</LinearLayout>

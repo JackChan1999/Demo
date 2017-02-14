@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>Žádný předmět</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Vždy</item>
+        <item>Nikdy</item>
+        <item>Nikdy</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 sekunda</item>
+        <item>2 sekundy</item>
+        <item>3 sekundy</item>
+        <item>4 sekundy</item>
+        <item>5 sekund</item>
+        <item>6 sekund</item>
+        <item>7 sekund</item>
+        <item>8 sekund</item>
+        <item>9 sekund</item>
+        <item>10 sekund</item>
+        <item>Jiné</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Smazat zprávu?</item>
+        <item>Smazat vybrané položky?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>Led</item>
+        <item>Úno</item>
+        <item>Bře</item>
+        <item>Dub</item>
+        <item>Kvě</item>
+        <item>Čen</item>
+        <item>Čec</item>
+        <item>Srp</item>
+        <item>Zář</item>
+        <item>Říj</item>
+        <item>Lis</item>
+        <item>Pro</item>
+    </array>
+    <array name="phrases">
+        <item>Nyní nemůžu, ozvu se později.</item>
+        <item>Zavolejte mi prosím později, děkuji.</item>
+        <item>Dobře, děkuji.</item>
+        <item>Jsem v dopravní koloně, trochu se zpozdím.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Neplatný uživatel Weibo</item>
+        <item>Omezený přístup</item>
+        <item>Uživatel neexistuje</item>
+        <item>Prázdný obsah. Odeslání se nezdařilo.</item>
+        <item>Nezadávejte více než 300 znaků</item>
+        <item>Porušení platných pravidel, neplatná operace</item>
+        <item>Stejný obsah nelze během 10 minut znovu zveřejnit</item>
+        <item>Zadaná adresa URL se nezdá být bezpečná</item>
+        <item>Kvůli platným zákonům a nařízením nemůže být tento obsah zveřejněn</item>
+        <item>Tato funkce je aktuálně nedostupná</item>
+        <item>Soukromé zprávy nelze odeslat tomuto uživateli kvůli nastavení ochrany soukromí uživatele</item>
+        <item>Neočekávaný stav přihlášení</item>
+        <item>Účet je zablokován</item>
+        <item>Tento obsah nelze dočasně zobrazit</item>
+        <item>Nelze odeslat soukromé zprávy uživatelům, kteří nejsou vašimi následovníky</item>
+        <item>Neplatná soukromá zpráva</item>
+        <item>Soukromá zpráva neexistuje</item>
+        <item>Nelze znovu poslat stejnou soukromou zprávu</item>
+        <item>Neplatné ID soukromých zpráv</item>
+        <item>Bylo odesláno příliš mnoho soukromých zpráv</item>
+        <item>Tato soukromá zpráva porušuje platná pravidla a byla zablokována</item>
+        <item>Kvůli platným zákonům a nařízením nemůžete odeslat žádné soukromé zprávy</item>
+        <item>Platnost tokenu vypršela</item>
+        <item>Soukromé zprávy nelze odeslat tomuto uživateli kvůli nastavením uživatele</item>
+        <item>Již jste ji odeslali. Jednou to stačí.</item>
+    </array>
+</resources>

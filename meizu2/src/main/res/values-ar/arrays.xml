@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>بدون موضوع</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>دائمًا</item>
+        <item>فقط عندما يكون صامتًا</item>
+        <item>مطلقًا</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>ثانية واحدة</item>
+        <item>ثانيتان</item>
+        <item>3 ثوانٍ</item>
+        <item>4 ثوانٍ</item>
+        <item>5 ثوانٍ</item>
+        <item>6 ثوانٍ</item>
+        <item>7 ثوانٍ</item>
+        <item>8 ثوانٍ</item>
+        <item>9 ثوانٍ</item>
+        <item>10 ثوانٍ</item>
+        <item>غير ذلك</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>هل تريد حذف الرسالة؟</item>
+        <item>هل تريد حذف العنصر (العناصر) المحددة؟</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>يناير</item>
+        <item>فبراير</item>
+        <item>مارس</item>
+        <item>أبريل</item>
+        <item>مايو</item>
+        <item>يونيو</item>
+        <item>يوليو</item>
+        <item>أغسطس</item>
+        <item>سبتمبر</item>
+        <item>أكتوبر</item>
+        <item>نوفمبر</item>
+        <item>ديسمبر</item>
+    </array>
+    <array name="phrases">
+        <item>أنا مشغول الآن، سأتصل بك لاحقًا.</item>
+        <item>الرجاء الاتصال بي لاحقًا، مع الشكر.</item>
+        <item>حسنًا، مع جزيل الشكر.</item>
+        <item>المرور مزدحم، سأتأخر قليلاً.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>مستخدم Weibo غير قانوني</item>
+        <item>وصول مقيد</item>
+        <item>المستخدم غير موجود</item>
+        <item>محتوى فارغ. فشل الإرسال</item>
+        <item>لا تدخل أكثر من 300 حرف</item>
+        <item>انتهاك القواعد ذات الصلة، العملية غير صالحة</item>
+        <item>لا يمكن نشر نفس المحتوى مرةً أخرى خلال 10 دقائق</item>
+        <item>عنوان URL الذي أدخلته ليس آمنًا</item>
+        <item>وفقًا للقوانين واللوائح المعمول بها، لا يمكن نشر هذا المحتوى</item>
+        <item>هذه الميزة ليست متاحة حاليًا</item>
+        <item>ولا يمكن إرسال رسائل خاصة إلى هذا المستخدم بسبب إعدادات الخصوصية للمستخدم</item>
+        <item>حالة تسجيل الدخول ليست متوقعة</item>
+        <item>تم قفل الحساب</item>
+        <item>المحتوى غير متاح للعرض مؤقتًا</item>
+        <item>لا يمكنك إرسال رسائل خاصة إلى المستخدمين الذين لا يتبعونك</item>
+        <item>رسالة خاصة غير قانونية</item>
+        <item>الرسالة الخاصة ليست موجودة</item>
+        <item>لا يمكنك إرسال الرسالة الخاصة ذاتها مرةً أخرى</item>
+        <item>معرف الرسالة الخاصة غير قانوني</item>
+        <item>تم إرسال العديد من الرسائل الخاصة</item>
+        <item>تنتهك هذه الرسالة الخاصة القواعد ذات الصلة وتم حظرها</item>
+        <item>وفقًا للقوانين واللوائح المعمول بها، لا يمكنك إرسال أية رسائل خاصة</item>
+        <item>انتهت صلاحية الرمز</item>
+        <item>لا يمكنك إرسال رسائل خاصة إلى هذا المستخدم بسبب إعدادات المستخدم</item>
+        <item>لقد أرسلتها بالفعل. مرة واحدة تكفي</item>
+    </array>
+</resources>

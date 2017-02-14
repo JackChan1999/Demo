@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:id="@id/notify_activity" android:layout_width="match_parent" android:layout_height="match_parent"
+    <LinearLayout android:orientation="vertical" android:id="@id/notify_reply" android:background="#80000000" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <FrameLayout android:gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:clickable="true" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:paddingLeft="19dp" android:paddingTop="18dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:mode="twoLine">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:orientation="horizontal" android:id="@id/nameMsgFrm" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true">
+                        <ImageView android:id="@id/avatar" android:layout_width="UNKNOWN_DATA_0x1901" android:layout_height="UNKNOWN_DATA_0x1901" android:layout_marginRight="11dp" />
+                        <LinearLayout android:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:orientation="horizontal" android:id="@id/ll_contact_name" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:textSize="16sp" android:textColor="@color/notify_text_color" android:ellipsize="end" android:id="@id/from" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:includeFontPadding="false" />
+                            <ImageView android:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:id="@id/msg_status_sim" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/cma_list_item_status_icon_margin_LR" android:scaleType="center" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </RelativeLayout>
+                <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:textSize="@dimen/msg_popup_msg_text_size" android:textColor="@color/notify_text_color" android:ellipsize="end" android:id="@id/msgBody" android:paddingRight="15dp" android:paddingBottom="16dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="37dp" android:maxLines="2" android:includeFontPadding="true" android:lineSpacingExtra="@dimen/msg_popup_msg_lineSpacingExtra" />
+            </LinearLayout>
+        </FrameLayout>
+        <View android:background="#19ffffff" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x200" />
+        <LinearLayout android:orientation="horizontal" android:paddingLeft="19dp" android:paddingTop="15dp" android:paddingRight="11dp" android:paddingBottom="15dp" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <EditText android:textSize="@dimen/msg_popup_reply_edit_text_size" android:textColor="@color/notify_text_color" android:textColorHint="@color/notification_text_hint" android:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:id="@id/replyEdit" android:background="@drawable/notice_edit_text_background" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/type_to_compose_sms_enter_to_send" android:capitalize="sentences" android:layout_weight="1.0" android:lineSpacingExtra="2dp" android:privateImeOptions="com.meizu.input.theme=black,blur" android:imeOptions="actionGo|actionSearch|actionSend|actionNext|actionDone|actionPrevious" />
+            <ImageButton android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:id="@id/rSendBtn" android:background="0x0" android:paddingLeft="14dp" android:paddingTop="@dimen/msg_popup_reply_btn_paddingTop" android:paddingBottom="@dimen/msg_popup_reply_btn_paddingBottom" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="UNKNOWN_DATA_0x2401" android:src="@drawable/notice_ic_input_field_send_selector" android:contentDescription="@string/send_btn" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:id="@id/spaceAera" android:layout_width="match_parent" android:layout_height="match_parent" /> />

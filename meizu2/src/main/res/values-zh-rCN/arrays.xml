@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>无主题</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>始终</item>
+        <item>仅在静音时</item>
+        <item>一律不</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 秒</item>
+        <item>2 秒</item>
+        <item>3 秒</item>
+        <item>4 秒</item>
+        <item>5 秒</item>
+        <item>6 秒</item>
+        <item>7 秒</item>
+        <item>8 秒</item>
+        <item>9 秒</item>
+        <item>10 秒</item>
+        <item>其他</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>删除信息？</item>
+        <item>删除所选项？</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>初一</item>
+        <item>初二</item>
+        <item>初三</item>
+        <item>初四</item>
+        <item>初五</item>
+        <item>初六</item>
+        <item>初七</item>
+        <item>初八</item>
+        <item>初九</item>
+        <item>初十</item>
+        <item>十一</item>
+        <item>十二</item>
+        <item>十三</item>
+        <item>十四</item>
+        <item>十五</item>
+        <item>十六</item>
+        <item>十七</item>
+        <item>十八</item>
+        <item>十九</item>
+        <item>廿十</item>
+        <item>廿一</item>
+        <item>廿二</item>
+        <item>廿三</item>
+        <item>廿四</item>
+        <item>廿五</item>
+        <item>廿六</item>
+        <item>廿七</item>
+        <item>廿八</item>
+        <item>廿九</item>
+        <item>三十</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>正</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>七</item>
+        <item>八</item>
+        <item>九</item>
+        <item>十</item>
+        <item>冬</item>
+        <item>腊</item>
+    </array>
+    <array name="phrases">
+        <item>我现在有事，稍后联系。</item>
+        <item>晚点打我电话，谢谢。</item>
+        <item>好的，谢谢。</item>
+        <item>路上堵车，晚点到。</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>不合法的微博用户</item>
+        <item>访问权限受限</item>
+        <item>用户不存在</item>
+        <item>内容为空，发送失败</item>
+        <item>输入文字超过300个字符</item>
+        <item>违反相关规则，无法完成此操作</item>
+        <item>相同内容请间隔10分钟再进行发布</item>
+        <item>输入的网址疑似为不安全链接</item>
+        <item>根据相关法律法规的要求，发送失败</item>
+        <item>此功能暂时无法使用</item>
+        <item>由于隐私设置，暂时无法对此人发送私信</item>
+        <item>登录状态异常</item>
+        <item>帐号处于锁定状态</item>
+        <item>抱歉，该内容暂时无法查看</item>
+        <item>不能给不是你粉丝的人发私信</item>
+        <item>不合法的私信</item>
+        <item>不存在的私信</item>
+        <item>不能发布相同的私信</item>
+        <item>非法的私信ID</item>
+        <item>发私信太多</item>
+        <item>违反相关规则，该私信被拦截</item>
+        <item>根据相关法规和政策，你暂时无法发送私信</item>
+        <item>Token已经过期</item>
+        <item>根据用户设置，你暂时不能给他发送私信</item>
+        <item>不要太贪心哦，发一次就够啦</item>
+    </array>
+</resources>

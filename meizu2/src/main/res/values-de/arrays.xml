@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>Kein Betreff</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Immer</item>
+        <item>Nur im Lautlos-Modus</item>
+        <item>Nie</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 Sekunde</item>
+        <item>2 Sekunden</item>
+        <item>3 Sekunden</item>
+        <item>4 Sekunden</item>
+        <item>5 Sekunden</item>
+        <item>6 Sekunden</item>
+        <item>7 Sekunden</item>
+        <item>8 Sekunden</item>
+        <item>9 Sekunden</item>
+        <item>10 Sekunden</item>
+        <item>Andere</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Nachricht löschen?</item>
+        <item>Ausgewählte Elemente löschen?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mrz</item>
+        <item>Apr</item>
+        <item>Mai</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dez</item>
+    </array>
+    <array name="phrases">
+        <item>Ich bin gerade beschäftigt. Melde mich später.</item>
+        <item>Bitte später zurückrufen. Danke.</item>
+        <item>In Ordnung, danke.</item>
+        <item>Verkehrsstau. Ich komme etwas später.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Unzulässiger Weibo-Benutzer</item>
+        <item>Eingeschränkter Zugriff</item>
+        <item>Benutzer ist nicht vorhanden</item>
+        <item>Leerer Inhalt. Senden fehlgeschlagen</item>
+        <item>Nicht mehr als 300 Zeichen eingeben</item>
+        <item>Relevante Regeln werden verletzt, ungültiger Vorgang</item>
+        <item>Derselbe Inhalt kann nicht innerhalb von 10 Minuten erneut veröffentlicht werden.</item>
+        <item>Die von Ihnen eingegebene URL ist offenbar nicht sicher.</item>
+        <item>Gemäß den anwendbaren gesetzlichen Bestimmungen und Vorschriften kann dieser Inhalt nicht veröffentlicht werden.</item>
+        <item>Diese Funktion ist derzeit nicht verfügbar.</item>
+        <item>Private Nachrichten können aufgrund von Datenschutzeinstellungen des Benutzers nicht an diesen Benutzer gesendet werden.</item>
+        <item>Unerwarteter Anmeldestatus</item>
+        <item>Konto ist gesperrt</item>
+        <item>Dieser Inhalt kann vorübergehend nicht angezeigt werden.</item>
+        <item>Sie können keine privaten Nachrichten an Benutzer senden, die Ihnen nicht folgen.</item>
+        <item>Unzulässige private Nachricht</item>
+        <item>Private Nachricht ist nicht vorhanden</item>
+        <item>Sie können nicht dieselbe private Nachricht erneut senden.</item>
+        <item>Unzulässige private Nachrichten-ID</item>
+        <item>Zu viele private Nachrichten wurden gesendet</item>
+        <item>Diese private Nachricht verletzt relevante Regeln und wird blockiert.</item>
+        <item>Gemäß den anwendbaren gesetzlichen Bestimmungen und Vorschriften können Sie keine privaten Nachrichten senden.</item>
+        <item>Token abgelaufen</item>
+        <item>Sie können aufgrund der Einstellungen des Benutzers keine privaten Nachrichten senden.</item>
+        <item>Sie haben sie bereits gesendet. Der Vorgang kann nicht wiederholt werden.</item>
+    </array>
+</resources>

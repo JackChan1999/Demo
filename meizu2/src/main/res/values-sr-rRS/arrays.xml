@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="prefEntries_vibrateWhen">
+        <item>Uvek</item>
+        <item>Samo u režimu rada nečujno</item>
+        <item>Nikada</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 sekund</item>
+        <item>2 sekundi</item>
+        <item>3 sekundi</item>
+        <item>4 sekundi</item>
+        <item>5 sekundi</item>
+        <item>6 sekundi</item>
+        <item>7 sekundi</item>
+        <item>8 sekundi</item>
+        <item>9 sekundi</item>
+        <item>10 sekundi</item>
+        <item>Ostalo</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Obrisati poruku?</item>
+        <item>Obrisati odabrane stavke?</item>
+    </array>
+    <array name="phrases">
+        <item>Trenutno sam zauzet, stupićemo u kontakt kasnije.</item>
+        <item>Pozovite me kasnije, hvala.</item>
+        <item>Sve je u redu, hvala.</item>
+        <item>Gužva u saobraćaju, zakasniću malo.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Ilegalan Weibo korisnik</item>
+        <item>Ograničen pristup</item>
+        <item>Korisnik ne postoji</item>
+        <item>Prazan sadržaj. Slanje nije uspelo</item>
+        <item>Ne unosite više od 300 karaktera</item>
+        <item>Kršenje relevantnih propisa, nevažeća operacija</item>
+        <item>Isti sadržaj se ne može objaviti ponovo u roku od 10 minuta</item>
+        <item>URL koji ste uneli izgleda nije bezbedan</item>
+        <item>Saglasno sa primenjivim zakonima i propisima ovaj sadržaj ne može biti objavljen</item>
+        <item>Ova opcija trenutno nije dostupna.</item>
+        <item>Ne mogu se slati privatne poruke ovom korisniku zbog podešenja privatnosti korisnika</item>
+        <item>Neočekivani status prijavljivanja</item>
+        <item>Nalog je zaključan</item>
+        <item>Ovaj sadržaj je privremeno nedostupan za prikazivanje</item>
+        <item>Ne možete slati privatne poruke korisnicima koji vas ne prate</item>
+        <item>Ilegalna privatna poruka</item>
+        <item>Privatna poruka ne postoji</item>
+        <item>Ne možete poslati istu privatnu poruku ponovo</item>
+        <item>Ilegalan ID za privatne poruke</item>
+        <item>Previše privatnih poruka je poslato</item>
+        <item>Ova privatna poruka krši relevantne propise i blokirana je</item>
+        <item>Saglasno sa primenjivim zakonima i propisima ne možete poslati privatne poruke</item>
+        <item>Token istekao</item>
+        <item>Ne možete slati privatne poruke ovom korisniku zbog podešenja privatnosti korisnika</item>
+        <item>Već ste poslali poruku. Jednom je dovoljno</item>
+    </array>
+</resources>

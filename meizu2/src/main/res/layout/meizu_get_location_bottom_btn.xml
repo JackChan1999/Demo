@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res-auto" meizu:orientation="horizontal" meizu:background="#ffffff" meizu:paddingLeft="0dp" meizu:paddingRight="0dp" meizu:layout_width="match_parent" meizu:layout_height="UNKNOWN_DATA_0x7f0d0281" meizu:divider="@drawable/shape_vertical_divider" meizu:showDividers="middle" meizu:dividerPadding="16dp">
+    <TextView meizu:textSize="18sp" meizu:textColor="#000000" meizu:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" meizu:id="@id/action_cancel" meizu:layout_width="match_parent" meizu:layout_height="match_parent" meizu:text="@string/no" meizu:layout_weight="1.0" />
+    <TextView meizu:textSize="18sp" meizu:textColor="@color/get_location_confirm_view_color_seletor" meizu:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" meizu:id="@id/location_confirm_menu" meizu:layout_width="match_parent" meizu:layout_height="match_parent" meizu:text="@string/send" meizu:layout_weight="1.0" />
+</LinearLayout>

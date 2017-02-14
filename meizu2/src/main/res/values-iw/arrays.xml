@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>ללא נושא</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>תמיד</item>
+        <item>במצב שקט בלבד</item>
+        <item>אף פעם</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>שנייה אחת</item>
+        <item>2 שניות</item>
+        <item>3 שניות</item>
+        <item>4 שניות</item>
+        <item>5 שניות</item>
+        <item>6 שניות</item>
+        <item>7 שניות</item>
+        <item>8 שניות</item>
+        <item>9 שניות</item>
+        <item>10 שניות</item>
+        <item>אחר</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>מחק הודעה?</item>
+        <item>מחק הודעה מסומנת?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>ינואר</item>
+        <item>פברואר</item>
+        <item>מרץ</item>
+        <item>אפריל</item>
+        <item>מאי</item>
+        <item>יוני</item>
+        <item>יולי</item>
+        <item>אוגוסט</item>
+        <item>ספטמבר</item>
+        <item>אוקטובר</item>
+        <item>נובמבר</item>
+        <item>דצמבר</item>
+    </array>
+    <array name="phrases">
+        <item>אני עסוק כרגע, אנא נסו מאוחר יותר.</item>
+        <item>אנא התקשרו מאחור יותר, תודה.</item>
+        <item>אוקיי, תודה לך.</item>
+        <item>איחור קל, פקק תנועה.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>אין משתמש כזה</item>
+        <item>אין גישה</item>
+        <item>המשתמש לא קיים</item>
+        <item>אין תוכן, לא נשלח</item>
+        <item>הטקסט מוגבל ל300 תווים</item>
+        <item>כנגד חוקים רלוונטים, לא ניתן לבצע</item>
+        <item>לא ניתן לשלוח שוב אותו חומר בפחות מעשר דקות</item>
+        <item>הקישור נמצא כלא בטוח כנראה</item>
+        <item>לא ניתן לשלוח מאחר ויש התנגשות עם חוקים ורגולציות</item>
+        <item>לא זמין כעת</item>
+        <item>אין אפשרות לשלוח הודעה אישית עקב הגדרות פרטיות</item>
+        <item>כניסה שגויה</item>
+        <item>החשבון נעול</item>
+        <item>לא זמין כעת</item>
+        <item>לא ניתן לשלוח הודעה ישירה למי שלא עוקב אחריך</item>
+        <item>לא ניתן לשלוח</item>
+        <item>אין הודעה ישירה כזו</item>
+        <item>לא ניתן לשלוח את אותה הודעה</item>
+        <item>אין מספר הודעה כזו</item>
+        <item>יותר מידי הודעות אישיות נשלחו</item>
+        <item>עקב עבירה על חוקים, לא ניתן לשלוח הודעה ישירה</item>
+        <item>חוקים ורגולציות לא נותנים לך לשלוח הודעה כרגע</item>
+        <item>Token פג תוקף</item>
+        <item>בהתאם להגדרות המשתמש, אין אפשרות לשלוח אליו הודעה</item>
+        <item>שלחת את זה כבר, מספיק.</item>
+    </array>
+</resources>

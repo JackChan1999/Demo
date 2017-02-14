@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:id="@bp$d/pop_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentRight="true">
+        <TextView android:textSize="12sp" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@bp$d/duoqu_menu_reset" android:visibility="visible" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x2401" android:text="@bp$f/duoqu_web_reset" />
+        <View android:id="@bp$d/duoqu_menu_splitline" android:background="?unknown_attr_ref: 1010214" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x101" />
+        <TextView android:textSize="12sp" android:textColor="@bp$a/duoqu_white" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@bp$d/duoqu_menu_abourtus" android:visibility="visible" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x2401" android:text="@bp$f/duoqu_web_aboutus" />
+    </LinearLayout>
+</RelativeLayout>

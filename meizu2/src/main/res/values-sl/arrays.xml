@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="default_smiley_names">
+        <item>Vesel</item>
+        <item>Žalosten</item>
+        <item>Mežikajoč</item>
+        <item>Kaže jezik</item>
+        <item>Presenečen</item>
+        <item>Poljub</item>
+        <item>Kriči</item>
+        <item>Kul</item>
+        <item>Denar namesto ust</item>
+        <item>Nerodnost</item>
+        <item>V zadregi</item>
+        <item>Angelček</item>
+        <item>Neodločen</item>
+        <item>Jok</item>
+        <item>Zapečatena usta</item>
+        <item>Nasmejan</item>
+        <item>Zbegan</item>
+        <item>Srce</item>
+        <item>Jezen</item>
+        <item>Domišljav nasmeh</item>
+        <item>Brezizrazen obraz</item>
+    </array>
+    <array name="empty_subject_strings">
+        <item>brez zadeve</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Vedno</item>
+        <item>Samo v tihem načinu</item>
+        <item>Nikoli</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 sekunda</item>
+        <item>2 sekundi</item>
+        <item>3 sekunde</item>
+        <item>4 sekunde</item>
+        <item>5 sekund</item>
+        <item>6 sekund</item>
+        <item>7 sekund</item>
+        <item>8 sekund</item>
+        <item>devet sekund</item>
+        <item>10 sekund</item>
+        <item>Drugo</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Izbrišem sporočilo?</item>
+        <item>Izbris izbranih sporočil?</item>
+    </array>
+    <array name="phrases">
+        <item>Trenutno sem zaseden, vas bom poklical kasneje.</item>
+        <item>Prosim, pokličite me kasneje, hvala.</item>
+        <item>Vse je v redu, hvala.</item>
+        <item>Prometni zastoj, malce bom zamudil.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Nedovoljen Weibo uporabnik</item>
+        <item>Prepovedan dostop</item>
+        <item>Uporabnik ne obstaja</item>
+        <item>Prazna vsebina. Pošiljanje ni uspelo</item>
+        <item>Ne vnesete več kot 300 znakov</item>
+        <item>Kršitev ustreznih predpisov, neveljavna operacija</item>
+        <item>Iste vsebine ni mogoče znova objavil v 10 minutah</item>
+        <item>URL, ki ste ga vnesli se ne zdi varen in ne more biti objavljen</item>
+        <item>Žal, vendar v skladu z veljavnimi zakoni in predpisi, ta vsebina ne bo objavljena</item>
+        <item>Ta funkcija trenutno ni na voljo</item>
+        <item>Zaradi nastavitev zasebnosti, temu uporabniku ni možno pošiljati zasebnih sporočil</item>
+        <item>Nepričakovano stanje prijave</item>
+        <item>Račun je zaklenjen</item>
+        <item>Ta vsebina trenutno ni na voljo za ogled</item>
+        <item>Ne morete pošiljati zasebnih sporočil uporabnikom, ki vam ne sledijo</item>
+        <item>Nedovoljeno zasebno sporočilo</item>
+        <item>Zasebno sporočilo ne obstaja</item>
+        <item>Ne morete ponovno poslati istega zasebnega sporočila</item>
+        <item>Nedovoljen ID zasebnih sporočil</item>
+        <item>Poslano je bilo preveč zasebnih sporočil</item>
+        <item>To zasebno sporočilo krši pravila in je blokirano</item>
+        <item>Žal, vendar v skladu z veljavnimi zakoni in predpisi, ne morete pošiljati zasebnih sporočil</item>
+        <item>Žeton potekel</item>
+        <item>Zaradi nastavitev zasebnosti, temu uporabniku ni možno pošiljati zasebnih sporočil</item>
+        <item>Ste ga že poslali. Enkrat je dovolj</item>
+    </array>
+</resources>

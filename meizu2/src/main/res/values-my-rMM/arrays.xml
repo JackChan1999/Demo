@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>အေၾကာင္းအရာ မရွိပါ</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>အၿမဲ</item>
+        <item>အသံေဖ်ာက္ထားသည့္အခါသာလွ်င္</item>
+        <item>မည္သည့္အခါမွ်</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 စကၠန္႔</item>
+        <item>2 စကၠန္႔</item>
+        <item>3 စကၠန္႔</item>
+        <item>4 စကၠန္႔</item>
+        <item>5 စကၠန္႔</item>
+        <item>6 စကၠန္႔</item>
+        <item>7 စကၠန္႔</item>
+        <item>8 စကၠန္႔</item>
+        <item>9 စကၠန္႔</item>
+        <item>10 စကၠန္႔</item>
+        <item>အျခား</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>မက္ေဆ့ခ်္ ဖ်က္ပစ္မလား?</item>
+        <item>ေရြးထားေသာ အမယ္မ်ားကို ဖ်က္ပစ္မလား။</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>ဇန္နဝါရီ</item>
+        <item>ေဖေဖာ္ဝါရီ</item>
+        <item>မတ္</item>
+        <item>ဧၿပီ</item>
+        <item>ေမ</item>
+        <item>ဇြန္</item>
+        <item>ဇူလိုင္</item>
+        <item>ၾသဂုတ္</item>
+        <item>စက္တင္ဘာ</item>
+        <item>ေအာက္တိုဘာ</item>
+        <item>ႏိုဝင္ဘာ</item>
+        <item>ဒီဇင္ဘာ</item>
+    </array>
+    <array name="phrases">
+        <item>အခု အလုပ္မ်ားေနတယ္၊ ေနာက္မွ ျပန္ဆက္သြယ္မယ္။</item>
+        <item>ေက်းဇူးျပဳ၍ ေနာက္မွ ေခၚဆိုပါ၊ ေက်းဇူးတင္ပါသည္။</item>
+        <item>ေကာင္းပါၿပီ၊ ေက်းဇူးတင္ပါတယ္။</item>
+        <item>ယာဥ္ေၾကာပိတ္ေနသည္၊ အနည္းငယ္ ေနာက္က်မည္။</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>တရားမဝင္ Weibo အသံုးျပဳသူ</item>
+        <item>သံုးခြင့္ရမႈ ကန္႔သတ္ထားသည္</item>
+        <item>အသံုးျပဳသူ မရွိပါ</item>
+        <item>ပါဝင္ခ်က္ မရွိပါ။ ေပးပို႔ျခင္း မေအာင္ျမင္ပါ</item>
+        <item>အကၡရာ 300 ထက္ ပိုမို၍ မထည့္သြင္းရပါ</item>
+        <item>သက္ဆိုင္ရာ စည္းမ်ဥ္းမ်ား ခ်ဳိးေဖာက္ေနသည္၊ လုပ္ေဆာင္မႈ ေဘာင္မဝင္ပါ</item>
+        <item>တူညီသည့္ ပါဝင္ခ်က္ကို 10 မိနစ္အတြက္း ထပ္မံတင္ပို႔၍ မရႏိုင္ပါ</item>
+        <item>သင္ထည့္ထားသည့္ URL သည္ ေဘးကင္းပံုမေပါက္ပါ</item>
+        <item>သက္ဆိုင္ရာ စည္းမ်ဥ္းမ်ားႏွင့္ ထိန္းခ်ဳပ္ခ်က္မ်ားႏွင့္အညီျဖစ္ေစရန္ ဤပါဝင္ခ်က္ကို ေပးပို႔၍ မရႏိုင္ပါ</item>
+        <item>ဤဝိေသသသည္ လက္ရွိတြင္ မရရွိႏိုင္ပါ</item>
+        <item>အသံုးျပဳသူ၏ သီးသန္႔ သတ္မွတ္ခ်က္မ်ားရွိသည့္အတြက္ သီးသန္႔ မက္ေဆ့ခ်္မ်ားကို ဤအသံုးျပဳသူထံသို႔ ေပးပို႔၍ မရႏိုင္ပါ</item>
+        <item>မေမွ်ာ္လင့္သည့္ ဝင္ေရာက္မႈ အေျခအေန</item>
+        <item>အေကာင့္ ေသာ့ခ်ထားသည္</item>
+        <item>ဤပါဝင္ခ်က္သည္ ၾကည့္႐ႈရန္ ယာယီအားျဖင့္ မရရွိႏိုင္ပါ</item>
+        <item>သီးသန္႔ မက္ေဆ့ခ်္မ်ားကို သင့္ေနာက္သို႔ လိုက္လံျခင္းမရွိသည့္ အသံုးျပဳသူမ်ားထံသို႔ ေပးပို႔၍ မရႏိုင္ပါ</item>
+        <item>တရားမဝင္သည့္ သီးသန္႔ မက္ေဆ့ခ်္</item>
+        <item>သီးသန္႔ မက္ေဆ့ခ်္ မရွိပါ</item>
+        <item>အလားတူ သီးသန္႔ မက္ေဆ့ခ်္ကို ထပ္မံေပးပို႔၍ မရႏိုင္ပါ</item>
+        <item>တရားမဝင္ သီးသန္႔ မက္ေဆ့ခ်္ေပးပို႔မႈ ID</item>
+        <item>သီးသန္႔ မက္ေဆ့ခ်္မ်ားစြာ ေပးပို႔ထားသည္</item>
+        <item>ဤသီးသန္႔ျဖစ္မႈသည္ သက္ဆိုင္ရာ စည္းမ်ဥ္းမ်ားကို ခ်ဳိးေဖာက္ေနၿပီး ပိတ္ဆီးထားသည္</item>
+        <item>သက္ဆိုင္ရာ စည္းမ်ဥ္းမ်ားႏွင့္ ထိန္းခ်ဳပ္ခ်က္တို႔ႏွင့္အညီျဖစ္ေစရန္ မည္သည့္ သီးသန္႔ျဖစ္မႈ မက္ေဆ့ခ်္ကိုမွ် ေပးပို႔၍ မရႏိုင္ပါ</item>
+        <item>တံုကင္ သက္တမ္းကုန္သြားၿပီ</item>
+        <item>အသံုးျပဳသူ၏ သတ္မွတ္ခ်က္မ်ားရွိသည့္အတြက္ သီးသန္႔ မက္ေဆ့ခ်္မ်ားကို ဤအသံုးျပဳသူထံသို႔ ေပးပို႔၍ မရႏိုင္ပါ</item>
+        <item>၎ကို ေပးပို႔ထားၿပီးျဖစ္သည္။ တစ္ႀကိမ္ဆိုလွ်င္ လံုေလာက္ပါသည္</item>
+    </array>
+</resources>

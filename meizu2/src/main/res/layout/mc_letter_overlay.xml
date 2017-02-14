@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android" android:textSize="@dimen/mc_fastscroll_letter_overlay_text_size" android:textColor="@color/mc_fastscroll_letter_overlay_text_color" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:background="@drawable/mz_fastscroller_letter" android:layout_width="UNKNOWN_DATA_0x7f0d02d4" android:layout_height="UNKNOWN_DATA_0x7f0d02d4" />

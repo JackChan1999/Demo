@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>Bez predmetu</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Vždy</item>
+        <item>Nikdy</item>
+        <item>Nikdy</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 sekunda</item>
+        <item>2 sekundy</item>
+        <item>3 sekúnd</item>
+        <item>4 sekundy</item>
+        <item>5 sekúnd</item>
+        <item>6 sekúnd</item>
+        <item>7 sekúnd</item>
+        <item>8 sekúnd</item>
+        <item>9 sekúnd</item>
+        <item>10 sekúnd</item>
+        <item>Iné</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Vymazať správu?</item>
+        <item>Odstrániť zvolené položky?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </array>
+    <array name="phrases">
+        <item>Momentálne nemám čas, zavolám ti neskôr.</item>
+        <item>Zavolaj mi neskôr, vďaka.</item>
+        <item>Dobre, ďakujem.</item>
+        <item>Som v zápche, budem trochu meškať.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Neplatný používateľ Weibo</item>
+        <item>Obmedzený prístup</item>
+        <item>Používateľ neexistuje</item>
+        <item>Prázdny obsah. Odoslanie zlyhalo</item>
+        <item>Nezadávajte viac ako 300 znakov</item>
+        <item>Porušenie príslušných pravidiel, neplatná operácia</item>
+        <item>Rovnaký obsah nie je možné zverejniť znovu v priebehu 10 minút.</item>
+        <item>Zadaná adresa URL sa zdá byť nebezpečná</item>
+        <item>Podľa platných zákonov a nariadení sa tento obsah nesmie zverejniť</item>
+        <item>Táto funkcia je momentálne nedostupná</item>
+        <item>Súkromné správy nie je možné zaslať tomuto používateľovi vzhľadom na nastavenia ochrany súkromia používateľa</item>
+        <item>Neočakávaný stav prihlásenia</item>
+        <item>Konto je uzamknuté</item>
+        <item>Tento obsah sa momentálne nedá prehliadať</item>
+        <item>Nemôžete zasielať súkromné správy používateľom, ktorí nie sú vašimi nasledovníkmi.</item>
+        <item>Neplatná súkromná správa</item>
+        <item>Súkromná správa neexistuje</item>
+        <item>Nemôžete znovu odoslať rovnakú súkromnú správu</item>
+        <item>Neplatné ID súkromnej správy</item>
+        <item>Odoslali ste priveľa súkromných správ</item>
+        <item>Táto súkromná správa je v rozpore s pravidlami a je blokovaná</item>
+        <item>Podľa platných zákonov a nariadení nemôžete odosielať žiadne súkromné správy</item>
+        <item>Token vypršal</item>
+        <item>Nemôžete odoslať súkromné správy tomuto používateľovi vzhľadom na používateľské nastavenia</item>
+        <item>Už ste ju odoslali. Raz stačí</item>
+    </array>
+</resources>

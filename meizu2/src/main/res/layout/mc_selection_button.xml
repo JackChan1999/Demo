@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/mc_selection_button_text_size" android:textColor="@color/mc_selection_button_text_color" android:ellipsize="end" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="0x1020014" android:background="@drawable/mc_selection_button_background" android:paddingLeft="@dimen/mc_selection_button_text_padding" android:paddingRight="@dimen/mc_selection_button_text_padding" android:clickable="false" android:layout_width="wrap_content" android:layout_height="UNKNOWN_DATA_0x7f0d0315" android:minWidth="@dimen/mc_selection_button_text_height" android:singleLine="true" android:includeFontPadding="false" />
+</merge>

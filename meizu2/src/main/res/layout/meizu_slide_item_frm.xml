@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.mms.view.MmsSlidePartitionItemLayout xmlns:android="http://schemas.android.com/apk/res-auto" meizu:id="@id/mz_item_container" meizu:layout_width="match_parent" meizu:layout_height="wrap_content" meizu.mcContentBackground="@drawable/mz_list_item_bg_light_activated" />

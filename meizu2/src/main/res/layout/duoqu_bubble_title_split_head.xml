@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cn.com.xy.sms.sdk.ui.popu.widget.DuoquRelativeLayout xmlns:android="http://schemas.android.com/apk/res-auto" duoqu:id="@bp$d/duoqu_drl_bubble_split_head" duoqu:layout_width="match_parent" duoqu:layout_height="match_parent" duoqu:duoqu_height="@bp$b/duoqu_title_height">
+    <LinearLayout duoqu:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" duoqu:id="@bp$d/duoqu_tv_head_title_split_view" duoqu:background="@bp$a/duoqu_nearby_point_name_blue" duoqu:layout_width="match_parent" duoqu:layout_height="UNKNOWN_DATA_0x3601">
+        <ImageView duoqu:id="@bp$d/duoqu_tv_head_split_logo" duoqu:layout_width="UNKNOWN_DATA_0x1e01" duoqu:layout_height="UNKNOWN_DATA_0x1e01" duoqu:layout_marginLeft="20dp" duoqu:layout_marginTop="14dp" />
+        <TextView duoqu:textSize="16dp" duoqu:textColor="@bp$a/duoqu_white" duoqu:id="@bp$d/duoqu_tv_head_split_title" duoqu:layout_width="wrap_content" duoqu:layout_height="wrap_content" duoqu:layout_marginLeft="10dp" duoqu:layout_marginTop="21dp" duoqu:singleLine="true" duoqu:includeFontPadding="false" />
+    </LinearLayout>
+    <LinearLayout duoqu:id="@bp$d/duoqu_tv_head_split_view" duoqu:background="@bp$c/duoqu_dotted_head_blue" duoqu:layout_width="match_parent" duoqu:layout_height="wrap_content" duoqu:layout_below="@bp$d/duoqu_tv_head_title_split_view">
+        <ImageView duoqu:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" duoqu:id="@bp$d/dotted_split" duoqu:background="@bp$c/duoqu_dotted_split" duoqu:layout_width="match_parent" duoqu:layout_height="UNKNOWN_DATA_0x101" duoqu:layout_marginLeft="4dp" duoqu:layout_marginRight="4dp" />
+    </LinearLayout>
+</cn.com.xy.sms.sdk.ui.popu.widget.DuoquRelativeLayout>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:id="@id/resend_iv" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="?attr/cma_ic_resend_src_attr" android:contentDescription="@string/sms_mms_failed_redeliver_title" />

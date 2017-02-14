@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <menu name="change_nickname_menu">res/menu/change_nickname_menu.xml</menu>
+    <menu name="change_sim_list_menu">res/menu/change_sim_list_menu.xml</menu>
+    <menu name="cma_forcetouch_menu">res/menu/cma_forcetouch_menu.xml</menu>
+    <menu name="cma_list_menu">res/menu/cma_list_menu.xml</menu>
+    <menu name="cma_multi_select_menu">res/menu/cma_multi_select_menu.xml</menu>
+    <menu name="conversation_list_menu">res/menu/conversation_list_menu.xml</menu>
+    <menu name="conversation_list_menu_sb">res/menu/conversation_list_menu_sb.xml</menu>
+    <menu name="conversation_multi_select_menu">res/menu/conversation_multi_select_menu.xml</menu>
+    <menu name="edit_quick_reply_menu">res/menu/edit_quick_reply_menu.xml</menu>
+    <menu name="edit_slideshow_menu">res/menu/edit_slideshow_menu.xml</menu>
+    <menu name="favorite_multi_select_menu">res/menu/favorite_multi_select_menu.xml</menu>
+    <menu name="meizu_get_location_menu">res/menu/meizu_get_location_menu.xml</menu>
+    <menu name="meizu_search_multi_select_menu">res/menu/meizu_search_multi_select_menu.xml</menu>
+    <menu name="recipient_list_menu">res/menu/recipient_list_menu.xml</menu>
+    <menu name="select_conversation_menu">res/menu/select_conversation_menu.xml</menu>
+    <menu name="sim_message_multi_select_menu">res/menu/sim_message_multi_select_menu.xml</menu>
+    <menu name="view_slideshow_menu">res/menu/view_slideshow_menu.xml</menu>
+</resources>

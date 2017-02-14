@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android" android:label="@string/search_label" android:hint="@string/search_hint" android:searchSuggestAuthority="com.android.mms.SuggestionsProvider" android:searchSuggestSelection="pattern" android:searchSuggestIntentAction="android.intent.action.SEARCH" android:imeOptions="actionNone|actionGo|actionSearch|actionNext|actionDone|actionPrevious" android:includeInGlobalSearch="true" android:searchSettingsDescription="@string/search_setting_description" />

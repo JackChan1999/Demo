@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s உரையாடலை அழிக்கவும்</item>
+        <item quantity="one">%1$s உரையாடலை அழிக்கவும்</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+மற்ற %1$s செய்தி</item>
+        <item quantity="one">+மற்ற %1$s செய்தி</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s தொடர்புகள்</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s இதற்கான முடிவு %2$s</item>
+        <item quantity="one">%1$s இதற்கான முடிவு %2$s</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s வி</item>
+        <item quantity="one">%s வி</item>
+        <item quantity="few">%s வி</item>
+    </plurals>
+    <plurals name="confirm_delete_messages">
+        <item quantity="other">%1$s செய்தி(களை) நீக்கவும்</item>
+        <item quantity="one">%1$s செய்தி(களை) நீக்கவும்</item>
+    </plurals>
+</resources>

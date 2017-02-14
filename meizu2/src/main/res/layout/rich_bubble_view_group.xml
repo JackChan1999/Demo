@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res-auto" mms:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" mms:orientation="vertical" mms:id="@id/duoqu_rich_item_group" mms:clickable="true" mms:longClickable="true" mms:layout_width="wrap_content" mms:layout_height="wrap_content" mms:minHeight="@dimen/avatar_width_height" mms:max_width="@dimen/cma_rich_bubble_recv_maxWidth" />

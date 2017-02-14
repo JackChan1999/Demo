@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <animator name="fragment_fade_enter">res/animator/fragment_fade_enter.xml</animator>
+    <animator name="fragment_fade_exit">res/animator/fragment_fade_exit.xml</animator>
+    <animator name="mz_search_fragment_close_enter_alpha">res/animator/mz_search_fragment_close_enter_alpha.xml</animator>
+    <animator name="mz_search_fragment_close_exit_alpha">res/animator/mz_search_fragment_close_exit_alpha.xml</animator>
+    <animator name="mz_search_fragment_open_enter_alpha">res/animator/mz_search_fragment_open_enter_alpha.xml</animator>
+    <animator name="mz_search_fragment_open_exit_alpha">res/animator/mz_search_fragment_open_exit_alpha.xml</animator>
+</resources>

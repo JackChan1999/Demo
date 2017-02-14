@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res-auto">
+    <item app:icon="@drawable/mms_menu_forward_selector" app:id="@id/exportSimMsg" app:title="@string/export_sim_mms" app:showAsAction="always|withText" app:showAsAction="always|withText" />
+    <item app:icon="@drawable/ic_sb_delete_selector" app:id="@id/delete" app:orderInCategory="1" app:title="@string/sim_delete" app:showAsAction="always|withText" app:showAsAction="always|withText" />
+</menu>

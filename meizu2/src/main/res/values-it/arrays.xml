@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>nessun oggetto</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Sempre</item>
+        <item>Solo quando silenzioso</item>
+        <item>Mai</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 secondo</item>
+        <item>2 secondi</item>
+        <item>3 secondi</item>
+        <item>4 secondi</item>
+        <item>5 secondi</item>
+        <item>6 secondi</item>
+        <item>7 secondi</item>
+        <item>8 secondi</item>
+        <item>9 secondi</item>
+        <item>10 secondi</item>
+        <item>Altro</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Eliminare messaggio?</item>
+        <item>Eliminare elementi selezionati?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>Posizione fornita da WLAN o dati mobili</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>Gennaio</item>
+        <item>Febbraio</item>
+        <item>Marzo</item>
+        <item>Aprile</item>
+        <item>Maggio</item>
+        <item>Giugno</item>
+        <item>Luglio</item>
+        <item>Agosto</item>
+        <item>Settembre</item>
+        <item>Ottobre</item>
+        <item>Novembre</item>
+        <item>Dicembre</item>
+    </array>
+    <array name="phrases">
+        <item>Sono momentaneamente impegnato, ti contatterò più tardi.</item>
+        <item>Chiamami più tardi, grazie.</item>
+        <item>OK, grazie.</item>
+        <item>Sono imbottigliato nel traffico, farò un po&apos; tardi.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Utente Weibo illecito</item>
+        <item>Accesso limitato</item>
+        <item>L&apos;utente non esiste</item>
+        <item>Contenuto vuoto. Invio non riuscito</item>
+        <item>Non immettere più di 300 caratteri</item>
+        <item>Violazione di norme rilevanti, operazione non valida</item>
+        <item>Lo stesso contenuto non può essere pubblicato nuovamente entro 10 minuti</item>
+        <item>L&apos;URL immesso sembra non essere sicuro</item>
+        <item>In conformità alle leggi e alle normative applicabili, questo contenuto non può essere pubblicato</item>
+        <item>Questa funzionalità non è disponibile al momento</item>
+        <item>Viste le impostazioni della privacy non è possibile inviare messaggi privati a questo utente</item>
+        <item>Stato di accesso imprevisto</item>
+        <item>L&apos;account è bloccato</item>
+        <item>Al momento, non è possibile visualizzare questo contenuto</item>
+        <item>Non è possibile inviare messaggi privati a utenti che non ti stanno seguendo</item>
+        <item>Messaggio privato illecito</item>
+        <item>Il messaggio privato non esiste</item>
+        <item>Non puoi inviare nuovamente lo stesso messaggio privato</item>
+        <item>ID messaggistica privata illecito</item>
+        <item>Sono stati inviati troppi messaggi privati</item>
+        <item>Questo messaggio privato viola le normative vigenti ed è bloccato</item>
+        <item>In conformità alle leggi e alle normative applicabili, non puoi inviare alcun messaggio privato</item>
+        <item>Token scaduto</item>
+        <item>Non è possibile inviare messaggi privati a questo utente a causa delle impostazioni</item>
+        <item>Contenuto già inviato. Una volta è sufficiente</item>
+    </array>
+</resources>

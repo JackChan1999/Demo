@@ -1,0 +1,1 @@
+include ':app', ':Test', ':appcenter', ':demo', ':myviewpager', ':ringwave', ':slidingmenu', ':sweepview', ':viewpagerdemo', ':youkumenu', ':meizu2'

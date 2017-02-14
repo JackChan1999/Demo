@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cn.com.xy.sms.sdk.ui.popu.widget.DuoquRelativeLayout xmlns:android="http://schemas.android.com/apk/res-auto" duoqu:id="@bp$d/duoqu_code_bubble_head" duoqu:background="@bp$a/duoqu_all_transparent" duoqu:layout_width="match_parent" duoqu:layout_height="wrap_content" duoqu:duoqu_height="40dp">
+    <LinearLayout duoqu:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" duoqu:layout_width="match_parent" duoqu:layout_height="wrap_content" duoqu:layout_centerHorizontal="true" duoqu:layout_centerVertical="true">
+        <ImageView duoqu:id="@bp$d/duoqu_code_head_logo" duoqu:layout_width="UNKNOWN_DATA_0x1001" duoqu:layout_height="UNKNOWN_DATA_0x1001" />
+        <TextView duoqu:textSize="18dp" duoqu:textColor="@bp$a/duoqu_white" duoqu:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" duoqu:id="@bp$d/duoqu_code_head_title" duoqu:layout_width="wrap_content" duoqu:layout_height="wrap_content" duoqu:layout_marginLeft="10dp" duoqu:singleLine="true" />
+    </LinearLayout>
+    <ImageView android:id="@bp$d/duoqu_code_head_line" android:background="@bp$a/duoqu_white_transparent_30" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x100" android:layout_alignParentBottom="true" />
+</cn.com.xy.sms.sdk.ui.popu.widget.DuoquRelativeLayout>

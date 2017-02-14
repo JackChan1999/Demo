@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>Nenhum assunto</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Sempre</item>
+        <item>Somente quando em silencioso</item>
+        <item>Nunca</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+        <item>10 segundos</item>
+        <item>Outro</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Apagar mensagem?</item>
+        <item>Apagar itens selecionado(s)?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>Quarta</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Fev</item>
+        <item>Mar</item>
+        <item>Abr</item>
+        <item>Maio</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Ago</item>
+        <item>Set</item>
+        <item>Out</item>
+        <item>Nov</item>
+        <item></item>
+    </array>
+    <array name="phrases">
+        <item>Estou ocupado agora, te ligo mais tarde.</item>
+        <item>Por favor me ligue mais tarde, obrigado.</item>
+        <item>Tudo bem, obrigado.</item>
+        <item>Engarrafamento, vou me atrasar um pouco.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Usuário Weibo inválido</item>
+        <item>Acesso restrito</item>
+        <item>Usuário não existe</item>
+        <item>Conteúdo vazio. O envio falhou</item>
+        <item>Não digite mais que 300 caracteres</item>
+        <item>A violação das regras aplicáveis, operação inválida</item>
+        <item>O mesmo conteúdo não pode ser postado novamente antes de 10 minutos</item>
+        <item>A URL digitada não parece segura</item>
+        <item>Em conformidade com leis e regulamentos aplicáveis, este conteúdo não pode ser postado</item>
+        <item>Esse recurso está indisponível no momento</item>
+        <item>Mensagens privadas não podem ser enviadas para esse usuário devido às configurações de privacidade do usuário</item>
+        <item>Status de login inesperado</item>
+        <item>Conta está bloqueada</item>
+        <item>Este conteúdo está temporariamente indisponível para visualização</item>
+        <item>Você não pode enviar mensagens privadas para os usuários que não estão seguindo você</item>
+        <item>Mensagem privada ilegal</item>
+        <item>Mensagem privada não existe</item>
+        <item>Você não pode enviar a mesma mensagem privada novamente</item>
+        <item>ID de mensagens privada inválido</item>
+        <item>Muitas mensagens privadas foram enviadas</item>
+        <item>Isto viola a regra de conteúdo e foi bloqueado</item>
+        <item>Nos termos da legislação e regulamentação aplicáveis, você não pode enviar mensagens privadas</item>
+        <item>Token expirado</item>
+        <item>Você não pode enviar mensagens privadas para este usuário, devido às opções do usuário</item>
+        <item>Você já enviou. Uma vez é suficiente</item>
+    </array>
+</resources>

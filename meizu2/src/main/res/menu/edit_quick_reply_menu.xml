@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res-auto">
+    <item app:id="@id/discard_phrase" app:title="@string/cancel_tip" app:showAsAction="always" />
+    <item app:id="@id/save_phrase" app:title="@string/save_btn" app:showAsAction="always" />
+</menu>

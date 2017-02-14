@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cn.com.xy.sms.sdk.ui.popu.widget.DuoquHorizItemTable xmlns:android="http://schemas.android.com/apk/res-auto" duoqu:id="@bp$d/duoqu_horiz_list" duoqu:layout_width="match_parent" duoqu:layout_height="match_parent" duoqu:title_textsize="14dp" duoqu:content_textsize="14dp" duoqu:content_paddingleft="10dp" duoqu:single_line="true" duoqu:line_spacing="44dp" duoqu:line_spacing_left="20dp" duoqu:line_spacing_right="15dp" duoqu:margin_top="0dp" duoqu:title_width="100dp" />

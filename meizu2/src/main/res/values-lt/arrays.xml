@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="default_smiley_names">
+        <item>Laimingas</item>
+        <item>Liūdnas</item>
+        <item>Mirksintis</item>
+        <item>Iškišęs liežuvį</item>
+        <item>Nustebęs</item>
+        <item>Bučiuojantis</item>
+        <item>Šaukiantis</item>
+        <item>Kietas</item>
+        <item>Pinigai vietoj burnos</item>
+        <item>Pėda burnoje</item>
+        <item>Susigėdęs</item>
+        <item>Angelas</item>
+        <item>Neapsisprendęs</item>
+        <item>Verkiantis</item>
+        <item>Niekam nepasakosiu</item>
+        <item>Juokiasi</item>
+        <item>Sumišęs</item>
+        <item>Heart</item>
+        <item>Mad</item>
+        <item>Smirk</item>
+        <item>Nieko nesakantis veidas</item>
+    </array>
+    <array name="empty_subject_strings">
+        <item>jokios temos</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Visada</item>
+        <item>Tik kai veikia tyliai</item>
+        <item>Niekada</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 sek.</item>
+        <item>2 sek.</item>
+        <item>3 sek.</item>
+        <item>4 sek.</item>
+        <item>5 sek.</item>
+        <item>6 sek.</item>
+        <item>7 sek.</item>
+        <item>8 sek.</item>
+        <item>9 sek.</item>
+        <item>10 sek.</item>
+        <item>Kitas</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Trinti pranešimą?</item>
+        <item>Trinti pasirinktus elementus?</item>
+    </array>
+    <array name="phrases">
+        <item>Aš dabar užsiėmęs(-usi), vėliau susisieksiu.</item>
+        <item>Paskambink man vėliau, ačiū.</item>
+        <item>Viskas gerai, ačiū.</item>
+        <item>Eismo spūstis, truputį vėluosiu.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Neteisėtas „Weibo“ vartotojas</item>
+        <item>Draudžiama prieiga</item>
+        <item>Tokio vartotojo nėra</item>
+        <item>Pašalinkite turinį. Siuntimas nepavyko</item>
+        <item>Įveskite ne daugiau nei 300 simbolių</item>
+        <item>Pažeidžiamos atitinkamos taisyklės, negaliojantis veiksmas</item>
+        <item>To paties turinio negalima paskelbti nepraėjus 10 minučių.</item>
+        <item>Jūsų įvestas URL atrodo nesaugus</item>
+        <item>Pagal galiojančius įstatymus ir reglamentus šio turinio paskelbti negalima</item>
+        <item>Ši funkcija dabar neveikia</item>
+        <item>Asmeninių pranešimų šiam vartotojui siųsti negalima dėl vartotojo privatumo nuostatų</item>
+        <item>Netikėta prisijungimo būsena</item>
+        <item>Paskyra užblokuota</item>
+        <item>Šis turinys laikinai nematomas</item>
+        <item>Negalite siųsti asmeninių pranešimų vartotojams, kurie Jūsų neseka</item>
+        <item>Neteisėtas asmeninis pranešimas</item>
+        <item>Nėra asmeninio pranešimo</item>
+        <item>Jūs negalite siųsti dar kartą siųsti tokio paties asmeninio pranešimo</item>
+        <item>Neteisėtas asmeninio pranešimo ID</item>
+        <item>Išsiųsta per daug asmeninių pranešimų</item>
+        <item>Šis asmeninis pažeidžia atitinkamas taisykles ir yra užblokuotas</item>
+        <item>Pagal galiojančius įstatymus ir reglamentus Jūs negalite siųsti jokių asmeninių pranešimų</item>
+        <item>Rakto galiojimo laikas baigėsi</item>
+        <item>Asmeninių pranešimų šiam vartotojui siųsti negalite dėl vartotojo nuostatų</item>
+        <item>Jūs jau išsiuntėte jį. Pakanka vieno karto</item>
+    </array>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="select_dialog_items">
+        <item>१ सेकेन्ड</item>
+        <item>२ सेकेन्ड</item>
+        <item>३ सेकेन्ड</item>
+        <item>४ सेकेन्ड</item>
+        <item>५ सेकेन्ड</item>
+        <item>६ सेकेन्ड</item>
+        <item>७ सेकेन्ड</item>
+        <item>८ सेकेन्ड</item>
+        <item>९ सेकेन्ड</item>
+        <item>१० सेकेन्ड</item>
+        <item>अन्य</item>
+    </array>
+</resources>

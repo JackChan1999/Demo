@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@id/mark_all_as_read_ll" android:paddingLeft="@dimen/mz_card_list_item_padding_left" android:paddingRight="@dimen/mz_card_list_item_padding_right" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7f0d029a">
+    <TextView android:textSize="?attr/conv_header_text_size_attr" android:textColor="@drawable/mark_as_all_text_color_selector" android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/mark_all_as_read" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/mark_all_as_read_title" />
+    <View android:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:background="@color/conv_divider" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7f0d017d" android:layout_marginLeft="?attr/conv_divider_margin_attr" android:layout_marginRight="?attr/conv_divider_margin_attr" />
+</FrameLayout>

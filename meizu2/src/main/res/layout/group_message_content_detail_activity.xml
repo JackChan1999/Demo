@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.android.mms.groupmessage.MessageDeliveryInfoBaseListView android:scrollbarStyle="outsideOverlay" android:id="@id/content_listview" android:paddingLeft="12dp" android:paddingTop="@dimen/sum_actionbar_height_statusbar_height" android:paddingRight="12dp" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent" />
+</merge>

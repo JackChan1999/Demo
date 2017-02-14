@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">מחק %1$s שרשורים</item>
+        <item quantity="one">מחק %1$s שרשורים</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+הודעה %1$s נוספת</item>
+        <item quantity="one">+הודעה %1$s נוספת</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s אנשים</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">תוצאה %1$s עבור &quot;%2$s&quot;</item>
+        <item quantity="one">תוצאה %1$s עבור &quot;%2$s&quot;</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">שנייה %s</item>
+        <item quantity="one">שנייה %s</item>
+        <item quantity="few">שנייה %s</item>
+    </plurals>
+    <plurals name="confirm_delete_messages">
+        <item quantity="other">נמחקו %1$s הודעות</item>
+        <item quantity="one">נמחקו %1$s הודעות</item>
+    </plurals>
+</resources>

@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="default_smiley_names">
+        <item>Smile</item>
+        <item>Laugh</item>
+        <item>Wink</item>
+        <item>Sad</item>
+        <item>Tongue</item>
+        <item>Undecided</item>
+        <item>Surprised</item>
+        <item>Money</item>
+        <item>Squelched</item>
+        <item>Bored</item>
+        <item>Jiong</item>
+        <item>Crying</item>
+        <item>Angry</item>
+        <item>Asleep</item>
+        <item>Pighead</item>
+        <item>Happy Blush</item>
+        <item>Nervous Blush</item>
+        <item>Faint</item>
+        <item>Awkward</item>
+        <item>Kiss</item>
+        <item>Sorrow</item>
+        <item>Eyeing</item>
+        <item>Illness</item>
+        <item>Cool</item>
+    </array>
+    <array name="empty_subject_strings">
+        <item>No subject</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Always</item>
+        <item>Only when silent</item>
+        <item>Never</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 second</item>
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+        <item>5 seconds</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 seconds</item>
+        <item>9 seconds</item>
+        <item>10 seconds</item>
+        <item>Other</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Delete message?</item>
+        <item>Delete selected item(s)?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </array>
+    <array name="phrases">
+        <item>I&apos;m busy now, will contact you later.</item>
+        <item>Please call me later, thanks.</item>
+        <item>All right, thanks.</item>
+        <item>Traffic jam, I&apos;ll be a little late.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Illegal Weibo user</item>
+        <item>Restricted access</item>
+        <item>User does not exist</item>
+        <item>Empty content. Sending failed</item>
+        <item>Do not enter more than 300 characters</item>
+        <item>Violating relevant rules, invalid operation</item>
+        <item>The same content cannot be posted again within 10 minutes</item>
+        <item>The URL you entered seems not safe</item>
+        <item>Pursuant to applicable laws and regulations, this content cannot be posted</item>
+        <item>This feature is currently unavailable</item>
+        <item>Private messages cannot be sent to this user due to user&apos;s privacy settings</item>
+        <item>Unexpected login status</item>
+        <item>Account is locked</item>
+        <item>This content is temporarily unavailable for viewing</item>
+        <item>You cannot send private messages to users who are not following you</item>
+        <item>Illegal private message</item>
+        <item>Private message does not exist</item>
+        <item>You cannot send the same private message again</item>
+        <item>Illegal private messaging ID</item>
+        <item>Too many private messages were sent</item>
+        <item>This private violates relevant rules and is blocked</item>
+        <item>Pursuant to applicable laws and regulations, you cannot send any private messages</item>
+        <item>Token expired</item>
+        <item>You cannot send private messages to this user due to user&apos;s settings</item>
+        <item>You have already sent it. Once is enough</item>
+    </array>
+    <array name="config_defaultNotificationVibePattern">
+        <item>0</item>
+        <item>350</item>
+        <item>250</item>
+        <item>350</item>
+    </array>
+    <array name="custom_time_picker_lunar_day">
+        <item>初一</item>
+        <item>初二</item>
+        <item>初三</item>
+        <item>初四</item>
+        <item>初五</item>
+        <item>初六</item>
+        <item>初七</item>
+        <item>初八</item>
+        <item>初九</item>
+        <item>初十</item>
+        <item>十一</item>
+        <item>十二</item>
+        <item>十三</item>
+        <item>十四</item>
+        <item>十五</item>
+        <item>十六</item>
+        <item>十七</item>
+        <item>十八</item>
+        <item>十九</item>
+        <item>廿十</item>
+        <item>廿一</item>
+        <item>廿二</item>
+        <item>廿三</item>
+        <item>廿四</item>
+        <item>廿五</item>
+        <item>廿六</item>
+        <item>廿七</item>
+        <item>廿八</item>
+        <item>廿九</item>
+        <item>三十</item>
+    </array>
+    <array name="custom_time_picker_lunar_month">
+        <item>正</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>七</item>
+        <item>八</item>
+        <item>九</item>
+        <item>十</item>
+        <item>冬</item>
+        <item>腊</item>
+    </array>
+    <array name="mc_colorful_round">
+        <item>#43b56b</item>
+        <item>#44aff9</item>
+        <item>#f56455</item>
+        <item>#5ecddf</item>
+        <item>#f6b944</item>
+        <item>#bd713b</item>
+    </array>
+    <array name="mc_incoming_call_widget_2way_direction_descriptions">
+        <item>?unknown_ref: 0</item>
+        <item>?unknown_ref: 0</item>
+        <item>?unknown_ref: 0</item>
+        <item>?unknown_ref: 0</item>
+    </array>
+    <array name="mc_incoming_call_widget_2way_target_descriptions">
+        <item>@string/mc_description_target_answer</item>
+        <item>?unknown_ref: 0</item>
+        <item>@string/mc_description_target_decline</item>
+        <item>?unknown_ref: 0</item>
+    </array>
+    <array name="mc_incoming_call_widget_2way_targets">
+        <item>@color/mc_multiwaveview_target_answer_color</item>
+        <item>@color/mc_multiwaveview_target_decline_color</item>
+    </array>
+    <array name="mc_incoming_call_widget_2way_targets_small">
+        <item>@color/mc_multiwaveview_target_answer_color_small</item>
+        <item>@color/mc_multiwaveview_target_decline_color_small</item>
+    </array>
+    <array name="mc_pullline_move_end">
+        <item>0.0f</item>
+        <item>0.00013f</item>
+        <item>0.00046f</item>
+        <item>0.00104f</item>
+        <item>0.00182f</item>
+        <item>0.00286f</item>
+        <item>0.0041f</item>
+        <item>0.0056f</item>
+        <item>0.00729f</item>
+        <item>0.00924f</item>
+        <item>0.01146f</item>
+        <item>0.01387f</item>
+        <item>0.01647f</item>
+        <item>0.01934f</item>
+        <item>0.0224f</item>
+        <item>0.02572f</item>
+        <item>0.0293f</item>
+        <item>0.03307f</item>
+        <item>0.03711f</item>
+        <item>0.04134f</item>
+        <item>0.04583f</item>
+        <item>0.05052f</item>
+        <item>0.05547f</item>
+        <item>0.06061f</item>
+        <item>0.06602f</item>
+        <item>0.07168f</item>
+        <item>0.07754f</item>
+        <item>0.08366f</item>
+        <item>0.08997f</item>
+        <item>0.09655f</item>
+        <item>0.10332f</item>
+        <item>0.11035f</item>
+        <item>0.11764f</item>
+        <item>0.1252f</item>
+        <item>0.13294f</item>
+        <item>0.14089f</item>
+        <item>0.14915f</item>
+        <item>0.15762f</item>
+        <item>0.16628f</item>
+        <item>0.17526f</item>
+        <item>0.18444f</item>
+        <item>0.19388f</item>
+        <item>0.20352f</item>
+        <item>0.21348f</item>
+        <item>0.22363f</item>
+        <item>0.23405f</item>
+        <item>0.24466f</item>
+        <item>0.2556f</item>
+        <item>0.26673f</item>
+        <item>0.27813f</item>
+        <item>0.28978f</item>
+        <item>0.30169f</item>
+        <item>0.31387f</item>
+        <item>0.3263f</item>
+        <item>0.339f</item>
+        <item>0.35195f</item>
+        <item>0.3651f</item>
+        <item>0.37858f</item>
+        <item>0.39232f</item>
+        <item>0.40632f</item>
+        <item>0.42057f</item>
+        <item>0.43516f</item>
+        <item>0.44993f</item>
+        <item>0.46504f</item>
+        <item>0.4804f</item>
+        <item>0.49609f</item>
+        <item>0.51204f</item>
+        <item>0.52826f</item>
+        <item>0.54479f</item>
+        <item>0.56165f</item>
+        <item>0.57878f</item>
+        <item>0.59622f</item>
+        <item>0.614f</item>
+        <item>0.63203f</item>
+        <item>0.65046f</item>
+        <item>0.66921f</item>
+        <item>0.68822f</item>
+        <item>0.70768f</item>
+        <item>0.72741f</item>
+        <item>0.74759f</item>
+        <item>0.7681f</item>
+        <item>0.789f</item>
+        <item>0.81035f</item>
+        <item>0.8321f</item>
+        <item>0.8543f</item>
+        <item>0.87702f</item>
+        <item>0.9002f</item>
+        <item>0.92402f</item>
+        <item>0.94844f</item>
+        <item>0.97363f</item>
+        <item>1f</item>
+    </array>
+    <array name="mc_pullline_move_start">
+        <item>0.0f</item>
+        <item>0.02637f</item>
+        <item>0.05156f</item>
+        <item>0.07598f</item>
+        <item>0.0998f</item>
+        <item>0.12298f</item>
+        <item>0.1457f</item>
+        <item>0.1679f</item>
+        <item>0.18965f</item>
+        <item>0.211f</item>
+        <item>0.2319f</item>
+        <item>0.25241f</item>
+        <item>0.27259f</item>
+        <item>0.29232f</item>
+        <item>0.31178f</item>
+        <item>0.33079f</item>
+        <item>0.34954f</item>
+        <item>0.36797f</item>
+        <item>0.386f</item>
+        <item>0.40378f</item>
+        <item>0.42122f</item>
+        <item>0.43835f</item>
+        <item>0.45521f</item>
+        <item>0.47174f</item>
+        <item>0.48796f</item>
+        <item>0.50391f</item>
+        <item>0.5196f</item>
+        <item>0.53496f</item>
+        <item>0.55007f</item>
+        <item>0.56484f</item>
+        <item>0.57943f</item>
+        <item>0.59368f</item>
+        <item>0.60768f</item>
+        <item>0.62142f</item>
+        <item>0.6349f</item>
+        <item>0.64805f</item>
+        <item>0.661f</item>
+        <item>0.6737f</item>
+        <item>0.68613f</item>
+        <item>0.69831f</item>
+        <item>0.71022f</item>
+        <item>0.72188f</item>
+        <item>0.73327f</item>
+        <item>0.7444f</item>
+        <item>0.75534f</item>
+        <item>0.76595f</item>
+        <item>0.77637f</item>
+        <item>0.78652f</item>
+        <item>0.79648f</item>
+        <item>0.80612f</item>
+        <item>0.81556f</item>
+        <item>0.82474f</item>
+        <item>0.83372f</item>
+        <item>0.84238f</item>
+        <item>0.85085f</item>
+        <item>0.85911f</item>
+        <item>0.86706f</item>
+        <item>0.8748f</item>
+        <item>0.88236f</item>
+        <item>0.88965f</item>
+        <item>0.89668f</item>
+        <item>0.90345f</item>
+        <item>0.91003f</item>
+        <item>0.91634f</item>
+        <item>0.92246f</item>
+        <item>0.92832f</item>
+        <item>0.93398f</item>
+        <item>0.93939f</item>
+        <item>0.94453f</item>
+        <item>0.94948f</item>
+        <item>0.95417f</item>
+        <item>0.95866f</item>
+        <item>0.96289f</item>
+        <item>0.96693f</item>
+        <item>0.9707f</item>
+        <item>0.97428f</item>
+        <item>0.9776f</item>
+        <item>0.98066f</item>
+        <item>0.98353f</item>
+        <item>0.98613f</item>
+        <item>0.98854f</item>
+        <item>0.99076f</item>
+        <item>0.99271f</item>
+        <item>0.9944f</item>
+        <item>0.9959f</item>
+        <item>0.99714f</item>
+        <item>0.99818f</item>
+        <item>0.99896f</item>
+        <item>0.99954f</item>
+        <item>0.99987f</item>
+        <item>1f</item>
+    </array>
+    <array name="mz_app_to_next_open_enter_translate_y">
+        <item>1f</item>
+        <item>0.9098163031f</item>
+        <item>0.8200344432f</item>
+        <item>0.7394374282f</item>
+        <item>0.6665901263f</item>
+        <item>0.600401837f</item>
+        <item>0.5400114811f</item>
+        <item>0.4847301952f</item>
+        <item>0.4340413318f</item>
+        <item>0.3874856487f</item>
+        <item>0.3446613088f</item>
+        <item>0.3052812859f</item>
+        <item>0.2691733639f</item>
+        <item>0.2359931114f</item>
+        <item>0.2056257176f</item>
+        <item>0.1778415614f</item>
+        <item>0.1525258324f</item>
+        <item>0.1295637199f</item>
+        <item>0.1088404133f</item>
+        <item>0.0901836969f</item>
+        <item>0.07347876f</item>
+        <item>0.07347876f</item>
+        <item>0.058783008f</item>
+        <item>0.0458094145f</item>
+        <item>0.0346727899f</item>
+        <item>0.0251435132f</item>
+        <item>0.0172789897f</item>
+        <item>0.0109070034f</item>
+        <item>0.0060849598f</item>
+        <item>0.0026406429f</item>
+        <item>0.0006314581f</item>
+        <item>0f</item>
+    </array>
+    <array name="mz_colorful_round">
+        <item>#e26f41</item>
+        <item>#dd5847</item>
+        <item>#6e6bc8</item>
+        <item>#517bd1</item>
+        <item>#28bc92</item>
+        <item>#54ae56</item>
+        <item>#e9a63b</item>
+    </array>
+    <array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </array>
+    <array name="sns_error_code">
+        <item>10013</item>
+        <item>10014</item>
+        <item>20003</item>
+        <item>20008</item>
+        <item>20013</item>
+        <item>20015</item>
+        <item>20017</item>
+        <item>20018</item>
+        <item>20021</item>
+        <item>20023</item>
+        <item>20031</item>
+        <item>20033</item>
+        <item>20034</item>
+        <item>20132</item>
+        <item>20301</item>
+        <item>20302</item>
+        <item>20305</item>
+        <item>20306</item>
+        <item>20307</item>
+        <item>20308</item>
+        <item>20310</item>
+        <item>20311</item>
+        <item>21315</item>
+        <item>20327</item>
+        <item>20019</item>
+    </array>
+    <array name="values_close_exit_translate_app">
+        <item>0.0f</item>
+        <item>0.12734375f</item>
+        <item>0.290538194f</item>
+        <item>0.445486111f</item>
+        <item>0.579947917f</item>
+        <item>0.678038194f</item>
+        <item>0.747916667f</item>
+        <item>0.802170139f</item>
+        <item>0.845746528f</item>
+        <item>0.881510417f</item>
+        <item>0.911024306f</item>
+        <item>0.935503472f</item>
+        <item>0.95546875f</item>
+        <item>0.971440972f</item>
+        <item>0.983767361f</item>
+        <item>0.992708333f</item>
+        <item>0.998090278f</item>
+        <item>1.0f</item>
+    </array>
+    <array name="values_enter_albummanager">
+        <item>0</item>
+        <item>0.06891547</item>
+        <item>0.21531616</item>
+        <item>0.38614662</item>
+        <item>0.51304489</item>
+        <item>0.605247169</item>
+        <item>0.675783564</item>
+        <item>0.731914296</item>
+        <item>0.777774517</item>
+        <item>0.815919061</item>
+        <item>0.848008218</item>
+        <item>0.875220235</item>
+        <item>0.898382113</item>
+        <item>0.918130525</item>
+        <item>0.934953453</item>
+        <item>0.949223688</item>
+        <item>0.961256423</item>
+        <item>0.971304558</item>
+        <item>0.979572514</item>
+        <item>0.98623384</item>
+        <item>0.991439088</item>
+        <item>0.995315193</item>
+        <item>0.997983771</item>
+        <item>0.999514572</item>
+        <item>1</item>
+    </array>
+    <array name="values_exit_albummanager">
+        <item>1</item>
+        <item>0.999008494</item>
+        <item>0.995895856</item>
+        <item>0.990562431</item>
+        <item>0.982841367</item>
+        <item>0.97255953</item>
+        <item>0.959525207</item>
+        <item>0.943530939</item>
+        <item>0.92432645</item>
+        <item>0.901642265</item>
+        <item>0.875174931</item>
+        <item>0.844566989</item>
+        <item>0.809439227</item>
+        <item>0.769333564</item>
+        <item>0.723769751</item>
+        <item>0.672203591</item>
+        <item>0.614077831</item>
+        <item>0.548869199</item>
+        <item>0.476223135</item>
+        <item>0.396191644</item>
+        <item>0.309782251</item>
+        <item>0.21979855</item>
+        <item>0.131947169</item>
+        <item>0.055250069</item>
+        <item>0</item>
+    </array>
+    <array name="values_extra_close_exit_translate_app">
+        <item>0.0</item>
+        <item>0.0047222222</item>
+        <item>0.0180555556</item>
+        <item>0.0391666667</item>
+        <item>0.0669444444</item>
+        <item>0.100462963</item>
+        <item>0.1387962963</item>
+        <item>0.1812037037</item>
+        <item>0.2268518519</item>
+        <item>0.2749074074</item>
+        <item>0.3247222222</item>
+        <item>0.3756481481</item>
+        <item>0.4271296296</item>
+        <item>0.4785185185</item>
+        <item>0.5294444444</item>
+        <item>0.5792592593</item>
+        <item>0.6277777778</item>
+        <item>0.6744444444</item>
+        <item>0.7188888889</item>
+        <item>0.7609259259</item>
+        <item>0.8002777778</item>
+        <item>0.8365740741</item>
+        <item>0.8696296296</item>
+        <item>0.8993518519</item>
+        <item>0.925462963</item>
+        <item>0.9478703704</item>
+        <item>0.9664814815</item>
+        <item>0.9810185185</item>
+        <item>0.9914814815</item>
+        <item>0.9978703704</item>
+        <item>1.0</item>
+    </array>
+    <array name="values_extra_open_enter_translate_app">
+        <item>0.0</item>
+        <item>0.0037037037</item>
+        <item>0.0149074074</item>
+        <item>0.0334259259</item>
+        <item>0.0590740741</item>
+        <item>0.0915740741</item>
+        <item>0.1301851852</item>
+        <item>0.1741666667</item>
+        <item>0.2228703704</item>
+        <item>0.2750925926</item>
+        <item>0.3299074074</item>
+        <item>0.3862962963</item>
+        <item>0.4431481481</item>
+        <item>0.4996296296</item>
+        <item>0.5548148148</item>
+        <item>0.6081481481</item>
+        <item>0.6589814815</item>
+        <item>0.7068518519</item>
+        <item>0.7513888889</item>
+        <item>0.7924074074</item>
+        <item>0.8297222222</item>
+        <item>0.8632407407</item>
+        <item>0.892962963</item>
+        <item>0.9188888889</item>
+        <item>0.9410185185</item>
+        <item>0.959537037</item>
+        <item>0.9744444444</item>
+        <item>0.9857407407</item>
+        <item>0.9937962963</item>
+        <item>0.9984259259</item>
+        <item>1.0</item>
+    </array>
+    <array name="values_open_enter_translate_app">
+        <item>0.0f</item>
+        <item>0.240190972f</item>
+        <item>0.466145833f</item>
+        <item>0.617708333f</item>
+        <item>0.721440972f</item>
+        <item>0.7921875f</item>
+        <item>0.844270833f</item>
+        <item>0.886197917f</item>
+        <item>0.919010417f</item>
+        <item>0.944010417f</item>
+        <item>0.9625f</item>
+        <item>0.975954861f</item>
+        <item>0.985416667f</item>
+        <item>0.991840278f</item>
+        <item>0.996006944f</item>
+        <item>0.9984375f</item>
+        <item>0.999652778f</item>
+        <item>1.0f</item>
+    </array>
+    <array name="veri_code_key">
+        <item>验证码</item>
+        <item>校验码</item>
+        <item>验证动态码</item>
+        <item>校验动态码</item>
+        <item>验证代码</item>
+        <item>校验代码</item>
+        <item>驗證碼</item>
+        <item>校驗碼</item>
+        <item>驗證動態碼</item>
+        <item>校驗動態碼</item>
+        <item>驗證代碼</item>
+        <item>校驗代碼</item>
+    </array>
+</resources>

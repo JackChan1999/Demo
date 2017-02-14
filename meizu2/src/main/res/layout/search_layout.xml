@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res-auto" meizu:layout_width="match_parent" meizu:layout_height="match_parent" meizu:baselineAligned="false">
+    <include meizu:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" meizu:id="@id/search" meizu:layout_width="UNKNOWN_DATA_0x1" meizu:layout_height="wrap_content" meizu:layout_weight="1.0" layout="@layout/mc_search_layout" />
+    <LinearLayout meizu:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" meizu:orientation="vertical" meizu:layout_width="UNKNOWN_DATA_0x7f0d0313" meizu:layout_height="wrap_content" /> />

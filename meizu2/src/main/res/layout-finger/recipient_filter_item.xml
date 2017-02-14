@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x3c01" style="?unknown_attr_ref: 1010086">
+    <TextView android:textSize="18sp" android:id="@id/name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="?unknown_attr_ref: 1010086" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/name_and_label" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="14sp" android:textColor="?unknown_attr_ref: 1010038" android:id="@id/label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="?unknown_attr_ref: 1010086" />
+        <TextView android:textSize="14sp" android:id="@id/number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="?unknown_attr_ref: 1010086" />
+    </LinearLayout>
+</LinearLayout>

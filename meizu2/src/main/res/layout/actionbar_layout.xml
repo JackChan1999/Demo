@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0xf001">
+    <ImageView android:id="@id/blurArea" android:background="@color/mz_transparent" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0xc801" />
+    <TextView android:textSize="32sp" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/blurTitle" android:background="@color/mz_slidingmenu_background_light" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x2801" />
+</LinearLayout>

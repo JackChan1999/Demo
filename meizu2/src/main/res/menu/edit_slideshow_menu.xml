@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/prv/res/android">
+    <item meizu:id="@id/edit_slideshow" meizu:orderInCategory="200" meizu:title="@string/edit" meizu:showAsAction="always" />
+</menu>

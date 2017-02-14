@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res-auto">
+    <item app:id="@id/mark_as_read_item" app:title="@string/unfiltrate" app:showAsAction="always" />
+    <item app:id="@id/top_item" app:title="@string/top" app:showAsAction="always" />
+    <item app:id="@id/delete_item" app:title="@string/delete_message" app:showAsAction="always" />
+</menu>

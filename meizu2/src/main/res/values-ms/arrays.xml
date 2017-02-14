@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>Tiada subjek</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Sentiasa</item>
+        <item>Apabila senyap sahaja</item>
+        <item>Jangan sekali-kali</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 saat</item>
+        <item>2 saat</item>
+        <item>3 saat</item>
+        <item>4 saat</item>
+        <item>5 saat</item>
+        <item>6 saat</item>
+        <item>7 saat</item>
+        <item>8 saat</item>
+        <item>9 saat</item>
+        <item>10 saat</item>
+        <item>lain-lain</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Padamkan pesanan?</item>
+        <item>Padam item yang dipilih?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>Hari pertama</item>
+        <item>Hari kedua</item>
+        <item>Hari ketiga</item>
+        <item>Hari keempat</item>
+        <item>Hari kelima</item>
+        <item>Hari keenam</item>
+        <item>Hari ketujuh</item>
+        <item>Hari Chuba</item>
+        <item>Hari kesembilan</item>
+        <item>Hari Malaysia dan Singapura</item>
+        <item>Sebelas</item>
+        <item>Dua belas</item>
+        <item>Tiga belas</item>
+        <item>Empat belas</item>
+        <item>Lima belas</item>
+        <item>Enam belas</item>
+        <item>Tujuh belas</item>
+        <item>Lapan belas</item>
+        <item>Sembilan belas</item>
+        <item>Dua puluh</item>
+        <item>Dua puluh satu</item>
+        <item>Dua puluh dua</item>
+        <item>Dua puluh tiga</item>
+        <item>Dua puluh empat</item>
+        <item>Dua puluh lima</item>
+        <item>Dua puluh enam</item>
+        <item>Dua puluh tujuh</item>
+        <item>Dua puluh lapan</item>
+        <item>Dua puluh sembilan</item>
+        <item>Tiga puluh</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>Satu</item>
+        <item>Dua</item>
+        <item>Tiga</item>
+        <item>Empat</item>
+        <item>Lima</item>
+        <item>Enam</item>
+        <item>Tujuh</item>
+        <item>Lapan</item>
+        <item>Sembilan</item>
+        <item>Sepuluh</item>
+        <item>Sebelas</item>
+        <item>Dua belas</item>
+    </array>
+    <array name="phrases">
+        <item>Saya sibuk sekarang, akan menghubungi anda kemudian.</item>
+        <item>Sila hubungi saya kemudian, terima kasih.</item>
+        <item>Baiklah, terima kasih.</item>
+        <item>Kesesakan lalu lintas, saya akan menjadi sedikit lewat.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Pengguna Weibo Haram</item>
+        <item>akses terhad</item>
+        <item>Pengguna tidak wujud</item>
+        <item>Kandungan kosong. Penghantaran gagal</item>
+        <item>Jangan masukkan lebih daripada 300 aksara</item>
+        <item>Melanggar peraturan berkenaan, operasi yang tidak sah</item>
+        <item>Kandungan yang sama tidak boleh disiarkan lagi dalam masa 10 minit</item>
+        <item>URL yang anda masukkan nampaknya tidak selamat</item>
+        <item>Menurut undang-undang dan peraturan yang berkaitan, kandungan ini tidak boleh diposkan</item>
+        <item>Ciri ini tidak tersedia</item>
+        <item>Mesej peribadi tidak boleh dihantar kepada pengguna ini kerana tetapan privasi pengguna</item>
+        <item>Status log masuk yang tidak dijangka</item>
+        <item>Akaun dikunci</item>
+        <item>Kandungan ini buat sementara waktu untuk tontonan</item>
+        <item>Anda tidak boleh menghantar mesej peribadi kepada pengguna yang tidak mengikuti anda</item>
+        <item>Mesej peribadi Haram</item>
+        <item>Mesej peribadi tidak wujud</item>
+        <item>Anda tidak boleh menghantar mesej peribadi yang sama sekali lagi</item>
+        <item>ID mesej peribadi Haram</item>
+        <item>Pesanan peribadi terlalu banyak telah dihantar</item>
+        <item>Swasta ini melanggar peraturan yang berkaitan dan disekat</item>
+        <item>Menurut undang-undang dan peraturan yang diguna pakai, anda tidak boleh menghantar sebarang mesej peribadi</item>
+        <item>Token yang telah tamat tempoh</item>
+        <item>Anda tidak boleh menghantar mesej peribadi kepada pengguna ini disebabkan tetapan pengguna</item>
+        <item>Anda telah pun rasul itu. Setelah cukup</item>
+    </array>
+</resources>

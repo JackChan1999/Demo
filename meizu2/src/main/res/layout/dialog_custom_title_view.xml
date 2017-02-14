@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android" android:textSize="@dimen/dialog_custom_title_size" android:textColor="@color/dialog_custom_title_text_color" android:gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/title" android:paddingTop="@dimen/dialog_custom_title_padding_top" android:paddingBottom="@dimen/dialog_custom_title_padding_bottom" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7f0d01d0" />

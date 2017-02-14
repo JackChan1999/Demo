@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.mms.fragmentstyle.CustomeViewPager android:id="@id/tab_pager" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" />
+    <ViewStub android:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:id="@id/viewStub" android:layout="@layout/banner_sms_promo" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sum_actionbar_height_statusbar_height" />
+    <TextView android:textSize="@dimen/create_new_btn_text_size" android:textColor="@color/white" android:gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/create_new_btn" android:background="?attr/create_new_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/create_new_btn_margin_bottom" android:text="?attr/create_new_text" android:contentDescription="@string/create_new_message" />
+</merge>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <LinearLayout android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:orientation="horizontal" android:id="@id/body" android:paddingLeft="@dimen/mz_toast_padding" android:paddingTop="@dimen/mz_progress_dialog_padding_no_message" android:paddingRight="@dimen/mz_toast_padding" android:paddingBottom="@dimen/mz_progress_dialog_padding_no_message" android:layout_width="match_parent" android:layout_height="match_parent" android:baselineAligned="false">
+        <ProgressBar android:id="0x102000d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:max="10000" style="?unknown_attr_ref: 1010077" />
+        <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:id="0x102000b" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/mz_progress_dialog_message_padding_left" />
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="default_smiley_names">
+        <item>Шчаслівы</item>
+        <item>Сумны</item>
+        <item>Падморгвае</item>
+        <item>Паказвае язык</item>
+        <item>Здзіўлены</item>
+        <item>Пацалунак</item>
+        <item>Крычыць</item>
+        <item>Крута</item>
+        <item>Зайздрасць</item>
+        <item>Балбоча</item>
+        <item>Збянтэжаны</item>
+        <item>Анёл</item>
+        <item>Нявырашанае</item>
+        <item>Плача</item>
+        <item>Нічога не скажу</item>
+        <item>Смяецца</item>
+        <item>Зблытаны</item>
+        <item>Сэрца</item>
+        <item>Вар&apos;ят</item>
+        <item>Ухмылка</item>
+        <item>Абыякавы твар</item>
+    </array>
+    <array name="empty_subject_strings">
+        <item>без тэмы</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Заўсёды</item>
+        <item>Толькі ў рэжыме без гуку</item>
+        <item>Ніколі</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+        <item>30 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Іншае</item>
+    </array>
+</resources>

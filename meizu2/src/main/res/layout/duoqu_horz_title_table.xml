@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res-auto" duoqu:orientation="vertical" duoqu:layout_width="match_parent" duoqu:layout_height="match_parent">
+    <RelativeLayout duoqu:id="@bp$d/duoqu_horiz_budy_title" duoqu:background="@bp$a/duoqu_nearby_point_name_blue" duoqu:layout_width="match_parent" duoqu:layout_height="UNKNOWN_DATA_0x3e01">
+        <TextView duoqu:textSize="24dp" duoqu:textColor="@bp$a/duoqu_white" duoqu:gravity="top|bottom|center_vertical|fill_vertical|center|fill" duoqu:id="@bp$d/duoqu_horiz_budy_titletext" duoqu:layout_width="match_parent" duoqu:layout_height="wrap_content" duoqu:layout_marginLeft="20dp" duoqu:layout_marginRight="20dp" duoqu:text="测试" duoqu:layout_centerVertical="true" />
+    </RelativeLayout>
+</LinearLayout>

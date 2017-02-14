@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>Sem assunto</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Sempre</item>
+        <item>Apenas quando estiver no modo silencioso</item>
+        <item>Nunca</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+        <item>10 segundos</item>
+        <item>Outro</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Eliminar mensagem?</item>
+        <item>Eliminar item(ns) selecionado(s)?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Fev</item>
+        <item>Mar</item>
+        <item>Abr</item>
+        <item>Maio</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Ago</item>
+        <item>Set</item>
+        <item>Out</item>
+        <item>Nov</item>
+        <item>Dez</item>
+    </array>
+    <array name="phrases">
+        <item>Agora estou ocupado, entrarei em contacto posteriormente.</item>
+        <item>Ligue-me mais tarde, obrigado.</item>
+        <item>Tubo bem, obrigado.</item>
+        <item>Engarrafamento, vou chegar atrasado.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Utilizador Weibo ilegal</item>
+        <item>Acesso restrito</item>
+        <item>O utilizador não existe</item>
+        <item>Conteúdo vazio. O envio falhou</item>
+        <item>Não introduzir mais do que 300 carateres</item>
+        <item>Violação das respetivas regras, operação inválida</item>
+        <item>O mesmo conteúdo não pode ser publicado novamente dentro de 10 minutos</item>
+        <item>O URL que introduziu não é seguro</item>
+        <item>De acordo com as leis e regulamentos aplicáveis, este conteúdo não pode ser publicado</item>
+        <item>Esta funcionalidade não está disponível de momento</item>
+        <item>Não podem ser enviadas mensagens privadas a este utilizador devido às suas definições de privacidade</item>
+        <item>Estado inesperado da sessão iniciada</item>
+        <item>A conta está bloqueada</item>
+        <item>Este conteúdo está temporariamente indisponível para visualização</item>
+        <item>Não é possível enviar mensagens privadas aos utilizadores que não o estão a seguir</item>
+        <item>Mensagens privadas ilegais</item>
+        <item>A mensagem privada não existe</item>
+        <item>Não pode enviar novamente a mesma mensagem privada</item>
+        <item>ID das mensagens privadas ilegais</item>
+        <item>Foram enviadas demasiadas mensagens privadas</item>
+        <item>Estas mensagens privadas violam as regras específicas e estão bloqueadas</item>
+        <item>De acordo com as leis e regulamentos aplicáveis, não pode enviar nenhuma mensagem privada</item>
+        <item>O Token expirou</item>
+        <item>Não é possível enviar mensagens privadas a este utilizador devido às definições do utilizador</item>
+        <item>Já realizou o envio. Uma vez é suficiente</item>
+    </array>
+</resources>

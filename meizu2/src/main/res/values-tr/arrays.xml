@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>Konu yok</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Her zaman</item>
+        <item>Yalnızca sessizken</item>
+        <item>Hiçbir zaman</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 saniye</item>
+        <item>2 saniye</item>
+        <item>3 saniye</item>
+        <item>4 saniye</item>
+        <item>5 saniye</item>
+        <item>6 saniye</item>
+        <item>7 saniye</item>
+        <item>8 saniye</item>
+        <item>9 saniye</item>
+        <item>10 saniye</item>
+        <item>Diğer</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Mesaj silinsin mi?</item>
+        <item>Seçilen öğeler silinsin mi?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>Oca</item>
+        <item>Şub</item>
+        <item>Mar</item>
+        <item>Nis</item>
+        <item>Mayıs</item>
+        <item>Haz</item>
+        <item>Tem</item>
+        <item>Ağu</item>
+        <item>Eyl</item>
+        <item>Eki</item>
+        <item>Kas</item>
+        <item>Ara</item>
+    </array>
+    <array name="phrases">
+        <item>Şu an meşgulüm, daha sonra seni arayacağım.</item>
+        <item>Lütfen beni daha sonra arayın, teşekkürler.</item>
+        <item>Tamam, teşekkürler.</item>
+        <item>Trafik var, Biraz geç kalacağım.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Geçersiz Weibo kullanıcısı</item>
+        <item>Kısıtlı erişim</item>
+        <item>Kullanıcı mevcut değil</item>
+        <item>Boş içerik. Gönderilemedi</item>
+        <item>300&apos;den fazla karakter girmeyin</item>
+        <item>İlgili kurallar çiğnenmekte, geçersiz işlem</item>
+        <item>Aynı içerik 10 dakika içinde yeniden gönderilemez</item>
+        <item>Girdiğiniz URL güvenli görünmüyor</item>
+        <item>Yürürlükteki kanun ve yönetmelikler gereğince, bu içerik gönderilemez</item>
+        <item>Bu özellik şu an kullanılamaz</item>
+        <item>Kullanıcının gizlilik ayarlarından ötürü bu kullanıcıya özel mesajlar gönderilemez</item>
+        <item>Beklenmeyen giriş durumu</item>
+        <item>Hesap kilitli</item>
+        <item>Bu içerik görüntüleme için geçici olarak kullanılamaz</item>
+        <item>Sizi takip etmeyen kullanıcılara özel mesajlar gönderemezsiniz</item>
+        <item>Geçersiz özel mesaj</item>
+        <item>Özel mesaj mevcut değildir</item>
+        <item>Aynı özel mesajı yeniden gönderemezsiniz</item>
+        <item>Geçersiz özel mesajlaşma kimliği</item>
+        <item>Çok fazla özel mesaj gönderildi</item>
+        <item>Bu özel mesaj, ilgili kuralları çiğner ve engellenir</item>
+        <item>Yürürlükteki kanun ve yönetmelikler gereğince, herhangi bir özel mesaj gönderemezsiniz</item>
+        <item>Andaç süresi doldu</item>
+        <item>Kullanıcı ayarlarından ötürü bu kullanıcıya özel mesajlar gönderemezsiniz</item>
+        <item>Zaten bunu gönderdiniz. Bir kez yeterlidir</item>
+    </array>
+</resources>

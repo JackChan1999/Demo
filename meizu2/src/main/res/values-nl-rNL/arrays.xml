@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>Geen onderwerp</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Altijd</item>
+        <item>Alleen bij stille stand</item>
+        <item>Nooit</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 seconde</item>
+        <item>2 seconden</item>
+        <item>3 seconden</item>
+        <item>4 seconden</item>
+        <item>5 seconden</item>
+        <item>6 seconden</item>
+        <item>7 seconden</item>
+        <item>8 seconden</item>
+        <item>9 seconden</item>
+        <item>10 seconden</item>
+        <item>Overig</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Bericht verwijderen?</item>
+        <item>Geselecteerde items verwijderen?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>jan</item>
+        <item>feb</item>
+        <item>maa</item>
+        <item>apr</item>
+        <item>mei</item>
+        <item>jun</item>
+        <item>jul</item>
+        <item>aug</item>
+        <item>sep</item>
+        <item>okt</item>
+        <item>nov</item>
+        <item>dec</item>
+    </array>
+    <array name="phrases">
+        <item>Ik ben nu bezet en neem later contact op.</item>
+        <item>Bel me later terug.</item>
+        <item>Oké, bedankt.</item>
+        <item>Ik sta in de file. Het wordt wat later.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Ongeldige Weibo-gebruiker</item>
+        <item>Beperkte toegang</item>
+        <item>Deze gebruiker bestaat niet</item>
+        <item>Geen inhoud. Versturen mislukt</item>
+        <item>U mag maximaal 300 tekens invullen</item>
+        <item>De relevante regels worden geschonden; ongeldige bewerking</item>
+        <item>U kunt inhoud maar één keer per 10 minuten sturen</item>
+        <item>De ingevulde URL lijkt niet geldig</item>
+        <item>Deze inhoud kan vanwege toepasselijke wet- en regelgeving niet worden gepubliceerd</item>
+        <item>Deze functie is op dit moment niet beschikbaar</item>
+        <item>Deze gebruiker kan vanwege de privacy-instellingen geen privéberichten ontvangen</item>
+        <item>Onverwachte aanmeldstatus</item>
+        <item>Het account is vergrendeld</item>
+        <item>Deze inhoud kan tijdelijk niet worden bekeken</item>
+        <item>U kunt geen privéberichten sturen naar gebruikers die u niet volgen</item>
+        <item>Ongeldig persoonlijk bericht</item>
+        <item>Het privébericht bestaat niet</item>
+        <item>U kunt het privébericht maar één keer sturen</item>
+        <item>Onjuiste ID voor privéberichten</item>
+        <item>Er zijn te veel privéberichten verstuurd</item>
+        <item>Dit privébericht is in strijd met relevante regels en daarom geblokkeerd</item>
+        <item>U kunt vanwege toepasselijke wet- en regelgeving geen privéberichten versturen</item>
+        <item>Token verstreken</item>
+        <item>U kunt geen privéberichten naar deze gebruiker sturen vanwege de privacy-instellingen van deze gebruiker</item>
+        <item>U hebt dit al verstuurd. Eén keer is genoeg</item>
+    </array>
+</resources>

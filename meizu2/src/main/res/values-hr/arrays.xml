@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="default_smiley_names">
+        <item>Sretan</item>
+        <item>Tužan</item>
+        <item>Namigujem</item>
+        <item>Plazim ti jezik</item>
+        <item>Iznenađen</item>
+        <item>Šaljem pusu</item>
+        <item>Vikanje</item>
+        <item>Cool</item>
+        <item>Pohlepan</item>
+        <item>Ispeci pa reci</item>
+        <item>Neugodno mi je</item>
+        <item>Anđeo</item>
+        <item>Neodlučan</item>
+        <item>Plačem</item>
+        <item>Strogo povjerljivo</item>
+        <item>Smijem se</item>
+        <item>Zbunjen</item>
+        <item>Srce</item>
+        <item>Ljutnja</item>
+        <item>Samozadovoljni podsmjeh</item>
+        <item>Pokeraš</item>
+    </array>
+    <array name="empty_subject_strings">
+        <item>nema predmeta</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Uvijek</item>
+        <item>Samo ako je bešumno</item>
+        <item>Nikada</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 sekunda</item>
+        <item>2 sekunde</item>
+        <item>3 sekunde</item>
+        <item>4 sekunde</item>
+        <item>5 sekundi</item>
+        <item>6 sekundi</item>
+        <item>7 sekundi</item>
+        <item>8 sekundi</item>
+        <item>9 sekundi</item>
+        <item>10 sekundi</item>
+        <item>Ostalo</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Izbrisati poruku?</item>
+        <item>Izbrisati odabrane stavke?</item>
+    </array>
+    <array name="phrases">
+        <item>Sada sam zauzet(a), kontaktirat ću vas kasnije.</item>
+        <item>Nazovite me kasnije, hvala.</item>
+        <item>U redu, hvala.</item>
+        <item>Gužva u prometu, malo ću zakasniti.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Nevažeći Weibo korisnik</item>
+        <item>Ograničeni pristup</item>
+        <item>Korisnik ne postoji</item>
+        <item>Prazan sadržaj. Slanje nije uspjelo</item>
+        <item>Nemojte unositi više od 300 znakova</item>
+        <item>Kršenje relevantnih pravila, nevažeća operacija</item>
+        <item>Isti sadržaj ne može se ponovo objaviti u roku od 10 minuta</item>
+        <item>Čini se da uneseni URL nije siguran</item>
+        <item>Sukladno primjenjivim zakonima i propisima, ovaj se sadržaj ne može objavljivati</item>
+        <item>Ova je značajka trenutno nedostupna</item>
+        <item>Privatne poruke ne mogu se slati ovom korisniku zbog korisničkih postavki privatnosti</item>
+        <item>Neočekivano stanje prijave</item>
+        <item>Račun je zaključan</item>
+        <item>Ovaj je sadržaj privremeno nedostupan za prikazivanje</item>
+        <item>Ne možete slati privatne poruke korisnicima koji vas ne prate</item>
+        <item>Nevažeća privatna poruka</item>
+        <item>Privatna poruka ne postoji</item>
+        <item>Ne možete ponovo poslati istu privatnu poruku</item>
+        <item>Nevažeći ID privatne razmjene poruka</item>
+        <item>Poslano je previše privatnih poruka</item>
+        <item>Ova privatna poruka krši relevantna pravila te je blokirana</item>
+        <item>Sukladno primjenjivim zakonima i propisima, ne možete slati privatne poruke</item>
+        <item>Token je istekao</item>
+        <item>Ovom korisniku ne možete slati privatne poruke zbog korisničkih postavki</item>
+        <item>Već ste poslali. Jedanput je dovoljno</item>
+    </array>
+</resources>

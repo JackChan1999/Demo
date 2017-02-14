@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_confirm">确定</string>
+    <string name="msg_empty_contact">联系人信息为空</string>
+    <string name="msg_loading">正在加载</string>
+    <string name="msg_pay_success">购买成功，请留意运营商到账情况，如遇问题可查看“帮助”</string>
+    <string name="title_buy_data">充流量</string>
+    <string name="title_help">帮助</string>
+</resources>

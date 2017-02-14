@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>Pas d&apos;objet</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Toujours</item>
+        <item>Uniquement si silencieux</item>
+        <item>Jamais</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 seconde</item>
+        <item>2 secondes</item>
+        <item>3 secondes</item>
+        <item>4 secondes</item>
+        <item>5 secondes</item>
+        <item>6 secondes</item>
+        <item>7 secondes</item>
+        <item>8 secondes</item>
+        <item>9 secondes</item>
+        <item>10 secondes</item>
+        <item>Autre</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>Supprimer le message ?</item>
+        <item>Supprimer les éléments sélectionnés ?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Fév</item>
+        <item>Mar</item>
+        <item>Avr</item>
+        <item>Mai</item>
+        <item>Jun</item>
+        <item>Jui</item>
+        <item>Aoû</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Déc</item>
+    </array>
+    <array name="phrases">
+        <item>Je suis occupé, je prendrai contact avec vous plus tard.</item>
+        <item>Appelez-moi plus tard, merci.</item>
+        <item>Très bien, merci.</item>
+        <item>Embouteillage, je vais être un peu en retard.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Utilisateur Weibo illégal</item>
+        <item>Accès restreint</item>
+        <item>L&apos;utilisateur n&apos;existe pas</item>
+        <item>Contenu vide. Échec de l&apos;envoi</item>
+        <item>Ne pas saisir plus de 300 caractères</item>
+        <item>Règles applicables non respectées, opération non valide</item>
+        <item>Le même contenu ne peut pas être publié avant 10 minutes</item>
+        <item>L&apos;URL que vous avez saisie ne semble pas sûre</item>
+        <item>Conformément aux lois et réglementations applicables, ce contenu ne peut pas être publié</item>
+        <item>Cette fonctionnalité n&apos;est pas disponible actuellement.</item>
+        <item>Les messages privés ne peuvent pas être envoyés à cet utilisateur en raison de ses paramètres de confidentialité</item>
+        <item>Statut de connexion inattendu</item>
+        <item>Le compte est verrouillé</item>
+        <item>Ce contenu est temporairement indisponible à l&apos;affichage</item>
+        <item>Vous ne pouvez pas envoyer de messages privés à des utilisateurs qui ne vous suivent pas</item>
+        <item>Message privé illégal</item>
+        <item>Le message privé n&apos;existe pas</item>
+        <item>Vous ne pouvez pas renvoyer le même message privé</item>
+        <item>ID de messagerie privée illégal</item>
+        <item>Trop de messages privés ont été envoyés</item>
+        <item>Ce message privé viole les règles applicables et est bloqué</item>
+        <item>Conformément aux lois et réglementations applicables, vous ne pouvez pas envoyer de messages privés</item>
+        <item>Jeton expiré</item>
+        <item>Vous ne pouvez pas envoyer de messages privés à cet utilisateur en raison des paramètres de l&apos;utilisateur</item>
+        <item>Vous l&apos;avez déjà envoyé. Une fois suffit</item>
+    </array>
+</resources>

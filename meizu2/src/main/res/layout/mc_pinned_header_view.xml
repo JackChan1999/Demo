@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/mc_pinned_header_background" android:paddingLeft="@dimen/mz_card_list_item_padding_left" android:paddingRight="@dimen/mz_card_list_item_padding_right" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <include android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7f0d04d5" layout="@layout/mc_pinned_group_header" />
+</LinearLayout>

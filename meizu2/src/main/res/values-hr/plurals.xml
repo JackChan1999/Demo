@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Broj razgovora koji će biti izbrisani: %1$s</item>
+        <item quantity="one">Razgovor će biti izbrisan.</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">i još ovoliko poruka: %1$s</item>
+        <item quantity="one">i još %1$s poruka</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">Broj kontakata: %1$s</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s rezultata za &quot;%2$s&quot;</item>
+        <item quantity="one">%1$s rezultat za &quot;%2$s&quot;</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s s</item>
+        <item quantity="one">%s s</item>
+        <item quantity="few">%s s</item>
+    </plurals>
+</resources>

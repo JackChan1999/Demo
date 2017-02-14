@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="empty_subject_strings">
+        <item>Sin asunto</item>
+    </array>
+    <array name="prefEntries_vibrateWhen">
+        <item>Siempre</item>
+        <item>Solo si está silenciado</item>
+        <item>Nunca</item>
+    </array>
+    <array name="select_dialog_items">
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+        <item>10 segundos</item>
+        <item>Otros</item>
+    </array>
+    <array name="confirm_dialog_titlet">
+        <item>¿Eliminar el mensaje?</item>
+        <item>¿Eliminar elementos seleccionados?</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </array>
+    <array name="mc_custom_time_picker_lunar_month">
+        <item>Ene</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Abr</item>
+        <item>Mayo</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Agos</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dic</item>
+    </array>
+    <array name="phrases">
+        <item>Ahora no puedo. Hablamos más tarde.</item>
+        <item>Llámame más tarde, gracias.</item>
+        <item>De acuerdo, gracias.</item>
+        <item>Estoy en un atasco, llegaré algo tarde.</item>
+    </array>
+    <array name="sns_error_msg">
+        <item>Usuario Weibo ilegal</item>
+        <item>Acceso restringido</item>
+        <item>El usuario no existe</item>
+        <item>Contenido vacío. Error al enviar</item>
+        <item>No introducir más de 300 caracteres</item>
+        <item>Incumplimiento de las normas pertinentes, operación no válida</item>
+        <item>No se puede publicar el mismo contenido de nuevo en un plazo de 10 minutos</item>
+        <item>La URL que has introducido no parece segura</item>
+        <item>Conforme a la legislación y normativas aplicables, este contenido no se puede publicar</item>
+        <item>Esta función no se encuentra disponible en este momento</item>
+        <item>No se pueden enviar mensajes privados a este usuario debido a los ajustes de privacidad del mismo</item>
+        <item>Estado de inicio de sesión inesperado</item>
+        <item>La cuenta está bloqueada</item>
+        <item>Este contenido no está disponible temporalmente para la visualización</item>
+        <item>No puedes enviar mensajes privados a usuarios que no sean seguidores tuyos</item>
+        <item>Mensaje privado ilegal</item>
+        <item>El mensaje privado no existe</item>
+        <item>No puedes enviar el mismo mensaje privado de nuevo</item>
+        <item>ID de mensajería privada ilegal</item>
+        <item>Se enviaron demasiados mensajes privados</item>
+        <item>Este mensaje privado incumple las normas y se ha bloqueado</item>
+        <item>Conforme a la legislación y normativas aplicables, no puedes enviar mensajes privados</item>
+        <item>Token caducado</item>
+        <item>No puedes enviar mensajes privados a este usuario debido a los ajustes del mismo</item>
+        <item>Ya lo has enviado. Una vez es suficiente</item>
+    </array>
+</resources>
