@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>Hari pertama</item>
+        <item>Hari kedua</item>
+        <item>Hari ketiga</item>
+        <item>Hari keempat</item>
+        <item>Hari kelima</item>
+        <item>Hari keenam</item>
+        <item>Hari ketujuh</item>
+        <item>Hari Chuba</item>
+        <item>Hari kesembilan</item>
+        <item>Hari Malaysia dan Singapura</item>
+        <item>Sebelas</item>
+        <item>Dua belas</item>
+        <item>Tiga belas</item>
+        <item>Empat belas</item>
+        <item>Lima belas</item>
+        <item>Enam belas</item>
+        <item>Tujuh belas</item>
+        <item>Lapan belas</item>
+        <item>Sembilan belas</item>
+        <item>Dua puluh</item>
+        <item>Dua puluh satu</item>
+        <item>Dua puluh dua</item>
+        <item>Dua puluh tiga</item>
+        <item>Dua puluh empat</item>
+        <item>Dua puluh lima</item>
+        <item>Dua puluh enam</item>
+        <item>Dua puluh tujuh</item>
+        <item>Dua puluh lapan</item>
+        <item>Dua puluh sembilan</item>
+        <item>Tiga puluh</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Satu</item>
+        <item>Dua</item>
+        <item>Tiga</item>
+        <item>Empat</item>
+        <item>Lima</item>
+        <item>Enam</item>
+        <item>Tujuh</item>
+        <item>Lapan</item>
+        <item>Sembilan</item>
+        <item>Sepuluh</item>
+        <item>Sebelas</item>
+        <item>Dua belas</item>
+    </string-array>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/details_game_packs_rl"
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/mz_list_selector_background"
+                android:clickable="true"
+                android:visibility="gone">
+
+    <ImageView
+        android:id="@id/details_game_packs_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:src="@drawable/ic_game_detial_gift"/>
+
+    <TextView
+        android:id="@id/details_game_packs_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@id/packs_enter_icon"
+        android:singleLine="true"
+        android:textColor="@color/details_content_fragment_content_text_color"/>
+
+    <ImageView
+        android:id="@id/packs_enter_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:gravity="center_vertical"
+        android:src="@drawable/mz_arrow_next_right"/>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="1.5dip"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/add_comment_divider_bg_color"/>
+</RelativeLayout>

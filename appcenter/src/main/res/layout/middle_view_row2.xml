@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:layout_marginBottom="1.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/layout_title" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/common_list_item_position_text" android:id="@id/txt_index" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" />
+        <TextView android:textSize="@dimen/common_list_item_title_text" android:textColor="@color/title_color" android:ellipsize="end" android:id="@id/txt_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        <com.meizu.cloud.app.widget.TagView android:layout_gravity="center_vertical" android:id="@id/tagView" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <TextView android:textSize="@dimen/rank_txt_bottom_textsize" android:textColor="@color/desc_color" android:id="@id/txt_desc1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:singleLine="true" android:includeFontPadding="false" android:layout_below="@id/layout_title" />
+    <TextView android:textSize="@dimen/rank_txt_bottom_textsize" android:textColor="@color/desc_color" android:id="@id/txt_desc2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="6.0dip" android:singleLine="true" android:includeFontPadding="false" android:layout_toRightOf="@id/txt_desc1" android:layout_alignBaseline="@id/txt_desc1" />
+</RelativeLayout>

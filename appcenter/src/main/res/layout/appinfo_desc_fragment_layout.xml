@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:id="@id/appinfo_desc_view"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:clickable="true"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@id/appinfo_desc_tv"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/knowmore_textview_marginleft"
+                android:layout_marginRight="@dimen/knowmore_textview_marginright"
+                android:layout_marginTop="@dimen/konwmore_firsttext_margintop"
+                android:lineSpacingExtra="@dimen/knowmore_textview_linespacingextra"
+                android:text="@string/appinfo_appInformation"
+                android:textSize="@dimen/knowmore_textview_update_textsize"/>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/knowmore_textview_marginleft"
+                android:layout_marginRight="@dimen/knowmore_textview_marginright"
+                android:layout_marginTop="@dimen/knowmore_secondtext_margintop"
+                android:text="@string/appinfo_update"
+                android:textColor="@color/permission_text_tittle"
+                android:textSize="@dimen/knowmore_textview_update_textsize"/>
+
+            <TextView
+                android:id="@id/updateinfo_desc_tv"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/knowmore_textview_marginleft"
+                android:layout_marginRight="@dimen/knowmore_textview_marginright"
+                android:layout_marginTop="@dimen/knowmore_thirdtext_margintop"
+                android:lineSpacingExtra="@dimen/knowmore_textview_linespacingextra"
+                android:text="@string/appinfo_updateInformation"
+                android:textSize="@dimen/knowmore_textview_update_textsize"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

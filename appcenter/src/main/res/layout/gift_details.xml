@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:scrollbarStyle="outsideOverlay" android:id="@id/main_scroller" android:padding="@dimen/gift_details_padding" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:id="@id/gift_image" android:layout_width="fill_parent" android:layout_height="@dimen/gift_details_image_height" android:scaleType="fitXY" />
+                <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/remain_time_layout" android:background="@color/theme_color" android:paddingLeft="@dimen/gift_details_clock_image_margin" android:paddingRight="@dimen/gift_details_clock_image_margin" android:layout_width="fill_parent" android:layout_height="@dimen/gift_details_remain_height">
+                    <TextView android:textSize="@dimen/gift_details_clock_size" android:textColor="@android:color/white" android:gravity="center_vertical" android:id="@id/gift_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+                    <TextView android:textSize="@dimen/gift_details_remain_time_size" android:textColor="@android:color/white" android:gravity="center_vertical" android:id="@id/remain_time" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+            <TextView android:textColor="@android:color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/gift_details_text_padding" android:layout_marginBottom="@dimen/gift_details_text_padding_bottom" android:text="@string/gift_details_title" android:alpha="0.8" />
+            <ImageView android:background="@color/common_block_title_split_color" android:layout_width="fill_parent" android:layout_height="@dimen/common_block_item_title_split_height" />
+            <TextView android:textColor="@android:color/black" android:id="@id/gift_details_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/gift_details_text_padding" android:layout_marginBottom="@dimen/gift_details_text_padding" android:alpha="0.5" />
+            <TextView android:textColor="@android:color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" android:layout_marginBottom="@dimen/gift_details_text_padding_bottom" android:text="@string/gift_tips" android:alpha="0.8" />
+            <ImageView android:background="@color/common_block_title_split_color" android:layout_width="fill_parent" android:layout_height="@dimen/common_block_item_title_split_height" />
+            <TextView android:textColor="@android:color/black" android:id="@id/gift_tips_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/gift_details_text_padding" android:layout_marginBottom="@dimen/gift_details_text_padding" android:includeFontPadding="false" android:lineSpacingExtra="@dimen/gif_tip_text_line_extra" android:alpha="0.5" />
+            <TextView android:textColor="@android:color/black" android:id="@id/gift_key_title" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/gift_details_text_padding" android:layout_marginBottom="@dimen/gift_details_text_padding_bottom" android:text="@string/gift_cdkey" android:alpha="0.8" />
+            <ImageView android:background="@color/common_block_title_split_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/common_block_item_title_split_height" />
+        </LinearLayout>
+    </ScrollView>
+    <RelativeLayout android:layout_gravity="bottom" android:id="@id/app_info_pagerview_contains" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.meizu.cloud.app.widget.NoClipRelativeLayout android:layout_gravity="bottom" android:id="@id/btn_layout" android:background="@drawable/mz_smartbar_background" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/app_info_bottom_height">
+            <com.meizu.cloud.app.widget.RoundCornerProgressButton android:textSize="@dimen/app_info_price_text_size" android:textColor="@android:color/white" android:id="@id/gift_btn" android:layout_width="241.0dip" android:layout_height="@dimen/gift_details_btn_height" android:layout_centerInParent="true" />
+        </com.meizu.cloud.app.widget.NoClipRelativeLayout>
+    </RelativeLayout>
+    <com.meizu.cloud.app.widget.LoadDataView android:id="@id/load_data_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

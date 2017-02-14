@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/notification" android:key="notification"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.meizu.common.preference.SwitchPreference android:title="@string/updateNotify" android:key="update_notify" android:summary="@string/updateNotify_tip" android:defaultValue="true" />
+    <com.meizu.common.preference.SwitchPreference android:title="@string/recommendNotify" android:key="recommend_notify" android:summary="@string/recommendNotify_tip" android:defaultValue="true" />
+</PreferenceScreen>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent">
+
+    <android.support.v4.view.ViewPager
+        android:id="@id/base_pager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:overScrollMode="never"/>
+
+    <View
+        android:id="@id/cover_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/pop_window_bg"
+        android:focusable="true"
+        android:visibility="invisible"/>
+
+    <LinearLayout
+        android:id="@id/layout_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <com.meizu.cloud.app.widget.FlowLayout
+            android:id="@id/flow_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/tab_pop_flow_padding_bottom"
+            android:layout_marginLeft="@dimen/tab_pop_padding_left"
+            android:layout_marginRight="@dimen/tab_pop_flow_padding_right"
+            android:layout_marginTop="@dimen/tab_pop_flow_padding_top"
+            android:gravity="top"/>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/multi_tab_divider_height"
+            android:background="@drawable/add_comment_divider_bg_color"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@id/layout_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:background="@color/white"
+        android:paddingLeft="@dimen/tab_pop_padding_left">
+
+        <View
+            android:id="@id/bar"
+            android:layout_width="@dimen/common_block_title_bar_width"
+            android:layout_height="@dimen/common_block_title_bar_height"
+            android:layout_centerVertical="true"
+            android:background="@color/theme_color"/>
+
+        <TextView
+            android:id="@id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/common_block_title_inner_margin"
+            android:layout_toRightOf="@id/bar"
+            android:textColor="@color/common_block_title_text_color"
+            android:textSize="@dimen/common_block_item_title_text_size"/>
+
+        <ImageView
+            android:id="@id/btn_folder"
+            style="@style/Widget.Flyme.AppCompat.Light.TabContainerCollapseButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:rotation="180.0"/>
+    </RelativeLayout>
+
+    <com.meizu.cloud.app.widget.LoadDataView
+        android:id="@id/load_data_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="gone"/>
+</FrameLayout>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@id/maininfo_appinfo_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/app_info_head_margin_top"
+        android:paddingEnd="@dimen/app_info_head_padding_right"
+        android:paddingStart="@dimen/app_info_padding_left"
+        android:visibility="visible">
+
+        <ImageView
+            android:id="@id/app_image"
+            android:layout_width="@dimen/app_info_image_width"
+            android:layout_height="@dimen/app_info_image_width"
+            android:scaleType="fitXY"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_toEndOf="@id/app_image"
+            android:orientation="vertical"
+            android:paddingBottom="2.0dip"
+            android:paddingStart="@dimen/app_info_app_name_paddingleft">
+
+            <com.meizu.cloud.app.widget.MarqueeTextView
+                android:id="@id/app_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:gravity="center_vertical"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:maxWidth="@dimen/app_info_app_name_maxwidth"
+                android:scrollHorizontally="true"
+                android:singleLine="true"
+                android:textColor="@color/app_info_app_name_color"
+                android:textSize="18.0sp"/>
+
+            <LinearLayout
+                android:id="@id/star_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1.0dip"
+                android:orientation="horizontal">
+
+                <com.meizu.cloud.app.widget.BaseStarRateWidget
+                    android:id="@id/app_star_view"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"/>
+
+                <TextView
+                    android:id="@id/comment_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginBottom="1.0dip"
+                    android:paddingStart="@dimen/app_info_app_star_paddingleft"
+                    android:textColor="#48000000"
+                    android:textSize="@dimen/app_info_text_count_size"/>
+            </LinearLayout>
+
+            <TextView
+                android:id="@id/app_sizeinstall_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="@dimen/app_info_appsize_margin_top"
+                android:maxWidth="@dimen/app_info_app_name_maxwidth"
+                android:singleLine="true"
+                android:textColor="@color/block_app_recom_color"
+                android:textSize="@dimen/app_info_text_size"/>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@id/app_details_floating_view"
+            android:layout_width="@dimen/app_info_activity_icon_width"
+            android:layout_height="@dimen/app_info_activity_icon_height"
+            android:layout_alignParentEnd="true"
+            android:scaleType="fitXY"
+            android:visibility="gone"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/app_info_recom_des_margintop"
+        android:orientation="vertical"
+        android:paddingEnd="@dimen/app_info_padding_right"
+        android:paddingStart="@dimen/app_info_padding_left">
+
+        <RelativeLayout
+            android:id="@id/main_info_app_recomdes_view"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@id/appinfo_des_ivleft"
+                    android:layout_width="@dimen/app_info_recom_desicon_width"
+                    android:layout_height="@dimen/app_info_recom_desicon_height"
+                    android:layout_marginTop="4.0dip"
+                    android:src="@drawable/quote_up"/>
+
+                <TextView
+                    android:id="@id/app_recom_descriptions_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:gravity="center_horizontal"
+                    android:lineSpacingExtra="@dimen/app_info_recom_des_linespace"
+                    android:maxHeight="@dimen/app_info_recom_des_minheight"
+                    android:maxLines="2"
+                    android:maxWidth="@dimen/app_info_recom_des_maxwidth"
+                    android:paddingEnd="@dimen/app_info_recom_des_paddingright"
+                    android:paddingStart="@dimen/app_info_recom_des_paddingleft"
+                    android:textColor="@color/app_info_desc_text_color"
+                    android:textSize="16.0sp"/>
+
+                <ImageView
+                    android:id="@id/appinfo_des_ivright"
+                    android:layout_width="@dimen/app_info_recom_desicon_width"
+                    android:layout_height="@dimen/app_info_recom_desicon_height"
+                    android:layout_marginTop="4.0dip"
+                    android:src="@drawable/quote_down"/>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <com.meizu.common.widget.FoldableTextView
+            android:id="@id/app_info_abridge_desc"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="@dimen/app_info_recom_des_linespace"
+            android:textColor="@color/app_info_desc_text_color"
+            android:textSize="@dimen/app_info_text_size"
+            android:visibility="gone"
+            app:mzMaxFoldLine="3"
+            app:mzTextUnfold=" "/>
+
+        <TextView
+            android:id="@id/maininfo_more_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/app_info_learnmore_divider_margintop"
+            android:clickable="true"
+            android:gravity="center_horizontal"
+            android:singleLine="true"
+            android:text="@string/details_appinfo_recomdes_more"
+            android:textColor="@color/theme_color"
+            android:textSize="@dimen/app_info_learnmore_textsize"
+            android:visibility="gone"/>
+
+        <com.meizu.cloud.app.widget.HeightAnimationLayout
+            android:id="@id/app_info_detail_desc"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@id/app_info_install_desc_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/app_info_app_name_color"
+                android:textSize="@dimen/app_info_text_size"
+                android:visibility="gone"/>
+
+            <TextView
+                android:id="@id/app_info_install_desc"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12.0dip"
+                android:lineSpacingExtra="3.0dip"
+                android:textColor="@color/app_info_desc_text_color"
+                android:textSize="@dimen/app_info_text_size"
+                android:visibility="gone"/>
+
+            <TextView
+                android:id="@id/app_info_update_desc_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="36.0dip"
+                android:textColor="@color/app_info_app_name_color"
+                android:textSize="@dimen/app_info_text_size"
+                android:visibility="gone"/>
+
+            <TextView
+                android:id="@id/app_info_update_desc"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="24.0dip"
+                android:layout_marginTop="12.0dip"
+                android:lineSpacingExtra="3.0dip"
+                android:textColor="@color/app_info_desc_text_color"
+                android:textSize="@dimen/app_info_text_size"
+                android:visibility="gone"/>
+        </com.meizu.cloud.app.widget.HeightAnimationLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/app_info_devider_height"
+        android:layout_marginEnd="@dimen/app_info_padding_right"
+        android:layout_marginStart="@dimen/app_info_padding_left"
+        android:layout_marginTop="@dimen/app_info_learnmore_divider_margintop"
+        android:background="@color/common_list_item_divider"/>
+
+    <LinearLayout
+        android:id="@id/surrounding_entrance_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/app_info_game_surroundview_height"
+            android:orientation="horizontal"
+            android:paddingEnd="@dimen/app_info_game_surroundview_paddingright"
+            android:paddingStart="@dimen/app_info_game_surroundview_paddingleft">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:maxWidth="@dimen/app_info_game_surroundview_title_maxwidth"
+                android:singleLine="true"
+                android:text="@string/details_appinfo_gamesurround_title"
+                android:textColor="@color/block_app_recom_color"
+                android:textSize="@dimen/app_info_game_surroundview_title_textsize"/>
+
+            <Button
+                android:id="@id/surround_entrance_first"
+                android:layout_width="@dimen/app_info_game_surroundview_item_width"
+                android:layout_height="@dimen/app_info_game_surroundview_item_height"
+                android:layout_gravity="center_vertical"
+                android:clickable="true"
+                android:gravity="center"
+                android:textColor="@color/block_game_quality_title_color"
+                android:textSize="@dimen/app_info_game_surroundview_title_textsize"
+                android:visibility="gone"/>
+
+            <Button
+                android:id="@id/surround_entrance_second"
+                android:layout_width="@dimen/app_info_game_surroundview_item_width"
+                android:layout_height="@dimen/app_info_game_surroundview_item_height"
+                android:layout_gravity="center_vertical"
+                android:layout_marginStart="@dimen/app_info_game_surroundview_item_margin"
+                android:clickable="true"
+                android:gravity="center"
+                android:textColor="@color/block_game_quality_title_color"
+                android:textSize="@dimen/app_info_game_surroundview_title_textsize"
+                android:visibility="gone"/>
+
+            <Button
+                android:id="@id/surround_entrance_third"
+                android:layout_width="@dimen/app_info_game_surroundview_item_width"
+                android:layout_height="@dimen/app_info_game_surroundview_item_height"
+                android:layout_gravity="center_vertical"
+                android:layout_marginStart="@dimen/app_info_game_surroundview_item_margin"
+                android:clickable="true"
+                android:gravity="center"
+                android:textColor="@color/block_game_quality_title_color"
+                android:textSize="@dimen/app_info_game_surroundview_title_textsize"
+                android:visibility="gone"/>
+
+            <Button
+                android:id="@id/surround_entrance_fourth"
+                android:layout_width="@dimen/app_info_game_surroundview_item_width"
+                android:layout_height="@dimen/app_info_game_surroundview_item_height"
+                android:layout_gravity="center_vertical"
+                android:layout_marginStart="@dimen/app_info_game_surroundview_item_margin"
+                android:clickable="true"
+                android:gravity="center"
+                android:textColor="@color/block_game_quality_title_color"
+                android:textSize="@dimen/app_info_game_surroundview_title_textsize"
+                android:visibility="gone"/>
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/app_info_devider_height"
+            android:layout_marginEnd="@dimen/app_info_padding_right"
+            android:layout_marginStart="@dimen/app_info_padding_left"
+            android:background="@color/common_list_item_divider"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/title_layout"
+              xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:gravity="bottom"
+              android:minHeight="@dimen/mz_group_interval_header_minHeight"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@android:id/text2"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/mz_list_card_2_little_title_height"
+        android:background="@color/mz_list_text_color_alpha_4"
+        android:gravity="center_vertical"
+        android:paddingLeft="?android:listPreferredItemPaddingLeft"
+        android:paddingRight="?android:listPreferredItemPaddingRight"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:textStyle="bold"
+        android:visibility="visible"/>
+
+    <TextView
+        android:id="@android:id/text1"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/mz_list_card_2_title_height"
+        android:background="@color/mz_list_text_color_alpha_4"
+        android:gravity="center_vertical"
+        android:paddingLeft="?android:listPreferredItemPaddingLeft"
+        android:paddingRight="?android:listPreferredItemPaddingRight"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:textColor="@color/mz_action_bar_subtitle_color"
+        android:textSize="@dimen/mz_list_card_2_title_text_size"
+        android:visibility="gone"/>
+</LinearLayout>

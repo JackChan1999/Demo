@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/divider1" android:background="@color/divider_color" android:layout_width="fill_parent" android:layout_height="@dimen/common_list_divider_height" android:layout_marginLeft="@dimen/common_list_margin_left" android:layout_marginRight="@dimen/common_list_margin_right" />
+    <com.meizu.cloud.app.widget.FlowLayout android:gravity="top" android:id="@id/flow_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/ad_content_margin_left" android:layout_marginTop="@dimen/ad_content_margin_top" android:layout_marginRight="@dimen/ad_content_margin_right" android:layout_marginBottom="@dimen/ad_content_margin_bottom" android:layout_below="@id/divider1" />
+    <View android:id="@id/divider2" android:background="@color/divider_color" android:layout_width="fill_parent" android:layout_height="@dimen/common_list_divider_height" android:layout_marginLeft="@dimen/common_list_margin_left" android:layout_marginRight="@dimen/common_list_margin_right" android:layout_below="@id/flow_layout" />
+</RelativeLayout>

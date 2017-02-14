@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent">
+
+    <FrameLayout
+        android:id="@id/app_info_details_contains"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <com.meizu.cloud.detail.anim.PullToZoomGroup
+            android:id="@id/app_details_pulltozoom_groupview"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/>
+
+        <RelativeLayout
+            android:id="@id/app_details_topview"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <ViewFlipper
+                android:id="@id/app_details_topnotif"
+                layout="@layout/app_details_topnotif_view"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"/>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="15.0dip"
+                android:scaleType="fitXY"
+                android:src="@drawable/install_button_shadow"
+                android:visibility="gone"/>
+
+            <RelativeLayout
+                android:id="@id/install_view_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/app_info_bottom_height"
+                android:layout_alignParentBottom="true"
+                android:background="@color/block_game_quality_title_color"
+                android:visibility="gone">
+
+                <View
+                    android:id="@id/button_divivder"
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.6700001dip"
+                    android:background="#33000000"/>
+
+                <com.meizu.cloud.app.widget.AnimDownloadProgressButton
+                    android:id="@id/round_corner_button"
+                    android:layout_width="@dimen/app_info_round_corner_button_width"
+                    android:layout_height="38.0dip"
+                    android:layout_centerInParent="true"
+                    android:textColor="@color/rcpb_normal_text_color"
+                    android:textSize="18.0sp"
+                    android:visibility="gone"/>
+
+                <FrameLayout
+                    android:id="@id/try_install_layout"
+                    android:layout_width="286.0dip"
+                    android:layout_height="38.0dip"
+                    android:layout_centerInParent="true"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@id/try_install_btn"
+                        android:layout_width="@dimen/app_info_try_install_btn_width"
+                        android:layout_height="38.0dip"
+                        android:layout_gravity="left"
+                        android:background="@drawable/rcpb_try_bg_normal"
+                        android:clickable="true"
+                        android:gravity="center"
+                        android:text="试用"
+                        android:textColor="@color/rcpb_normal_text_color"
+                        android:textSize="18.0sp"/>
+
+                    <TextView
+                        android:id="@id/price_install_btn"
+                        android:layout_width="@dimen/app_info_price_install_btn_width"
+                        android:layout_height="38.0dip"
+                        android:layout_gravity="right"
+                        android:background="@drawable/rcpb_try_bg_normal"
+                        android:clickable="true"
+                        android:gravity="center"
+                        android:text="￥3.89"
+                        android:textColor="@color/rcpb_normal_text_color"
+                        android:textSize="18.0sp"/>
+                </FrameLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+    </FrameLayout>
+
+    <com.meizu.cloud.app.widget.LoadDataView
+        android:id="@id/load_data_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="gone"/>
+</FrameLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:gravity="center" android:id="@id/comment_onestar_resaon" android:background="@drawable/multi_btn_flow_selector" android:clickable="true" android:layout_width="@dimen/app_info_add_comment_onestar_itemwidth" android:layout_height="@dimen/app_info_add_comment_onestar_itemheight" android:layout_margin="@dimen/app_info_add_comment_onestar_itemmargin" />
+    </RelativeLayout>
+</LinearLayout>

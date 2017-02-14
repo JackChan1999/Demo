@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/prv/res/android"
+                  xmlns:android1="http://schemas.android.com/apk/res/android"
+                  android:key="main"
+                  android:title="@string/settings">
+    <PreferenceCategory android1:title="@string/save_flow_setting">
+        <com.meizu.common.preference.SwitchPreference
+            android1:summary="@string/auto_downlad_tip"
+            android:defaultValue="true"
+            android:key="auto_downlad"
+            android:title="@string/auto_downlad"/>
+        <com.meizu.common.preference.SwitchPreference
+            android1:summary="@string/auto_install_tips"
+            android:defaultValue="true"
+            android:key="auto_install"
+            android:title="@string/auto_install"/>
+    </PreferenceCategory>
+    <PreferenceCategory android1:title="@string/install_manage">
+        <com.meizu.common.preference.SwitchPreference
+            android1:summary="@string/delete_apk_subtitle"
+            android:defaultValue="true"
+            android:key="delete_apk"
+            android:title="@string/delete_apk_title"/>
+        <PreferenceScreen
+            android:key="auto_update_exclude"
+            android:title="@string/auto_update_exclude"/>
+    </PreferenceCategory>
+    <PreferenceCategory android1:title="@string/other">
+        <PreferenceScreen
+            android:key="notification"
+            android:title="@string/notification"/>
+        <com.meizu.common.preference.SwitchPreference
+            android:defaultValue="true"
+            android:key="filter_app"
+            android:title="@string/install_filtered_title"/>
+        <com.meizu.common.preference.SwitchPreference
+            android:defaultValue="false"
+            android:key="plugin_swicher"
+            android:title="@string/plugin_app"/>
+        <PreferenceScreen
+            android:key="about"
+            android:title="@string/about"/>
+    </PreferenceCategory>
+</PreferenceScreen>

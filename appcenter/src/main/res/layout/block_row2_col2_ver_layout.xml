@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:paddingLeft="@dimen/block_layout_paddingleft" android:paddingRight="@dimen/block_layout_paddingleft" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:id="@id/block_row1col2_veritem1" android:layout_width="@dimen/block_row1col2_ver_item_width" android:layout_height="wrap_content" layout="@layout/block_row1_col2_ver_item" />
+        <View android:layout_gravity="bottom" android:background="@color/common_block_title_split_color" android:layout_width="@dimen/block_row1col2_ver_divider_width" android:layout_height="@dimen/block_row2col2_ver_divider_height" android:layout_marginStart="@dimen/block_row1col2_ver_divider_paddingleft" />
+        <include android:id="@id/block_row1col2_veritem2" android:layout_width="@dimen/block_row1col2_ver_item_width" android:layout_height="wrap_content" android:layout_marginStart="@dimen/block_row1col2_ver_divider_paddingleft" layout="@layout/block_row1_col2_ver_item" />
+    </LinearLayout>
+    <View android:background="@color/common_block_title_split_color" android:layout_width="fill_parent" android:layout_height="@dimen/common_block_item_title_split_height" android:layout_marginStart="@dimen/block_layout_paddingleft" android:layout_marginEnd="@dimen/block_layout_paddingright" />
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:paddingLeft="@dimen/block_layout_paddingleft" android:paddingRight="@dimen/block_layout_paddingleft" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:id="@id/block_row1col2_veritem3" android:layout_width="@dimen/block_row1col2_ver_item_width" android:layout_height="wrap_content" android:layout_marginTop="@dimen/block_layout_paddingleft" layout="@layout/block_row1_col2_ver_item" />
+        <View android:layout_gravity="top" android:background="@color/common_block_title_split_color" android:layout_width="@dimen/block_row1col2_ver_divider_width" android:layout_height="@dimen/block_row2col2_ver_divider_height" android:layout_marginStart="@dimen/block_row1col2_ver_divider_paddingleft" />
+        <include android:id="@id/block_row1col2_veritem4" android:layout_width="@dimen/block_row1col2_ver_item_width" android:layout_height="wrap_content" android:layout_marginTop="@dimen/block_layout_paddingleft" android:layout_marginStart="@dimen/block_row1col2_ver_divider_paddingleft" layout="@layout/block_row1_col2_ver_item" />
+    </LinearLayout>
+    <View android:id="@id/block_divider" android:background="@color/common_block_title_split_color" android:layout_width="fill_parent" android:layout_height="@dimen/common_block_item_title_split_height" android:layout_marginStart="@dimen/block_layout_paddingleft" android:layout_marginEnd="@dimen/block_layout_paddingright" />
+</LinearLayout>

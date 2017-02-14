@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/main_layout"
+              xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical">
+
+    <include layout="@layout/wizard_list_header"/>
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0.0dip"
+        android:layout_weight="1.0">
+
+        <TextView
+            android:id="@id/txt_empty"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/wizard_empty_margin_top"
+            android:gravity="center_horizontal"
+            android:visibility="gone"/>
+
+        <com.meizu.cloud.app.widget.LoadDataView
+            android:id="@id/load_data_view"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:visibility="gone"/>
+
+        <flyme.support.v7.widget.MzRecyclerView
+            android:id="@id/recyclerView"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#fffafafa"
+            android:clipChildren="false"
+            android:clipToPadding="false"
+            android:fadeScrollbars="false"
+            android:scrollbars="vertical"
+            android:splitMotionEvents="false"/>
+    </FrameLayout>
+
+    <RelativeLayout
+        android:id="@id/ll_wizard_bottom_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="48.0dip">
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.6dip"
+            android:alpha="0.15"
+            android:background="@android:color/black"/>
+
+        <Button
+            android:id="@id/btnSkip"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="@dimen/mc_smartbarbar_divider_height"
+            android:layout_toStartOf="@id/imageView2"
+            android:alpha="0.8"
+            android:background="@drawable/btn_bottom_bar_selector"
+            android:text="@string/skip"
+            android:textColor="@android:color/black"
+            android:textSize="16.0sp"/>
+
+        <ImageView
+            android:id="@id/imageView2"
+            android:layout_width="1.0dip"
+            android:layout_height="24.0dip"
+            android:layout_centerInParent="true"
+            android:adjustViewBounds="true"
+            android:background="@android:drawable/divider_horizontal_bright"
+            android:clickable="false"
+            android:contentDescription="@null"
+            android:focusable="false"
+            android:visibility="invisible"/>
+
+        <Button
+            android:id="@id/btnInstall"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="@dimen/mc_smartbarbar_divider_height"
+            android:layout_toEndOf="@id/imageView2"
+            android:background="@drawable/btn_bottom_bar_selector"
+            android:text="@string/install_now"
+            android:textSize="16.0sp"/>
+    </RelativeLayout>
+</LinearLayout>

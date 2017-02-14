@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">48.0dip</dimen>
+    <dimen name="abc_action_bar_default_padding_material">0.0dip</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32.0dip</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12.0dip</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14.0dip</dimen>
+    <dimen name="mc_custom_time_picker_icon_marginTop">17.5dip</dimen>
+    <dimen name="mc_custom_time_picker_padding">28.0dip</dimen>
+    <dimen name="mc_custom_time_picker_picker_height">136.0dip</dimen>
+    <dimen name="mc_custom_time_picker_select_h">41.599976dip</dimen>
+    <dimen name="mc_custom_time_picker_tab_height">41.0dip</dimen>
+    <dimen name="mc_custom_time_picker_tab_text_height">41.0dip</dimen>
+    <dimen name="mz_alert_dialog_max_height">336.0dip</dimen>
+    <dimen name="mz_card_list_item_padding_left">0.0dip</dimen>
+    <dimen name="mz_card_list_item_padding_right">0.0dip</dimen>
+    <dimen name="mz_group_list_footer_height">30.399994dip</dimen>
+    <dimen name="mz_list_item_padding_left">0.0dip</dimen>
+    <dimen name="mz_list_item_padding_right">0.0dip</dimen>
+</resources>

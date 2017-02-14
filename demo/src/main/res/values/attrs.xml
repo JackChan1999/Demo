@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ToggleButton66">
+        <attr name="isOpen" format="boolean"/>
+        <attr name="slide" format="reference"/>
+    </declare-styleable>
+
+</resources>

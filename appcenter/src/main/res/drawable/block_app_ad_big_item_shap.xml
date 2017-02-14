@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/block_rolling_play_item_image_radius" />
+    <solid android:color="#ffffffff" />
+    <stroke android:width="0.30000007dip" android:color="#14000000" />
+</shape>

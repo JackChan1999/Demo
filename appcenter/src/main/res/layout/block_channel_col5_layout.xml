@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="@dimen/block_channel_layout_paddingbottom"
+        android:paddingEnd="@dimen/block_layout_paddingright"
+        android:paddingStart="@dimen/block_layout_paddingleft"
+        android:paddingTop="@dimen/block_channel_layout_paddingtop">
+
+        <include
+            android:id="@id/channel_item1"
+            layout="@layout/block_channel_item_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <include
+            android:id="@id/channel_item2"
+            layout="@layout/block_channel_item_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/block_channel_item_padding"/>
+
+        <include
+            android:id="@id/channel_item3"
+            layout="@layout/block_channel_item_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/block_channel_item_padding"/>
+
+        <include
+            android:id="@id/channel_item4"
+            layout="@layout/block_channel_item_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/block_channel_item_padding"/>
+
+        <include
+            android:id="@id/channel_item5"
+            layout="@layout/block_channel_item_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/block_channel_item_padding"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/block_divider_viewbg_height"
+        android:background="@color/block_divider_viewbg_color"/>
+</LinearLayout>

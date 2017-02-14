@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:id="@id/tab_title"
+          xmlns:android="http://schemas.android.com/apk/res/android"
+          android:layout_width="wrap_content"
+          android:layout_height="fill_parent"
+          android:gravity="center"
+          android:paddingLeft="@dimen/pager_title_margin_lr"
+          android:paddingRight="@dimen/pager_title_margin_lr"
+          android:text="tab_title"
+          android:textColor="@color/pager_title_text"
+          android:textSize="@dimen/pager_title_size"/>

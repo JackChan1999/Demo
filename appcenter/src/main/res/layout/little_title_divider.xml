@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<View android:id="@id/divider"
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      android:layout_width="fill_parent"
+      android:layout_height="@dimen/category_divider_bar_height"
+      android:layout_below="@id/main_layout"
+      android:background="@color/common_list_item_bar"
+      android:enabled="false"/>

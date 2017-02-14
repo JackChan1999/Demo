@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent"
+             android:layout_marginBottom="@dimen/wizard_item_margin_bottom"
+             android:background="@null"
+             android:clickable="false">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/wizard_title_margin_left"
+        android:layout_marginTop="@dimen/wizard_title_margin_top"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <com.meizu.flyme.appcenter.widget.TextViewVertical
+            android:id="@id/textTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="音乐视频"
+            android:textColor="@color/wizard_title_text"
+            android:textSize="@dimen/wizard_title_text_size"/>
+
+        <View
+            android:layout_width="@dimen/wizard_title_line_width"
+            android:layout_height="@dimen/wizard_title_line_height"
+            android:layout_marginTop="@dimen/wizard_title_line_margin_top"
+            android:background="@color/wizard_title_line"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/wizard_item_margin_left"
+        android:layout_marginRight="@dimen/wizard_item_margin_right"
+        android:background="@null">
+
+        <com.meizu.flyme.appcenter.widget.AppCheckableAppItemView
+            android:id="@id/appItem1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/mz_list_selector_background"
+            android:clickable="true"
+            android:visibility="gone"/>
+
+        <com.meizu.flyme.appcenter.widget.AppCheckableAppItemView
+            android:id="@id/appItem2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/mz_list_selector_background"
+            android:clickable="true"
+            android:visibility="gone"/>
+
+        <com.meizu.flyme.appcenter.widget.AppCheckableAppItemView
+            android:id="@id/appItem3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/mz_list_selector_background"
+            android:clickable="true"
+            android:visibility="gone"/>
+    </RelativeLayout>
+</FrameLayout>

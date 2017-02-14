@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:id="@id/layout_item" android:layout_width="fill_parent" android:layout_height="@dimen/video_large_image_height" android:layout_marginLeft="@dimen/common_list_margin_left" android:layout_marginRight="@dimen/common_list_margin_right" android:layout_marginBottom="@dimen/video_item_margin_vertical" app:cardCornerRadius="@dimen/video_card_radius"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/image" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/image_background" android:scaleType="fitXY" />
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="bottom" android:orientation="vertical" android:id="@id/layout_text" android:background="@color/video_text_bg_color" android:padding="@dimen/video_large_text_layout_padding" android:layout_width="fill_parent" android:layout_height="@dimen/video_large_text_layout_height">
+        <TextView android:textSize="16.0sp" android:textColor="@color/video_text_title_color" android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/txt_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="极品飞车17单挑" android:maxLines="1" android:includeFontPadding="false" />
+        <TextView android:textSize="14.0sp" android:textColor="@color/video_text_desc_color" android:ellipsize="end" android:id="@id/txt_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/video_large_text_inner_margin" android:text="赛车|体育竞技" android:maxLines="2" android:includeFontPadding="false" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/mc_search_layout_container" android:paddingLeft="@dimen/mc_search_layout_padding_left" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="@dimen/mc_search_layout_padding_right" layout="@layout/mc_search_layout" />
+</LinearLayout>

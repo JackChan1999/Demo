@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+    <GridLayout
+        android:id="@id/gridlayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/category_card_padding_bottom"
+        android:layout_marginLeft="@dimen/category_card_padding_left"
+        android:layout_marginRight="@dimen/category_card_padding_right"
+        android:layout_marginTop="@dimen/category_card_padding_top"
+        android:columnCount="2"
+        android:orientation="horizontal"
+        android:splitMotionEvents="false"/>
+
+    <View
+        android:id="@id/divider"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/category_divider_bar_height"
+        android:layout_below="@id/gridlayout"
+        android:background="@color/common_list_item_bar"/>
+</RelativeLayout>

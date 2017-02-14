@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_share" android:id="@id/share_menu" android:visible="false" android:title="@string/share" android:showAsAction="always" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_sb_search" android:id="@id/search_menu" android:visible="false" android:title="@android:string/search_go" android:showAsAction="always" app:showAsAction="always" />
+</menu>

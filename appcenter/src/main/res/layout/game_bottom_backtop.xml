@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/frame"
+             xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:src="@drawable/game_backtop_bottomstar"/>
+
+    <ImageView
+        android:id="@id/leftcloud"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|left|center"
+        android:src="@drawable/game_backtop_leftcloud"/>
+
+    <ImageView
+        android:id="@id/rightcloud"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|right|center"
+        android:src="@drawable/game_backtop_rightcloud"/>
+
+    <ImageView
+        android:id="@id/leftstar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|left|center"
+        android:src="@drawable/game_backtop_leftstar"/>
+
+    <ImageView
+        android:id="@id/topPic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:src="@drawable/game_backtop_icon"/>
+
+    <ImageView
+        android:id="@id/bottompic"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:scaleType="fitCenter"
+        android:src="@drawable/game_backtop_bottom"/>
+</FrameLayout>

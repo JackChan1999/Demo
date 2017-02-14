@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_install_btn_size">13.0sp</dimen>
+    <dimen name="update_record_btn_size">14.0sp</dimen>
+</resources>

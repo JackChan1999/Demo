@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="ic_game_detial_gift" />
+    <item type="drawable" name="ic_launcher" />
+    <item type="drawable" name="ic_praise_on" />
+    <item type="drawable" name="ic_status_notification" />
+    <item type="drawable" name="mz_full_screen_picture_scrollbar" />
+    <item type="drawable" name="mz_stat_sys_appcenter" />
+    <item type="drawable" name="mz_stat_sys_appcenter_error" />
+    <item type="drawable" name="mz_stat_sys_appcenter_succeed" />
+    <item type="drawable" name="add_comment_divider_bg_color">#33000000</item>
+    <item type="drawable" name="comment_onestar_bg_checked">#ff0000aa</item>
+    <item type="drawable" name="comment_onestar_bg_unchecked">#ffffffff</item>
+    <item type="drawable" name="mz_background_dark">@color/mz_background_dark</item>
+    <item type="drawable" name="mz_background_light">@color/mz_background_light</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="plugin_appdefault_ic" />
+</resources>

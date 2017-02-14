@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@drawable/sensitive_word_remind_bg" android:layout_width="wrap_content" android:layout_height="@dimen/comment_sensitive_remind_view_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/app_info_addcomment_size" android:textColor="#ffffffff" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/comment_sensitive_remind_text_marginleft" android:layout_marginTop="@dimen/comment_sensitive_remind_text_margintop" android:layout_marginRight="@dimen/comment_sensitive_remind_text_marginright" android:text="@string/add_comment_sensitive_words_remind" />
+</FrameLayout>

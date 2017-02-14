@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@drawable/mz_list_selector_background" android:paddingLeft="@dimen/common_list_margin_left" android:paddingRight="@dimen/common_list_margin_right" android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="@dimen/app_update_exclude_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/app_image" android:layout_width="@dimen/app_update_exclude_item_icon" android:layout_height="@dimen/app_update_exclude_item_icon" />
+    <RelativeLayout android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/app_update_exclude_item_title_ml" android:layout_weight="1.0">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/app_update_exclude_item_title_size" android:gravity="center_vertical" android:id="@id/app_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="200.0dip" android:singleLine="true" android:layout_centerVertical="true" />
+        <com.meizu.common.widget.Switch android:id="@id/app_switch" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        <View android:id="@id/divider" android:background="@color/common_list_item_divider" android:layout_width="fill_parent" android:layout_height="@dimen/common_list_divider_height" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</LinearLayout>

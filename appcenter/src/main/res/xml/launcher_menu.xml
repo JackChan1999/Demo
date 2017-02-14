@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launcher_menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <menu android:title="@string/smartbar_search" data="flyme_3dtouch://com.meizu.mstore/search" icon="" />
+</launcher_menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:layout_width="fill_parent" android:layout_height="@dimen/video_small_image_height" app:cardElevation="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/image" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/image_background" android:scaleType="fitXY" />
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="bottom" android:orientation="vertical" android:id="@id/layout_text" android:background="@color/video_text_bg_color" android:paddingLeft="@dimen/video_small_text_layout_padding_left" android:paddingRight="@dimen/video_small_text_layout_padding_right" android:layout_width="fill_parent" android:layout_height="@dimen/video_small_text_layout_height">
+        <TextView android:textSize="@dimen/video_text_title_size" android:textColor="@color/video_text_title_color" android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/txt_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:includeFontPadding="false" />
+        <TextView android:textSize="@dimen/video_text_desc_size" android:textColor="@color/video_text_desc_color" android:ellipsize="end" android:id="@id/txt_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/video_small_text_inner_margin" android:maxLines="1" android:includeFontPadding="false" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>

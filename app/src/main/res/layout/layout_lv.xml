@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+    <data>
+        <variable
+            name="adapter"
+            type="android.widget.BaseAdapter"/>
+    </data>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:adapter="@{adapter}"/>
+    <!--因为ListView有setAdapter()方法，所以这里可以使用app:adapter属性-->
+</layout>

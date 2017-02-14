@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.meizu.common.widget.LimitedWHLinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/root" android:background="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="18.0sp" android:textColor="#cc000000" android:ellipsize="end" android:layout_gravity="center_horizontal" android:id="@id/alertTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="28.0dip" android:layout_marginBottom="14.0dip" android:text="@string/share" android:singleLine="true" android:includeFontPadding="false" />
+    <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <GridView android:id="@id/share_list" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="27.0dip" android:layout_marginRight="27.0dip" android:layout_marginBottom="35.0dip" android:listSelector="@color/transparent" android:horizontalSpacing="15.0dip" android:verticalSpacing="12.0dip" android:stretchMode="columnWidth" android:numColumns="3" />
+    </LinearLayout>
+</com.meizu.common.widget.LimitedWHLinearLayout>

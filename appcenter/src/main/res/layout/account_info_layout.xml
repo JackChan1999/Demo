@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/mz_list_selector_background" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/main_layout" android:paddingLeft="@dimen/common_list_margin_left" android:paddingRight="@dimen/common_list_margin_right" android:layout_width="fill_parent" android:layout_height="@dimen/personal_user_height">
+        <com.meizu.cloud.app.widget.CircleImageView android:id="@id/account_picture" android:layout_width="@dimen/personal_user_image" android:layout_height="@dimen/personal_user_image" android:src="@drawable/ic_default_avatar" android:layout_centerVertical="true" />
+        <RelativeLayout android:id="@id/account_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="9.0dip" android:layout_toLeftOf="@id/right_arrow" android:layout_toRightOf="@id/account_picture" android:layout_centerVertical="true">
+            <TextView android:textSize="@dimen/personal_head_text" android:textColor="@color/title_color" android:id="@id/account_unlogin" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/unlogin" android:layout_centerVertical="true" />
+            <RelativeLayout android:id="@id/account_login" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true">
+                <TextView android:textSize="@dimen/personal_user_size" android:textColor="@color/title_color" android:id="@id/account_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/obtaining_account" android:singleLine="true" />
+                <TextView android:textSize="14.0sp" android:textColor="@color/desc_color" android:id="@id/account_balance" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/obtaining_balance" android:singleLine="true" android:layout_below="@id/account_name" />
+            </RelativeLayout>
+        </RelativeLayout>
+        <ImageView android:id="@id/right_arrow" android:layout_width="26.0dip" android:layout_height="26.0dip" android:layout_marginRight="8.0dip" android:src="@drawable/mz_arrow_next_right" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+</RelativeLayout>

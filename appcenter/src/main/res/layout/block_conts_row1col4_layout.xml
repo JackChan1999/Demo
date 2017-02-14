@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/block_conts_row1col4_layout_paddingtop"
+        android:orientation="horizontal"
+        android:paddingEnd="@dimen/block_conts_row1col4_layout_paddingright"
+        android:paddingStart="@dimen/block_conts_row1col4_layout_paddingleft">
+
+        <ImageView
+            android:id="@id/conts_row1col4_image1"
+            android:layout_width="@dimen/block_conts_row1col4_item_width"
+            android:layout_height="@dimen/block_conts_row1col4_item_height"
+            android:clickable="true"
+            android:scaleType="fitXY"
+            android:visibility="gone"/>
+
+        <ImageView
+            android:id="@id/conts_row1col4_image2"
+            android:layout_width="@dimen/block_conts_row1col4_item_width"
+            android:layout_height="@dimen/block_conts_row1col4_item_height"
+            android:layout_marginStart="@dimen/block_conts_row1col4_item_padding"
+            android:clickable="true"
+            android:scaleType="fitXY"
+            android:visibility="gone"/>
+
+        <ImageView
+            android:id="@id/conts_row1col4_image3"
+            android:layout_width="@dimen/block_conts_row1col4_item_width"
+            android:layout_height="@dimen/block_conts_row1col4_item_height"
+            android:layout_marginStart="@dimen/block_conts_row1col4_item_padding"
+            android:clickable="true"
+            android:scaleType="fitXY"
+            android:visibility="gone"/>
+
+        <ImageView
+            android:id="@id/conts_row1col4_image4"
+            android:layout_width="@dimen/block_conts_row1col4_item_width"
+            android:layout_height="@dimen/block_conts_row1col4_item_height"
+            android:layout_marginStart="@dimen/block_conts_row1col4_item_padding"
+            android:clickable="true"
+            android:scaleType="fitXY"
+            android:visibility="gone"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/block_divider_viewbg_height"
+        android:layout_marginTop="@dimen/block_divider_viewbg_paddingtop"
+        android:background="@color/block_divider_viewbg_color"/>
+</LinearLayout>

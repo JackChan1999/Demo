@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="item_divider">#ffd7d7d7</color>
+
+    <color name="color_ff">#F0F0F0</color>
+    <color name="color_00">#8A000000</color>
+    <color name="black">#dd000000</color>
+    <color name="rim">#34FFFFFF</color>
+    <color name="bar_color">#1A000001</color>
+    <color name="slidingmenu_background_light">#fff6f6f6</color>
+
+    <color name="default_theme_color">#ff32a5e7</color>
+    <color name="drawerscaledrawable_default_color">#ffa8a8a8</color>
+
+    <color name="smartbar_divider">#33000000</color>
+    <color name="smartbar_background">#d9ffffff</color>
+    <color name="titlebar_background">#e5ededed</color>
+    <color name="tip_color">#ff32a5e7</color>
+
+    <color name="cir_progress_button_blue">#ff32a5e3</color>
+    <color name="cir_progress_button_green">#ff99cc00</color>
+    <color name="cir_progress_button_grey">#ffdedede</color>
+    <color name="cir_progress_button_red">#ffff4444</color>
+    <color name="cir_progress_button_white">#fffafafa</color>
+
+</resources>

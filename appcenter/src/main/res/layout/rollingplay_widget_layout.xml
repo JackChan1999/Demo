@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/block_rolling_play_layout_margintop"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.meizu.cloud.app.widget.ChildViewPager android:layout_gravity="center" android:id="@id/viewPager" android:clipChildren="false" android:layout_width="@dimen/block_rolling_play_item_width" android:layout_height="@dimen/block_rolling_play_item_height" android:overScrollMode="never" />
+    <ImageView android:layout_gravity="bottom|center" android:id="@id/tab_container_background" android:background="@drawable/cover_shadow" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="90.0dip" android:scaleType="fitXY" />
+</FrameLayout>

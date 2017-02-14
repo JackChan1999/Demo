@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/comments_add_entrance" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="@dimen/app_info_add_comment_layout_height">
+        <TextView android:textSize="@dimen/app_info_game_surroundview_title_textsize" android:textColor="@color/block_app_recom_color" android:id="@id/omments_ratingbar_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/details_appinfo_addcomment_title" />
+        <RatingBar android:id="@id/comments_ratingbar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:numStars="5" android:stepSize="1.0" />
+    </LinearLayout>
+    <View android:id="@id/comments_add_entrance_dividerview" android:background="@color/block_divider_viewbg_color" android:layout_width="fill_parent" android:layout_height="@dimen/block_divider_viewbg_height" />
+    <LinearLayout android:orientation="vertical" android:id="@id/comment_block_lineralayout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="@dimen/app_info_comments_titlelayout_height" android:paddingStart="@dimen/app_info_padding_left" android:paddingEnd="@dimen/app_info_padding_right">
+            <View android:layout_gravity="center_vertical" android:background="@color/text_btn" android:layout_width="@dimen/common_block_title_bar_width" android:layout_height="@dimen/common_block_title_bar_height" />
+            <TextView android:textSize="@dimen/common_block_item_title_text_size" android:textColor="@color/common_block_title_text_color" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/common_block_title_inner_margin" android:text="@string/details_comments" android:singleLine="true" />
+        </LinearLayout>
+        <View android:background="@color/common_list_item_divider" android:layout_width="fill_parent" android:layout_height="@dimen/app_info_devider_height" android:layout_marginStart="@dimen/app_info_padding_left" android:layout_marginEnd="@dimen/app_info_padding_right" />
+        <com.meizu.cloud.app.widget.LinearLayoutForListView android:orientation="vertical" android:id="@id/comments_listview" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <RelativeLayout android:layout_gravity="center_horizontal" android:id="@id/comments_view_more" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/app_info_comments_more_margintop">
+            <TextView android:textSize="@dimen/app_info_app_name_size" android:textColor="@color/theme_color" android:id="@id/comments_viewmore_tx" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/details_appinfo_view_more_comments" android:singleLine="true" android:layout_centerVertical="true" />
+            <ImageView android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/mz_arrow_next_right" android:layout_toRightOf="@id/comments_viewmore_tx" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <View android:background="@color/block_divider_viewbg_color" android:layout_width="fill_parent" android:layout_height="@dimen/block_divider_viewbg_height" android:layout_marginTop="@dimen/app_info_comments_dividerview_margintop" />
+    </LinearLayout>
+</LinearLayout>

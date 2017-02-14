@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingLeft="@dimen/search_hot_item_padding_lr" android:paddingRight="@dimen/search_hot_item_padding_lr" android:layout_width="wrap_content" android:layout_height="@dimen/search_hot_item_height" android:maxWidth="290.0dip" android:minWidth="55.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/tag_text_size" android:textColor="@android:color/white" android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/tag1" android:paddingLeft="3.0dip" android:paddingRight="3.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/tag_height" android:layout_marginRight="@dimen/tag_text_margin_left" android:minWidth="@dimen/tag_width" android:singleLine="true" android:includeFontPadding="false" />
+    <TextView android:textSize="@dimen/search_hot_title_size" android:layout_gravity="center_vertical" android:id="@id/text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+</LinearLayout>

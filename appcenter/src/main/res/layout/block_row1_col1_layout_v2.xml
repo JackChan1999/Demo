@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="@drawable/mz_list_selector_background" android:paddingLeft="@dimen/common_list_margin_left" android:paddingRight="@dimen/common_list_margin_right_empty" android:layout_width="fill_parent" android:layout_height="100.0dip">
+        <ImageView android:id="@id/icon" android:layout_width="@dimen/common_block_big_icon_width" android:layout_height="@dimen/common_block_big_icon_height" android:scaleType="fitXY" android:layout_centerVertical="true" />
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:layout_toRightOf="@id/icon" android:paddingStart="14.0dip">
+            <LinearLayout android:id="@id/titleLayout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/title_text_size" android:textColor="@color/title_color" android:ellipsize="end" android:layout_gravity="center_horizontal" android:id="@id/text" android:layout_width="0.0dip" android:layout_height="wrap_content" android:singleLine="true" android:includeFontPadding="false" android:layout_weight="1.0" />
+                <com.meizu.cloud.app.widget.TagView android:layout_gravity="center_vertical" android:id="@id/app_tagview" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip">
+                <TextView android:textSize="12.0sp" android:textColor="@color/desc_color" android:ellipsize="end" android:id="@id/app_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" />
+                <TextView android:textSize="12.0sp" android:textColor="@color/desc_color" android:ellipsize="end" android:id="@id/app_install_count" android:paddingLeft="6.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" />
+            </LinearLayout>
+            <TextView android:textSize="12.0sp" android:textColor="@color/desc_color" android:ellipsize="end" android:id="@id/recommend_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:includeFontPadding="false" />
+        </LinearLayout>
+        <include android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginEnd="16.0dip" android:layout_alignParentEnd="true" layout="@layout/install_btn_layout" />
+    </RelativeLayout>
+    <View android:id="@id/block_divider" android:background="@color/common_block_title_split_color" android:layout_width="fill_parent" android:layout_height="@dimen/common_block_item_title_split_height" android:layout_marginStart="@dimen/block_layout_paddingleft" android:layout_marginEnd="@dimen/block_layout_paddingright" />
+    <View android:id="@id/list_last_bg_divider_view" android:background="@color/block_divider_viewbg_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/block_divider_viewbg_height" />
+</LinearLayout>

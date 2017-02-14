@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/comment_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/add_comment_ratingbar_margin_top" android:layout_centerHorizontal="true" />
+    <RatingBar android:id="@id/RatingBar01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:numStars="5" android:stepSize="1.0" android:layout_below="@id/comment_text" android:layout_centerHorizontal="true" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/RatingBar01">
+        <com.meizu.cloud.app.widget.GridLayoutForGridView android:id="@id/comment_onestar_gridview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:horizontalSpacing="17.0dip" android:verticalSpacing="10.0dip" android:columnCount="3" />
+        <EditText android:textSize="@dimen/app_info_addcomment_size" android:textColor="@color/add_comment_edittext_color" android:textColorHint="@color/add_comment_edittext_color_hint" android:gravity="center_vertical" android:id="@id/CommentEdit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/add_comment_edittext_margin_top" android:hint="@string/add_comment_input_comment" android:maxLines="3" android:maxLength="120" android:lineSpacingExtra="@dimen/add_comment_edittext_linespace_extra" android:imeOptions="actionDone" />
+    </FrameLayout>
+</RelativeLayout>

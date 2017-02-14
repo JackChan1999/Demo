@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/mz_list_selector_background" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/row1_col4_item_icon" android:layout_width="@dimen/block_row1col4_ver_item_width" android:layout_height="@dimen/block_row1col4_ver_item_height" android:scaleType="fitXY" />
+    <TextView android:textColor="#ff000000" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/row1col4_item_appname" android:paddingTop="@dimen/block_row1col4_ver_itemsize_paddingtop" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/common_block_button_width" android:singleLine="true" />
+    <include android:gravity="center" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/block_row1col4_ver_iteminstallbtn_margintop" layout="@layout/install_btn_layout" />
+</LinearLayout>

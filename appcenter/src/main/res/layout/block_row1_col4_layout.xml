@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/mz_list_selector_background" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:paddingTop="@dimen/block_layout_paddingleft" android:paddingBottom="@dimen/block_layout_paddingleft" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/block_row1col4_ver_item_paddingleft" android:paddingEnd="@dimen/block_row1col4_ver_item_paddingleft">
+        <include android:id="@id/block_row1col4_item1" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" layout="@layout/block_row1col4_item_view" />
+        <include android:id="@id/block_row1col4_item2" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" layout="@layout/block_row1col4_item_view" />
+        <include android:id="@id/block_row1col4_item3" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" layout="@layout/block_row1col4_item_view" />
+        <include android:id="@id/block_row1col4_item4" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" layout="@layout/block_row1col4_item_view" />
+    </LinearLayout>
+    <View android:background="@color/transparent" android:layout_width="fill_parent" android:layout_height="1.0px" />
+    <View android:id="@id/block_divider" android:background="@color/common_block_title_split_color" android:layout_width="fill_parent" android:layout_height="@dimen/common_block_item_title_split_height" android:layout_marginStart="@dimen/block_layout_paddingleft" android:layout_marginEnd="@dimen/block_layout_paddingright" />
+    <View android:id="@id/list_last_bg_divider_view" android:background="@color/block_divider_viewbg_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/block_divider_viewbg_height" />
+</LinearLayout>

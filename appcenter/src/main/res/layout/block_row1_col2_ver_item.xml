@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@drawable/mz_list_selector_background" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/row1_col2_veritem_appicon" android:layout_width="@dimen/block_row1col2_ver_itemicon_width" android:layout_height="@dimen/block_row1col2_ver_itemicon_height" android:scaleType="fitXY" />
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="@dimen/block_row1col2_ver_itemicon_height" android:paddingStart="@dimen/block_row1col2_ver_itemname_paddingleft">
+        <TextView android:textSize="@dimen/block_row1col2_ver_itemname_textsize" android:textColor="@color/block_app_name_color" android:gravity="center_vertical" android:id="@id/row1_col2_veritem_appname" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/block_row1col2_ver_itemname_maxwidth" android:singleLine="true" />
+        <TextView android:textSize="@dimen/block_row1col2_ver_itemsize_textsize" android:textColor="@color/block_app_recom_color" android:gravity="center_vertical" android:id="@id/row1_col2_veritem_appsize" android:paddingTop="@dimen/block_row1col2_ver_itemsize_paddingtop" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/block_row1col2_ver_itemname_maxwidth" android:singleLine="true" />
+        <include android:gravity="center" android:layout_gravity="end" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/block_row1col2_ver_iteminstallbtn_paddingtop" layout="@layout/install_btn_layout" />
+    </LinearLayout>
+</LinearLayout>

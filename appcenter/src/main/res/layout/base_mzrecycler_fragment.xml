@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/recycler_outside_layout"
+             xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent">
+
+    <flyme.support.v7.widget.MzRecyclerView
+        android:id="@id/recyclerView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical"
+        app:listSelectors="@drawable/mz_list_selector_background"/>
+
+    <com.meizu.cloud.app.widget.LoadDataView
+        android:id="@id/load_data_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="gone"/>
+</FrameLayout>

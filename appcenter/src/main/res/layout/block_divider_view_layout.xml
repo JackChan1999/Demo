@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/list_last_bg_divider_view" android:background="@color/block_divider_viewbg_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/block_divider_viewbg_height" />
+</LinearLayout>

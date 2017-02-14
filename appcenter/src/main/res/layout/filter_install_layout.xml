@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/installed_tips_layout"
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/installed_tip_height"
+        android:layout_marginLeft="@dimen/installed_tip_margin"
+        android:layout_marginRight="@dimen/installed_tip_margin"
+        android:layout_marginTop="@dimen/installed_tip_margintop">
+
+        <TextView
+            android:id="@id/installed_filter_tips"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical"
+            android:paddingLeft="24.0dip"
+            android:paddingRight="35.0dip"
+            android:singleLine="true"
+            android:text="@string/install_filtered_tip"
+            android:textColor="#ff797979"
+            android:textSize="14.0sp"/>
+
+        <ImageView
+            android:id="@id/delete_tip"
+            android:layout_width="18.0dip"
+            android:layout_height="18.0dip"
+            android:layout_gravity="right|center"
+            android:layout_marginRight="24.0dip"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_delete"/>
+    </FrameLayout>
+</RelativeLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:paddingLeft="@dimen/common_list_margin_left" android:paddingRight="@dimen/common_list_margin_right" android:layout_width="fill_parent" android:layout_height="@dimen/common_list_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/divider" android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/common_list_margin_left_extra" android:layout_marginRight="@dimen/common_list_margin_right_extra" />
+    <View android:id="@id/middle" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_below="@id/divider" android:layout_centerHorizontal="true" />
+    <include android:id="@id/app1" android:layout_width="0.0dip" android:layout_height="@dimen/common_list_item_height" android:layout_toLeftOf="@id/middle" android:layout_below="@id/divider" android:layout_alignParentLeft="true" layout="@layout/app_item_layout" />
+    <include android:id="@id/app2" android:layout_width="0.0dip" android:layout_height="@dimen/common_list_item_height" android:layout_toRightOf="@id/middle" android:layout_below="@id/divider" android:layout_alignParentRight="true" layout="@layout/app_item_layout" />
+</RelativeLayout>

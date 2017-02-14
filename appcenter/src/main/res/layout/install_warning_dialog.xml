@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="18.0sp" android:textColor="@color/theme_color" android:gravity="center" android:id="@id/download_over_wlan" android:background="@drawable/mz_list_selector_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/download_over_wlan" android:height="@dimen/mz_list_item_height_small" />
+    <ImageView android:gravity="bottom" android:id="@android:id/background" android:background="@color/common_block_title_split_color" android:layout_width="fill_parent" android:layout_height="@dimen/common_block_item_title_split_height" android:layout_marginLeft="@dimen/common_list_margin_left" android:layout_marginRight="@dimen/common_list_margin_right" />
+    <TextView android:textSize="18.0sp" android:textColor="@color/theme_color" android:gravity="center" android:id="@id/download_over_mobile" android:background="@drawable/mz_list_selector_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/download_over_mobile" android:height="@dimen/mz_list_item_height_small" />
+</LinearLayout>

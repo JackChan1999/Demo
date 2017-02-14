@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/relativeLayout"
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+    <FrameLayout
+        android:id="@id/fragment_container"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"/>
+
+    <LinearLayout
+        android:id="@id/tab_layout_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/theme_color"
+        android:orientation="vertical">
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/multi_tab_divider_height"
+            android:layout_gravity="bottom"
+            android:background="@color/multi_container_divider"/>
+    </LinearLayout>
+
+    <com.meizu.cloud.app.widget.LoadDataView
+        android:id="@id/load_data_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="gone"/>
+</RelativeLayout>

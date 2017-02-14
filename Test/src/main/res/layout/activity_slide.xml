@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <!--<TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/transparent"/>
+
+    <com.qq.demo.ui.widget.SlidingMenu
+        android:id="@id/slidingMenu"
+        android:fitsSystemWindows="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>-->
+   <!-- <com.qq.demo.ui.widget.CircleProgressBar
+        android:id="@+id/pb"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:mcCenterTextColor="#000"
+        app:mcCenterTextSize="16sp"
+        app:mcCircleBarColor="#f00"
+        app:mcCircleBarRimColor="#ff0"
+        app:mcCircleBarWidth="10dp"
+        app:mcCircleIsShowProgress="true"/>
+
+    <com.qq.demo.ui.widget.CustomButton
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        app:mcBtnDefaultText="default"
+        app:mcBtnDefaultTextColor="#f00"
+        app:mcBtnPressedText="press"
+        app:mcBtnPressedTextColor="#000"
+        app:mcBtnTextSize="16dp"/>
+
+    <com.qq.demo.ui.widget.ProgressTextButtonView
+        android:id="@+id/ptbv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp">
+
+        <com.qq.demo.ui.widget.CircularProgressButton
+            android:id="@+id/cpb"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="16dp"
+            android:textColor="#fff"
+            app:colorIndicator="#f00"
+            app:colorProgress="#ff0"
+            app:cornerRadius="30dp"
+            app:textColorComplete="#0f0"
+            app:textColorIdle="#00f"
+            app:textComplete="完成"
+            app:textIdle="安装"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+
+    </com.qq.demo.ui.widget.ProgressTextButtonView>-->
+
+    <com.qq.demo.ui.widget.RainView
+        android:id="@+id/rain"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

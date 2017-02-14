@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="mySwitch" format="reference" />
+
+    <declare-styleable name="CircleProgressBar">
+        <attr name="mcCenterTextColor" format="color"/>
+        <attr name="mcCenterTextSize" format="dimension"/>
+        <attr name="mcCircleBarColor" format="color"/>
+        <attr name="mcCircleBarMax" format="dimension"/>
+        <attr name="mcCircleBarProgress" format="dimension"/>
+        <attr name="mcCircleBarRimColor" format="color"/>
+        <attr name="mcCircleBarWidth" format="dimension"/>
+        <attr name="mcCircleIsShowProgress" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="Switch">
+        <attr name="mcTrack" format="reference"/>
+        <attr name="mcThumbOn" format="reference"/>
+        <attr name="mcThumbOff" format="reference"/>
+        <attr name="mcSwitchMinWidth" format="dimension"/>
+        <attr name="mcSwitchPadding" format="dimension"/>
+    </declare-styleable>
+
+
+
+    <declare-styleable name="CircularProgressButton">
+        <attr name="selectorIdle" format="reference"/>
+        <attr name="selectorComplete" format="reference"/>
+        <attr name="selectorError" format="reference"/>
+        <attr name="textComplete" format="string"/>
+        <attr name="textIdle" format="string"/>
+        <attr name="textError" format="string"/>
+        <attr name="textProgress" format="string"/>
+        <attr name="colorProgress" format="color"/>
+        <attr name="colorIndicator" format="color"/>
+        <attr name="colorIndicatorBackground" format="color"/>
+        <attr name="iconError" format="reference"/>
+        <attr name="iconComplete" format="reference"/>
+        <attr name="cornerRadius" format="dimension"/>
+        <attr name="paddingProgress" format="dimension"/>
+        <attr name="strokeWidth" format="dimension"/>
+        <attr name="textColorComplete" format="reference|color"/>
+        <attr name="textColorWrong" format="reference|color"/>
+        <attr name="textColorIdle" format="reference|color"/>
+        <attr name="strokeColorIdle" format="reference"/>
+        <attr name="strokeColorComplete" format="reference"/>
+        <attr name="strokeColorError" format="reference"/>
+    </declare-styleable>
+
+
+    <declare-styleable name="CustomButton">
+        <attr name="mcBtnDefaultText" format="string"/>
+        <attr name="mcBtnDefaultTextColor" format="color"/>
+        <attr name="mcBtnFocus" format="reference"/>
+        <attr name="mcBtnFocusPress" format="boolean"/>
+        <attr name="mcBtnNormal" format="boolean"/>
+        <attr name="mcBtnNormalPress" format="reference"/>
+        <attr name="mcBtnPressedText" format="string"/>
+        <attr name="mcBtnPressedTextColor" format="color"/>
+        <attr name="mcBtnTextSize" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="StretchSearchView">
+        <attr name="mcAlignRightWhenAnim" format="string"/>
+        <attr name="mcHasVoiceIcon" format="boolean"/>
+        <attr name="mcLayoutMarginLeftAdjust" format="dimension"/>
+        <attr name="mcLayoutMarginRightAdjust" format="dimension"/>
+        <attr name="mcLayoutPaddingLeft" format="dimension"/>
+        <attr name="mcLayoutPaddingRight" format="dimension"/>
+        <attr name="mcPlayStretchOnPreDraw" format="dimension"/>
+        <attr name="mcSearchLayoutInitAlpha" format="dimension"/>
+        <attr name="mcSearchTextHint" format="dimension"/>
+        <attr name="mcShortenDuration" format="float"/>
+        <attr name="mcStretchDuration" format="float"/>
+        <attr name="mcStretchTpye" format="float"/>
+        <attr name="mcStretchWidthFrom" format="dimension"/>
+        <attr name="mcStretchWidthTo" format="dimension"/>
+        <attr name="mcStretchXfrom" format="dimension"/>
+        <attr name="mcStretchXto" format="dimension"/>
+        <attr name="mcTextViewColor" format="color"/>
+        <attr name="mcTextViewContent" format="string"/>
+        <attr name="mcUseSysInterpolater" format="float"/>
+    </declare-styleable>
+
+
+    <declare-styleable name="Theme">
+        <attr name="mzAlertDialogTheme" format="reference"/>
+        <attr name="mzSearchEditClearIconStyle" format="reference"/>
+        <attr name="mzSearchEditSearchIconStyle" format="reference"/>
+        <attr name="mzSearchEditTextStyle" format="reference"/>
+        <attr name="mzSearchEditVoiceIconStyle" format="reference"/>
+        <attr name="mzThemeColor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="TipDrawable">
+        <attr name="mcTipColor" format="color"/>
+        <attr name="mcTipRadius" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="LoadingView">
+        <attr name="mcLoadingRadius" format="dimension" />
+        <attr name="mcRingWidth" format="dimension" />
+        <attr name="mcLBackground" format="color" />
+        <attr name="mcLForeground" format="color" />
+        <attr name="mcLoadingState" format="integer" />
+    </declare-styleable>
+
+    <attr name="MeizuCommon.CustomButtonStyle" format="reference"/>
+    <attr name="MeizuCommon.TipDrawableStyle" format="reference"/>
+    <attr name="MeizuCommon.LoadingViewStyle" format="reference" />
+
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="@dimen/wizard_item_width"
+              android:layout_height="wrap_content"
+              android:descendantFocusability="blocksDescendants"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="@dimen/wizard_item_width"
+        android:layout_height="@dimen/wizard_item_width"
+        android:layout_gravity="center_horizontal">
+
+        <ImageView
+            android:id="@id/icon"
+            android:layout_width="@dimen/wizard_icon_width"
+            android:layout_height="@dimen/wizard_icon_width"
+            android:layout_centerInParent="true"/>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/white_circle"
+            android:gravity="center"
+            android:padding="2.0dip">
+
+            <CheckBox
+                android:id="@id/checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="false"
+                android:gravity="center"/>
+        </FrameLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="5.0dip"
+        android:includeFontPadding="false"
+        android:singleLine="true"
+        android:textColor="@color/title_color"
+        android:textSize="@dimen/wizard_item_title_size"/>
+
+    <TextView
+        android:id="@id/desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="4.0dip"
+        android:includeFontPadding="false"
+        android:singleLine="true"
+        android:textColor="@color/desc_color"
+        android:textSize="@dimen/wizard_desc_size"/>
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/image" android:duplicateParentState="true" android:layout_width="@dimen/block_rolling_play_item_width" android:layout_height="@dimen/block_rolling_play_item_height" android:scaleType="fitXY" />
+    <TextView android:textSize="@dimen/block_big_image_tag_textsize" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@id/image_tag" android:paddingLeft="@dimen/block_big_image_tag_paddingleft" android:paddingTop="@dimen/block_big_image_tag_paddingtop" android:paddingRight="@dimen/block_big_image_tag_paddingleft" android:visibility="gone" android:layout_width="@dimen/block_big_image_tag_width" android:layout_height="@dimen/block_big_image_tag_height" android:ems="1" android:lineSpacingExtra="@dimen/block_big_image_tag_linespace" />
+    <ImageView android:id="@id/image_bg" android:clickable="true" android:layout_width="@dimen/block_rolling_play_item_width" android:layout_height="@dimen/block_rolling_play_item_height" />
+</RelativeLayout>

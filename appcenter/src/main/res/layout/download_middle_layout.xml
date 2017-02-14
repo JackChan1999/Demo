@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@id/title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:textColor="@color/title_color"
+        android:textSize="@dimen/common_list_item_title_text"/>
+
+    <TextView
+        android:id="@id/desc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/rank_txt_desc_margin_top"
+        android:singleLine="true"
+        android:textSize="@dimen/rank_txt_desc_textsize"/>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@id/description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="4.5dip"
+            android:singleLine="true"
+            android:textSize="@dimen/rank_txt_desc_textsize"/>
+    </RelativeLayout>
+</LinearLayout>

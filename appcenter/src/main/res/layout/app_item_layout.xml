@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/common_list_item_height"
+                android:background="@drawable/mz_list_selector_background"
+                android:orientation="vertical"
+                android:paddingBottom="9.0dip"
+                android:paddingTop="9.0dip"
+                android:visibility="gone">
+
+    <ImageView
+        android:id="@id/icon"
+        android:layout_width="@dimen/common_icon_width"
+        android:layout_height="@dimen/common_icon_height"
+        android:layout_marginRight="@dimen/common_block_icon_margin_right"
+        android:scaleType="fitXY"
+        android:src="@drawable/image_background"/>
+
+    <TextView
+        android:id="@id/text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@id/icon"
+        android:ellipsize="end"
+        android:includeFontPadding="false"
+        android:singleLine="true"
+        android:textColor="@color/title_color"
+        android:textSize="14.0sp"/>
+
+    <com.meizu.cloud.app.widget.BaseStarRateWidget
+        android:id="@id/star"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text"
+        android:layout_marginBottom="@dimen/common_block_star_margin_bottom"
+        android:layout_marginTop="@dimen/common_block_star_margin_top"
+        android:layout_toRightOf="@id/icon"/>
+
+    <include
+        layout="@layout/install_btn_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/star"
+        android:layout_toRightOf="@id/icon"/>
+</RelativeLayout>

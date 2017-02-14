@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewFlipper android:id="@id/rolling_message_viewswitcher" android:layout_width="fill_parent" android:layout_height="@dimen/block_rollingmsg_layout_height" android:paddingStart="@dimen/block_layout_paddingleft" android:paddingEnd="@dimen/block_layout_paddingright" />
+    <View android:background="@color/block_divider_viewbg_color" android:layout_width="fill_parent" android:layout_height="@dimen/block_divider_viewbg_height" />
+</LinearLayout>

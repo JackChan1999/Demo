@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/multi_tab_button_radius" />
+    <solid android:color="@color/label_color" />
+    <padding android:left="0.0dip" android:top="0.0dip" android:right="0.0dip" android:bottom="0.0dip" />
+    <size android:height="@dimen/multi_tab_button_height" android:width="@dimen/multi_tab_button_min_width" />
+    <stroke android:width="0.0dip" android:color="@color/transparent" />
+</shape>

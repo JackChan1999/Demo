@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent">
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <android.support.v4.view.ViewPager
+            android:id="@id/viewPager"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:overScrollMode="never"/>
+
+        <HorizontalScrollView
+            android:id="@id/scrollView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/tab_layout_bg"
+            android:fillViewport="true"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:id="@id/scroll_tab_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/pager_title_container_margin_left"
+                android:paddingRight="@dimen/pager_title_container_margin_right">
+
+                <com.meizu.cloud.base.widget.TabScrollLayout
+                    android:id="@id/tabScrollLayout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/scroll_tab_height"/>
+
+                <com.meizu.cloud.base.widget.TabScrollIndicator
+                    android:id="@id/indicator"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/scroll_tab_bottom_line_height"/>
+            </LinearLayout>
+        </HorizontalScrollView>
+    </FrameLayout>
+
+    <com.meizu.cloud.app.widget.LoadDataView
+        android:id="@id/load_data_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="gone"/>
+</FrameLayout>

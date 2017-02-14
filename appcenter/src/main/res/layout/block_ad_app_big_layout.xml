@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingEnd="@dimen/block_layout_paddingright"
+                android:paddingStart="@dimen/block_layout_paddingleft"
+                android:paddingTop="@dimen/block_app_ad_big_layout_margintop">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="@dimen/block_layout_width"
+        android:layout_height="wrap_content"
+        android:background="@drawable/mz_list_selector_background"
+        app:cardCornerRadius="@dimen/block_rolling_play_item_image_radius"
+        app:cardElevation="0.0dip">
+
+        <LinearLayout
+            android:id="@id/block_ad_app_big_view"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/block_app_ad_big_item_shap"
+            android:clickable="true"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@id/block_ad_app_big_iv"
+                    android:layout_width="@dimen/block_layout_width"
+                    android:layout_height="@dimen/block_app_ad_big_imagebg_height"
+                    android:scaleType="fitXY"/>
+
+                <TextView
+                    android:id="@id/image_tag"
+                    android:layout_width="@dimen/block_big_image_tag_width"
+                    android:layout_height="@dimen/block_big_image_tag_height"
+                    android:ems="1"
+                    android:gravity="center"
+                    android:lineSpacingExtra="@dimen/block_big_image_tag_linespace"
+                    android:paddingLeft="@dimen/block_big_image_tag_paddingleft"
+                    android:paddingRight="@dimen/block_big_image_tag_paddingleft"
+                    android:paddingTop="@dimen/block_big_image_tag_paddingtop"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/block_big_image_tag_textsize"
+                    android:textStyle="bold"
+                    android:visibility="gone"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="57.599976dip">
+
+                <ImageView
+                    android:id="@id/block_ad_app_big_icon"
+                    android:layout_width="@dimen/block_app_ad_big_icon_width"
+                    android:layout_height="@dimen/block_app_ad_big_icon_height"
+                    android:layout_centerVertical="true"
+                    android:layout_marginStart="8.0dip"
+                    android:scaleType="fitXY"/>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/block_ad_app_big_icon"
+                    android:orientation="vertical"
+                    android:paddingLeft="@dimen/block_app_ad_big_name_paddingleft"
+                    android:paddingTop="9.0dip">
+
+                    <TextView
+                        android:id="@id/ad_app_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:maxWidth="@dimen/block_app_ad_big_name_maxlength"
+                        android:singleLine="true"
+                        android:textColor="@color/block_app_name_color"
+                        android:textSize="@dimen/block_app_ad_big_name_textsize"/>
+
+                    <TextView
+                        android:id="@id/ad_app_recom"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:maxWidth="@dimen/block_app_ad_big_name_maxlength"
+                        android:paddingTop="@dimen/block_app_ad_big_recom_paddingtop"
+                        android:singleLine="true"
+                        android:textColor="@color/block_app_recom_color"
+                        android:textSize="@dimen/block_app_ad_big_recom_textsize"/>
+                </LinearLayout>
+
+                <include
+                    layout="@layout/install_btn_layout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="8.0dip"
+                    android:gravity="center"/>
+            </RelativeLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</RelativeLayout>

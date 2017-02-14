@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/app_details_contentview" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:id="@id/app_details_maininfo" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/app_details_maininfo_view" />
+        <include android:id="@id/app_details_commentsview" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/app_details_comments_view" />
+        <LinearLayout android:orientation="vertical" android:id="@id/recommend_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip">
+            <RelativeLayout android:id="@id/recommend_horizlistview_titleview" android:layout_width="fill_parent" android:layout_height="@dimen/app_info_comments_titlelayout_height" android:paddingStart="@dimen/app_info_padding_left" android:paddingEnd="@dimen/app_info_padding_right">
+                <View android:id="@id/ic_cursor_recom" android:background="@color/theme_color" android:layout_width="@dimen/common_block_title_bar_width" android:layout_height="@dimen/app_info_titlebar_layout_height" android:layout_centerVertical="true" />
+                <TextView android:textSize="@dimen/app_info_app_name_size" android:textColor="@color/block_app_name_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/appdetail_other_user_downloaded" android:singleLine="true" android:layout_toLeftOf="@id/more" android:layout_toRightOf="@id/ic_cursor_recom" android:layout_centerVertical="true" android:paddingStart="@dimen/app_info_comments_titlename_paddingleft" />
+                <TextView android:textSize="@dimen/common_block_item_more_text_size" android:textColor="@color/partition_btn_text" android:id="@id/more" android:background="?android:selectableItemBackground" android:paddingLeft="4.0dip" android:paddingTop="3.399994dip" android:paddingRight="4.0dip" android:paddingBottom="4.0dip" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="0.0dip" android:text="@string/more_item_label" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+            </RelativeLayout>
+            <com.meizu.cloud.app.widget.HorizontialListView android:id="@id/recommend_horizontial_listview" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="83.0dip" />
+        </LinearLayout>
+        <include android:id="@id/app_details_relatedview" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/app_details_related_view" />
+        <include android:id="@id/app_details_loadingmore_view" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/list_foot_progress_container" />
+    </LinearLayout>
+</LinearLayout>

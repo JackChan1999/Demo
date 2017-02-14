@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/app_star_layout" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/ItemStar0" android:layout_width="10.0dip" android:layout_height="10.0dip" android:layout_marginRight="3.0dip" android:src="@drawable/star_mini_on_selector" />
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/ItemStar1" android:layout_width="10.0dip" android:layout_height="10.0dip" android:layout_marginRight="3.0dip" android:src="@drawable/star_mini_on_selector" />
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/ItemStar2" android:layout_width="10.0dip" android:layout_height="10.0dip" android:layout_marginRight="3.0dip" android:src="@drawable/star_mini_on_selector" />
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/ItemStar3" android:layout_width="10.0dip" android:layout_height="10.0dip" android:layout_marginRight="3.0dip" android:src="@drawable/star_mini_on_selector" />
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/ItemStar4" android:layout_width="10.0dip" android:layout_height="10.0dip" android:layout_marginRight="3.0dip" android:src="@drawable/star_mini_on_selector" />
+    <TextView android:textSize="@dimen/rank_commenttimes_textsize" android:textColor="@color/desc_color" android:layout_gravity="center_vertical" android:id="@id/num" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:includeFontPadding="false" />
+</LinearLayout>
